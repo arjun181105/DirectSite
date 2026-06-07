@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Manrope:wght@500;600;700&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet" />
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { width: 1200px; height: 630px; }
+  body {
+    background: #ece1c7;
+    font-family: 'Manrope', sans-serif;
+    position: relative;
+    overflow: hidden;
+  }
+  /* subtle paper grain */
+  .grain {
+    position: absolute; inset: 0;
+    background-image: radial-gradient(rgba(29,19,10,0.05) 1px, transparent 1px);
+    background-size: 4px 4px;
+    opacity: 0.6;
+  }
+  .frame {
+    position: absolute; inset: 36px;
+    border: 1.5px solid #b8853d;
+    border-radius: 18px;
+  }
+  .pad {
+    position: relative;
+    width: 100%; height: 100%;
+    padding: 86px 96px;
+    display: flex; flex-direction: column;
+    justify-content: space-between;
+  }
+  /* top row: brand */
+  .brand { display: flex; align-items: center; gap: 14px; }
+  .brand .mark {
+    width: 30px; height: 30px; border-radius: 8px;
+    background: #b8853d;
+    display: grid; place-items: center;
+  }
+  .brand .mark span {
+    width: 12px; height: 12px; border-radius: 3px;
+    background: #ece1c7;
+  }
+  .brand .name {
+    font-weight: 700; font-size: 27px; letter-spacing: -0.01em;
+    color: #1d130a;
+  }
+  /* headline */
+  .headline {
+    font-family: 'Instrument Serif', serif;
+    font-weight: 400;
+    font-size: 92px;
+    line-height: 0.98;
+    letter-spacing: -0.02em;
+    color: #1d130a;
+    max-width: 1000px;
+  }
+  .headline .g { color: #b8853d; font-style: italic; }
+  /* bottom row */
+  .bottom {
+    display: flex; align-items: center; justify-content: space-between;
+  }
+  .tagline {
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 500; font-size: 16px;
+    text-transform: uppercase; letter-spacing: 0.22em;
+    color: #6f5836;
+  }
+  .pill {
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 500; font-size: 15px;
+    text-transform: uppercase; letter-spacing: 0.16em;
+    color: #ece1c7; background: #1d130a;
+    padding: 14px 24px; border-radius: 999px;
+  }
+</style>
+</head>
+<body>
+  <div class="grain"></div>
+  <div class="frame"></div>
+  <div class="pad">
+    <div class="brand">
+      <div class="mark"><span></span></div>
+      <div class="name">DirectSite</div>
+    </div>
+    <div class="headline">
+      Demo in <span class="g">48&nbsp;hours</span>.<br />
+      Live in <span class="g">three&nbsp;days</span>.
+    </div>
+    <div class="bottom">
+      <div class="tagline">Custom websites for local Aussie businesses</div>
+      <div class="pill">No deposit · Pay when you love it</div>
+    </div>
+  </div>
+</body>
+</html>
