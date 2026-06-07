@@ -1,0 +1,1117 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Services — DirectSite · Yes, we do everything.</title>
+<meta name="description" content="Custom websites, AI search optimisation, Google Ads, Meta Ads, lead filtering and custom AI solutions — one team, one call. DirectSite is the full digital partner for Australian small businesses." />
+<meta name="keywords" content="web design Australia, AI SEO, Google Ads management, Meta Ads Australia, lead qualification, custom AI solutions, small business digital partner" />
+<meta name="author" content="DirectSite" />
+<meta name="theme-color" content="#e9dcc0" />
+<meta name="robots" content="index, follow" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="DirectSite" />
+<meta property="og:title" content="Services — DirectSite · Yes, we do everything." />
+<meta property="og:description" content="The website is our flagship. Everything else layers on when you need it. One team, one call, the full picture for local business growth." />
+<link rel="canonical" href="https://directsite.com.au/services" />
+<link rel="icon" type="image/svg+xml" href="favicon.svg" />
+
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Manrope:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+
+<style>
+  :root {
+    --cream:     #ece1c7;
+    --cream-2:   #e4d6b6;
+    --cream-3:   #d8c69e;
+    --paper:     #f3ebd5;
+    --paper-2:   #faf3df;
+    --ink:       #1d130a;
+    --ink-2:     #2a1d10;
+    --ink-3:     #3a2918;
+    --ink-soft:  #5a4326;
+    --ink-mute:  #8a7253;
+    --bronze:    #7a4a1f;
+    --bronze-2:  #5a3414;
+    --copper:    #a06632;
+    --gold:      #b8853d;
+    --gold-2:    #d6a857;
+    --gold-3:    #efce86;
+    --line:      rgba(29,19,10,0.10);
+    --line-2:    rgba(29,19,10,0.20);
+    --line-3:    rgba(29,19,10,0.32);
+    --foil: linear-gradient(135deg, #efce86 0%, #b8853d 22%, #5a3414 38%, #d6a857 52%, #8a5a25 70%, #efce86 100%);
+    --serif:     "Instrument Serif", "Times New Roman", serif;
+    --sans:      "Manrope", system-ui, -apple-system, "Helvetica Neue", sans-serif;
+    --mono:      "JetBrains Mono", ui-monospace, monospace;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  html, body { margin: 0; padding: 0; background: var(--cream); color: var(--ink); }
+  body {
+    font-family: var(--sans);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+    text-rendering: optimizeLegibility;
+  }
+  ::selection { background: var(--ink); color: var(--cream); }
+  img, svg { display: block; max-width: 100%; }
+
+  /* =========== BACKGROUND =========== */
+  .bg-base, .bg-grid, .bg-aurora, .bg-rays, .bg-noise {
+    position: fixed; inset: 0; pointer-events: none; z-index: 0;
+  }
+  .bg-base {
+    background:
+      radial-gradient(120vmax 80vmax at 50% -10%, rgba(214,168,87,0.30), transparent 55%),
+      radial-gradient(80vmax 80vmax at 10% 110%, rgba(122,74,31,0.18), transparent 60%),
+      radial-gradient(80vmax 80vmax at 90% 90%, rgba(184,133,61,0.18), transparent 60%),
+      linear-gradient(180deg, #ece1c7 0%, #e8dbbf 50%, #ddd0b0 100%);
+  }
+  .bg-aurora {
+    background:
+      radial-gradient(50vmax 40vmax at 25% 30%, rgba(239,206,134,0.35), transparent 55%),
+      radial-gradient(40vmax 40vmax at 75% 70%, rgba(122,74,31,0.18), transparent 55%);
+    animation: aurora 22s ease-in-out infinite alternate;
+    mix-blend-mode: multiply;
+    opacity: 0.6;
+  }
+  @keyframes aurora {
+    0%   { transform: translate3d(-4%, -2%, 0) scale(1); }
+    100% { transform: translate3d(4%, 2%, 0) scale(1.08); }
+  }
+  .bg-rays {
+    background: conic-gradient(
+      from 0deg at 50% -20%,
+      transparent 0deg, rgba(214,168,87,0.10) 6deg, transparent 12deg,
+      transparent 36deg, rgba(214,168,87,0.10) 42deg, transparent 48deg,
+      transparent 72deg, rgba(214,168,87,0.10) 78deg, transparent 84deg,
+      transparent 108deg, rgba(214,168,87,0.10) 114deg, transparent 120deg,
+      transparent 144deg, rgba(214,168,87,0.10) 150deg, transparent 156deg,
+      transparent 180deg, rgba(214,168,87,0.10) 186deg, transparent 192deg,
+      transparent 216deg, rgba(214,168,87,0.10) 222deg, transparent 228deg,
+      transparent 252deg, rgba(214,168,87,0.10) 258deg, transparent 264deg,
+      transparent 288deg, rgba(214,168,87,0.10) 294deg, transparent 300deg,
+      transparent 324deg, rgba(214,168,87,0.10) 330deg, transparent 336deg,
+      transparent 360deg
+    );
+    animation: ray-rotate 90s linear infinite;
+    mix-blend-mode: overlay;
+    opacity: 0.5;
+  }
+  @keyframes ray-rotate { to { transform: rotate(360deg); } }
+  .bg-grid {
+    background-image:
+      linear-gradient(rgba(29,19,10,0.04) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(29,19,10,0.04) 1px, transparent 1px);
+    background-size: 96px 96px;
+    mask-image: radial-gradient(ellipse at center, rgba(0,0,0,1) 0%, rgba(0,0,0,0.5) 55%, rgba(0,0,0,0) 85%);
+    -webkit-mask-image: radial-gradient(ellipse at center, rgba(0,0,0,1) 0%, rgba(0,0,0,0.5) 55%, rgba(0,0,0,0) 85%);
+  }
+  .bg-noise {
+    z-index: 9000;
+    opacity: 0.12; mix-blend-mode: multiply;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='180' height='180'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%' height='100%' filter='url(%23n)' opacity='0.8'/></svg>");
+  }
+
+  main { position: relative; z-index: 1; }
+  .wrap { width: min(1280px, 92vw); margin: 0 auto; }
+
+  .foil {
+    background: var(--foil);
+    background-size: 240% 240%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: foil-shimmer 9s linear infinite;
+    filter: drop-shadow(0 1px 0 rgba(255,255,255,0.4));
+  }
+  @keyframes foil-shimmer {
+    0%   { background-position: 0% 50%; }
+    100% { background-position: 240% 50%; }
+  }
+
+  /* ========= NAV ========= */
+  nav.top {
+    position: sticky; top: 0; z-index: 100;
+    backdrop-filter: saturate(140%) blur(14px);
+    -webkit-backdrop-filter: saturate(140%) blur(14px);
+    background: rgba(236,225,199,0.75);
+    border-bottom: 1px solid var(--line);
+  }
+  nav.top .wrap {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 14px 0;
+  }
+  .brand {
+    display: inline-flex; align-items: center; gap: 12px;
+    font-weight: 600; font-size: 17px; letter-spacing: -0.01em;
+    color: var(--ink); text-decoration: none;
+  }
+  .brand .mark {
+    position: relative;
+    width: 30px; height: 30px;
+    border-radius: 8px;
+    background: var(--foil);
+    background-size: 240% 240%;
+    animation: foil-shimmer 9s linear infinite;
+    box-shadow:
+      inset 0 1px 0 rgba(255,255,255,0.6),
+      inset 0 -1px 0 rgba(90,52,20,0.6),
+      0 6px 18px rgba(122,74,31,0.30);
+  }
+  .brand .mark::after {
+    content: "";
+    position: absolute; inset: 5px;
+    background: var(--ink);
+    border-radius: 4px;
+  }
+  .brand .mark::before {
+    content: "D";
+    position: absolute; inset: 0;
+    z-index: 1;
+    display: grid; place-items: center;
+    font-family: var(--serif); font-style: italic;
+    font-size: 18px;
+    color: transparent;
+    background: var(--foil);
+    background-size: 240% 240%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    animation: foil-shimmer 9s linear infinite;
+  }
+  nav.top .links { display: flex; gap: 26px; font-size: 13px; color: var(--ink-soft); }
+  nav.top .links a { color: inherit; text-decoration: none; transition: color .25s; position: relative; }
+  nav.top .links a::after {
+    content: ""; position: absolute; left: 0; right: 0; bottom: -6px;
+    height: 1px; background: var(--foil); background-size: 200% 200%;
+    transform: scaleX(0); transform-origin: left center;
+    transition: transform .35s cubic-bezier(.2,.8,.2,1);
+    animation: foil-shimmer 9s linear infinite;
+  }
+  nav.top .links a:hover { color: var(--ink); }
+  nav.top .links a:hover::after { transform: scaleX(1); }
+  nav.top .links a.active { color: var(--ink); }
+  nav.top .links a.active::after { transform: scaleX(1); }
+  @media (max-width: 760px) { nav.top .links { display: none; } }
+
+  /* ========= BUTTONS ========= */
+  .cta-tiny {
+    background: var(--ink); color: var(--cream);
+    border: none; cursor: pointer;
+    font: 500 13px/1 var(--sans);
+    padding: 11px 16px;
+    border-radius: 999px;
+    transition: transform .25s ease, box-shadow .25s ease;
+    box-shadow: 0 4px 14px rgba(29,19,10,0.20);
+    position: relative; overflow: hidden;
+  }
+  .cta-tiny::before {
+    content: ""; position: absolute; inset: -1px;
+    border-radius: 999px; padding: 1px;
+    background: var(--foil); background-size: 240% 240%;
+    -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+    mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+    -webkit-mask-composite: xor; mask-composite: exclude;
+    opacity: 0; transition: opacity .3s;
+    animation: foil-shimmer 9s linear infinite;
+  }
+  .cta-tiny:hover { transform: translateY(-1px); }
+  .cta-tiny:hover::before { opacity: 1; }
+
+  .cta {
+    display: inline-flex; align-items: center; gap: 14px;
+    background: var(--ink); color: var(--cream);
+    border: none; cursor: pointer;
+    font: 500 16px/1 var(--sans);
+    padding: 20px 26px;
+    border-radius: 999px;
+    text-decoration: none;
+    position: relative; overflow: hidden;
+    transition: transform .25s cubic-bezier(.2,.8,.2,1), box-shadow .25s ease;
+    box-shadow:
+      0 10px 28px rgba(29,19,10,0.28),
+      inset 0 1px 0 rgba(239,206,134,0.20);
+  }
+  .cta::before {
+    content: "";
+    position: absolute; inset: 0;
+    background: linear-gradient(110deg, transparent 30%, rgba(239,206,134,0.55) 50%, transparent 70%);
+    transform: translateX(-100%);
+    transition: transform .9s cubic-bezier(.2,.8,.2,1);
+  }
+  .cta:hover::before { transform: translateX(100%); }
+  .cta:hover { transform: translateY(-2px); box-shadow: 0 18px 50px rgba(29,19,10,0.42); }
+  .cta .arrow {
+    width: 28px; height: 28px;
+    display: grid; place-items: center;
+    background: var(--foil); background-size: 240% 240%;
+    color: var(--ink); border-radius: 50%;
+    transition: transform .35s cubic-bezier(.2,.8,.2,1);
+    animation: foil-shimmer 9s linear infinite;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.45);
+  }
+  .cta:hover .arrow { transform: rotate(-45deg); }
+  .cta.big { font-size: 16px; padding: 20px 28px; }
+
+  /* ========= EYEBROW ========= */
+  .eyebrow {
+    display: inline-flex; gap: 12px; align-items: center;
+    font: 500 11px/1 var(--mono);
+    text-transform: uppercase; letter-spacing: 0.18em;
+    color: var(--ink-soft);
+    margin-bottom: 18px;
+    padding: 9px 13px 9px 11px;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    background: rgba(243,235,213,0.55);
+    backdrop-filter: blur(4px);
+  }
+  .eyebrow .dot {
+    width: 7px; height: 7px;
+    border-radius: 50%;
+    background: var(--gold-2);
+    box-shadow: 0 0 0 0 rgba(214,168,87,0.6);
+    animation: pulse 2.2s infinite ease-in-out;
+  }
+  @keyframes pulse {
+    0%,100% { box-shadow: 0 0 0 0 rgba(214,168,87,0.6); }
+    50%     { box-shadow: 0 0 0 10px rgba(214,168,87,0); }
+  }
+
+  /* ========= HERO ========= */
+  .svc-hero {
+    padding: 0;
+    position: relative;
+    height: 100svh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  .svc-hero .wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .svc-hero h1 {
+    font-family: var(--serif);
+    font-weight: 400;
+    font-size: clamp(54px, 8.5vw, 116px);
+    line-height: 0.92;
+    letter-spacing: -0.04em;
+    margin: 0 0 28px;
+    color: var(--ink);
+  }
+  .svc-hero h1 em { font-style: italic; }
+  .svc-hero h1 em.f {
+    background: var(--foil); background-size: 240% 240%;
+    -webkit-background-clip: text; background-clip: text;
+    color: transparent;
+    animation: foil-shimmer 9s linear infinite;
+  }
+  .svc-hero .sub {
+    max-width: 580px;
+    font-size: clamp(15px, 1.15vw, 19px);
+    line-height: 1.5;
+    color: var(--ink-soft);
+    margin: 0 0 36px;
+  }
+  .svc-hero .sub strong { color: var(--ink); font-weight: 600; }
+
+  /* ========= SECTION STRUCTURE ========= */
+  .svc-section { padding: 20px 0 140px; }
+  @media (max-width: 760px) { .svc-section { padding-bottom: 80px; } }
+
+  .section-head {
+    display: grid; grid-template-columns: 0.32fr 1fr; gap: 40px;
+    margin-bottom: 56px; align-items: start;
+  }
+  @media (max-width: 900px) { .section-head { grid-template-columns: 1fr; gap: 16px; margin-bottom: 40px; } }
+  .section-head .label {
+    font: 500 11px/1.4 var(--mono);
+    color: var(--ink-soft);
+    text-transform: uppercase; letter-spacing: 0.2em;
+    padding-top: 8px;
+  }
+  .section-head .label .num {
+    color: transparent;
+    background: var(--foil); background-size: 240% 240%;
+    -webkit-background-clip: text; background-clip: text;
+    margin-right: 8px;
+    animation: foil-shimmer 9s linear infinite;
+    font-weight: 600;
+  }
+  .section-head h2 {
+    margin: 0;
+    font-family: var(--serif); font-weight: 400;
+    font-size: clamp(34px, 5.6vw, 76px);
+    line-height: 0.96;
+    letter-spacing: -0.025em;
+    text-wrap: balance;
+    color: var(--ink);
+  }
+  .section-head h2 em { font-style: italic; }
+  .section-head h2 em.f {
+    background: var(--foil); background-size: 240% 240%;
+    -webkit-background-clip: text; background-clip: text;
+    color: transparent;
+    animation: foil-shimmer 9s linear infinite;
+  }
+  .section-head .lead {
+    margin-top: 22px;
+    font-size: clamp(16px, 1.15vw, 19px);
+    line-height: 1.5;
+    color: var(--ink-soft);
+    max-width: 720px;
+  }
+
+  /* ========= SERVICE GRID ========= */
+  .svc-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1px;
+    border: 1px solid var(--line-2);
+    border-radius: 22px;
+    overflow: hidden;
+    background: var(--line);
+    box-shadow: 0 20px 60px rgba(58,41,24,0.12);
+  }
+  @media (max-width: 960px) { .svc-grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 540px) { .svc-grid { grid-template-columns: 1fr; } }
+
+  .svc-card {
+    background: linear-gradient(180deg, rgba(243,235,213,0.4), transparent), var(--paper-2);
+    padding: 40px 32px 36px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    position: relative;
+    transition: background .3s ease, transform .3s cubic-bezier(.2,.8,.2,1), box-shadow .3s ease;
+    min-height: 280px;
+  }
+  .svc-card:hover {
+    background: linear-gradient(180deg, rgba(243,235,213,0.6), transparent), var(--paper);
+    transform: translateY(-2px);
+    box-shadow: 0 12px 36px rgba(58,41,24,0.12);
+  }
+
+  .svc-card::before {
+    content: "";
+    position: absolute; top: 0; left: 0; right: 0; height: 2px;
+    background: var(--foil); background-size: 240% 240%;
+    transform: scaleX(0); transform-origin: left center;
+    animation: foil-shimmer 9s linear infinite;
+    animation-play-state: running;
+    transition: transform .5s cubic-bezier(.6,.2,.2,1);
+  }
+  .svc-card.in::before { transform: scaleX(1); }
+  .svc-card:nth-child(2)::before { transition-delay: .10s; }
+  .svc-card:nth-child(3)::before { transition-delay: .20s; }
+  .svc-card:nth-child(4)::before { transition-delay: .08s; }
+  .svc-card:nth-child(5)::before { transition-delay: .18s; }
+  .svc-card:nth-child(6)::before { transition-delay: .28s; }
+
+  .svc-card.flagship {
+    background:
+      radial-gradient(circle at 90% 0%, rgba(214,168,87,0.18), transparent 55%),
+      linear-gradient(180deg, rgba(243,235,213,0.5), transparent),
+      var(--paper-2);
+  }
+  .svc-card.flagship:hover {
+    background:
+      radial-gradient(circle at 90% 0%, rgba(214,168,87,0.28), transparent 55%),
+      linear-gradient(180deg, rgba(243,235,213,0.6), transparent),
+      var(--paper);
+  }
+
+  .svc-badge {
+    display: inline-flex; align-items: center; gap: 5px;
+    font: 600 9px/1 var(--mono);
+    text-transform: uppercase; letter-spacing: 0.18em;
+    padding: 5px 10px;
+    border-radius: 999px;
+    background: var(--foil); background-size: 240% 240%;
+    animation: foil-shimmer 9s linear infinite;
+    color: var(--ink);
+    width: fit-content;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.5), 0 2px 8px rgba(122,74,31,0.18);
+    margin-bottom: 2px;
+  }
+
+  .svc-icon {
+    width: 48px; height: 48px;
+    display: grid; place-items: center;
+    border-radius: 14px;
+    background: rgba(243,235,213,0.8);
+    border: 1px solid var(--line-2);
+    color: var(--bronze);
+    flex-shrink: 0;
+    box-shadow: 0 2px 8px rgba(58,41,24,0.06);
+    transition: border-color .3s, box-shadow .3s;
+  }
+  .svc-card:hover .svc-icon {
+    border-color: var(--line-3);
+    box-shadow: 0 4px 12px rgba(58,41,24,0.10);
+  }
+  .svc-card.flagship .svc-icon { color: var(--gold); }
+
+  .svc-card-title {
+    font-family: var(--serif);
+    font-weight: 400;
+    font-size: clamp(22px, 2vw, 30px);
+    line-height: 1.06;
+    letter-spacing: -0.02em;
+    color: var(--ink);
+    margin: 0;
+  }
+
+  .svc-card-desc {
+    font-size: 15px;
+    line-height: 1.55;
+    color: var(--ink-soft);
+    margin: 0;
+    flex: 1;
+  }
+
+  .svc-card-link {
+    display: inline-flex; align-items: center; gap: 7px;
+    font: 600 12px/1 var(--sans);
+    color: var(--bronze);
+    text-decoration: none;
+    letter-spacing: 0.02em;
+    margin-top: auto;
+    padding-top: 8px;
+    transition: gap .25s cubic-bezier(.2,.8,.2,1), color .2s;
+  }
+  .svc-card-link:hover { color: var(--ink); gap: 12px; }
+
+  /* ========= STATS ROW ========= */
+  .stats-row {
+    display: grid; grid-template-columns: repeat(3, 1fr);
+    gap: 0;
+    border: 1px solid var(--line-2);
+    border-radius: 22px;
+    overflow: hidden;
+    margin-top: 72px;
+    box-shadow: 0 14px 40px rgba(58,41,24,0.10);
+    background: var(--paper-2);
+  }
+  @media (max-width: 600px) { .stats-row { grid-template-columns: 1fr; } }
+  .stat-cell {
+    padding: 40px 32px;
+    border-right: 1px solid var(--line);
+    background: linear-gradient(180deg, rgba(243,235,213,0.4), transparent), var(--paper-2);
+  }
+  .stat-cell:last-child { border-right: none; }
+  @media (max-width: 600px) {
+    .stat-cell { border-right: none; border-bottom: 1px solid var(--line); }
+    .stat-cell:last-child { border-bottom: none; }
+  }
+  .stat-val {
+    font-family: var(--serif); font-style: italic;
+    font-size: clamp(52px, 6.5vw, 80px);
+    line-height: 0.9; letter-spacing: -0.03em;
+    background: var(--foil); background-size: 240% 240%;
+    -webkit-background-clip: text; background-clip: text;
+    color: transparent;
+    animation: foil-shimmer 9s linear infinite;
+    margin-bottom: 12px;
+  }
+  .stat-lbl {
+    font: 500 11px/1.4 var(--mono);
+    color: var(--ink-soft);
+    text-transform: uppercase; letter-spacing: 0.18em;
+  }
+
+  /* ========= BAND ========= */
+  .svc-band {
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+    background: linear-gradient(180deg, var(--paper) 0%, var(--paper-2) 100%);
+    padding: 110px 0;
+    position: relative; z-index: 1;
+  }
+  .svc-band-inner {
+    display: grid; grid-template-columns: 1fr auto;
+    gap: 64px; align-items: center;
+  }
+  @media (max-width: 840px) { .svc-band-inner { grid-template-columns: 1fr; gap: 32px; } }
+  .svc-band-quote {
+    font-family: var(--serif); font-weight: 400;
+    font-size: clamp(28px, 3.8vw, 56px);
+    line-height: 1.08; letter-spacing: -0.03em;
+    color: var(--ink); margin: 0 0 20px;
+  }
+  .svc-band-quote em { font-style: italic; }
+  .svc-band-quote em.f {
+    background: var(--foil); background-size: 240% 240%;
+    -webkit-background-clip: text; background-clip: text;
+    color: transparent; animation: foil-shimmer 9s linear infinite;
+  }
+  .svc-band-sub {
+    font-size: 15px; line-height: 1.55;
+    color: var(--ink-soft); max-width: 520px;
+  }
+
+  /* ========= FINAL CTA ========= */
+  .final {
+    padding: 140px 0 110px;
+    text-align: center;
+    position: relative; overflow: hidden;
+  }
+  .final::before {
+    content: "";
+    position: absolute; left: 50%; top: 50%;
+    width: 90vmin; height: 90vmin;
+    transform: translate(-50%, -50%);
+    background: radial-gradient(circle, rgba(214,168,87,0.30), transparent 60%);
+    pointer-events: none;
+  }
+  .final h2 {
+    font-family: var(--serif); font-weight: 400;
+    font-size: clamp(48px, 9vw, 128px);
+    line-height: 0.92; letter-spacing: -0.04em;
+    margin: 0 auto 32px; max-width: 14ch;
+    text-wrap: balance;
+    position: relative; color: var(--ink);
+  }
+  .final h2 em { font-style: italic; }
+  .final h2 em.f {
+    background: var(--foil); background-size: 240% 240%;
+    -webkit-background-clip: text; background-clip: text;
+    color: transparent; animation: foil-shimmer 9s linear infinite;
+  }
+  .final p {
+    max-width: 540px; margin: 0 auto 40px;
+    font-size: 18px; line-height: 1.5;
+    color: var(--ink-soft); position: relative;
+  }
+  .final .meta {
+    margin-top: 32px;
+    font: 500 11px/1.4 var(--mono);
+    color: var(--ink-soft);
+    text-transform: uppercase; letter-spacing: 0.2em;
+    position: relative;
+  }
+  .final-orbit {
+    position: absolute; left: 50%; top: 50%;
+    width: 70vmin; height: 70vmin;
+    transform: translate(-50%, -50%);
+    pointer-events: none; z-index: 0;
+    transform-style: preserve-3d;
+  }
+  .final-orbit .o {
+    position: absolute; inset: 0;
+    border-radius: 50%;
+    border: 1px solid rgba(122,74,31,0.20);
+    transform-style: preserve-3d;
+  }
+  .final-orbit .o.r1 { animation: orbit-a 24s linear infinite; }
+  .final-orbit .o.r2 { inset: 14%; animation: orbit-b 18s linear infinite; border-style: dashed; }
+  .final-orbit .o.r3 { inset: 28%; animation: orbit-c 14s linear infinite; }
+  .final-orbit .o::before {
+    content: "";
+    position: absolute; top: -5px; left: 50%;
+    width: 10px; height: 10px; margin-left: -5px;
+    background: var(--foil); background-size: 240% 240%;
+    animation: foil-shimmer 9s linear infinite;
+    border-radius: 50%;
+    box-shadow: 0 0 14px 3px rgba(214,168,87,0.7);
+  }
+  @keyframes orbit-a { from { transform: rotateX(72deg) rotateZ(0); } to { transform: rotateX(72deg) rotateZ(360deg); } }
+  @keyframes orbit-b { from { transform: rotateX(68deg) rotateY(20deg) rotateZ(0); } to { transform: rotateX(68deg) rotateY(20deg) rotateZ(-360deg); } }
+  @keyframes orbit-c { from { transform: rotateX(60deg) rotateZ(0); } to { transform: rotateX(60deg) rotateZ(360deg); } }
+
+  /* ========= FOOTER ========= */
+  footer {
+    border-top: 1px solid var(--line);
+    padding: 48px 0 32px;
+    background: linear-gradient(180deg, var(--paper) 0%, var(--cream-2) 100%);
+  }
+  footer .row { display: grid; grid-template-columns: 1.4fr 1fr 1fr 1fr; gap: 32px; }
+  @media (max-width: 800px) { footer .row { grid-template-columns: 1fr 1fr; } }
+  footer h5 {
+    margin: 0 0 14px;
+    font: 500 11px/1 var(--mono);
+    text-transform: uppercase; letter-spacing: 0.2em;
+    color: var(--ink-soft);
+  }
+  footer ul { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 10px; }
+  footer a { color: var(--ink); text-decoration: none; font-size: 14px; }
+  footer a:hover { color: var(--bronze-2); }
+  footer .colophon {
+    margin-top: 40px;
+    border-top: 1px solid var(--line);
+    padding-top: 22px;
+    display: flex; justify-content: space-between; align-items: center;
+    font: 500 11px/1.4 var(--mono);
+    text-transform: uppercase; letter-spacing: 0.16em;
+    color: var(--ink-soft);
+    flex-wrap: wrap; gap: 16px;
+  }
+
+  /* ========= MODAL ========= */
+  .modal-bg {
+    position: fixed; inset: 0;
+    background: rgba(29,19,10,0.55);
+    backdrop-filter: blur(14px);
+    z-index: 200;
+    display: none; align-items: center; justify-content: center;
+    padding: 20px; opacity: 0; transition: opacity .3s ease;
+  }
+  .modal-bg.on { display: flex; opacity: 1; }
+  .modal {
+    background: linear-gradient(180deg, var(--paper-2), var(--paper));
+    border: 1px solid var(--line-2);
+    border-radius: 22px; width: min(520px, 100%); padding: 36px;
+    position: relative; transform: translateY(20px);
+    transition: transform .35s cubic-bezier(.2,.8,.2,1);
+    box-shadow: 0 30px 80px rgba(29,19,10,0.4);
+  }
+  .modal::before {
+    content: ""; position: absolute; inset: -1px;
+    border-radius: 22px; padding: 1px;
+    background: var(--foil); background-size: 240% 240%;
+    -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+    mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+    -webkit-mask-composite: xor; mask-composite: exclude;
+    animation: foil-shimmer 9s linear infinite;
+    opacity: 0.5; pointer-events: none;
+  }
+  .modal-bg.on .modal { transform: translateY(0); }
+  .modal .x {
+    position: absolute; top: 16px; right: 16px;
+    width: 34px; height: 34px; border-radius: 50%;
+    border: 1px solid var(--line-2); background: rgba(255,253,247,0.5);
+    color: var(--ink); font-family: var(--serif); font-size: 20px; cursor: pointer;
+    display: grid; place-items: center;
+  }
+  .modal .label {
+    font: 600 10px/1 var(--mono); color: transparent;
+    background: var(--foil); background-size: 240% 240%;
+    -webkit-background-clip: text; background-clip: text;
+    text-transform: uppercase; letter-spacing: 0.2em; margin-bottom: 14px;
+    animation: foil-shimmer 9s linear infinite;
+  }
+  .modal h3 {
+    margin: 0 0 12px; font-family: var(--serif); font-weight: 400;
+    font-size: 34px; line-height: 1; letter-spacing: -0.02em; color: var(--ink);
+  }
+  .modal h3 em { font-style: italic; }
+  .modal h3 em.f {
+    background: var(--foil); background-size: 240% 240%;
+    -webkit-background-clip: text; background-clip: text;
+    color: transparent; animation: foil-shimmer 9s linear infinite;
+  }
+  .modal .sub { color: var(--ink-soft); font-size: 14px; line-height: 1.55; margin: 0 0 22px; }
+  .modal .field { display: flex; flex-direction: column; gap: 6px; margin-bottom: 14px; }
+  .modal .field label { font: 500 10px/1 var(--mono); text-transform: uppercase; letter-spacing: 0.16em; color: var(--ink-soft); }
+  .modal .field input, .modal .field select {
+    background: transparent; border: none;
+    border-bottom: 1px solid var(--line-2);
+    color: var(--ink); font: 400 16px/1 var(--sans); padding: 10px 0; outline: none;
+  }
+  .modal .field input:focus, .modal .field select:focus { border-bottom-color: var(--bronze); }
+  .modal .field select option { background: var(--paper); color: var(--ink); }
+  .modal .submit {
+    width: 100%; margin-top: 10px; background: var(--ink); color: var(--cream);
+    border: none; font: 500 16px/1 var(--sans); padding: 18px;
+    border-radius: 999px; cursor: pointer;
+    transition: transform .2s, box-shadow .2s; position: relative; overflow: hidden;
+  }
+  .modal .submit::before {
+    content: ""; position: absolute; inset: 0;
+    background: linear-gradient(110deg, transparent 30%, rgba(239,206,134,0.55) 50%, transparent 70%);
+    transform: translateX(-100%); transition: transform .9s cubic-bezier(.2,.8,.2,1);
+  }
+  .modal .submit:hover::before { transform: translateX(100%); }
+  .modal .submit:hover { transform: translateY(-1px); box-shadow: 0 14px 30px rgba(29,19,10,0.35); }
+  .modal .success { text-align: center; padding: 12px 0; }
+  .modal .success .check {
+    width: 64px; height: 64px; border-radius: 50%;
+    background: var(--foil); background-size: 240% 240%;
+    color: var(--ink); display: grid; place-items: center;
+    margin: 0 auto 16px; font-family: var(--serif); font-size: 32px;
+    animation: foil-shimmer 9s linear infinite;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.5), 0 14px 36px rgba(214,168,87,0.45);
+  }
+
+  .reveal { opacity: 0; transform: translateY(20px); transition: opacity .9s ease, transform .9s cubic-bezier(.2,.8,.2,1); }
+  .reveal.in { opacity: 1; transform: translateY(0); }
+  .reveal.d1 { transition-delay: .08s; }
+  .reveal.d2 { transition-delay: .16s; }
+  .reveal.d3 { transition-delay: .24s; }
+  .reveal.d4 { transition-delay: .32s; }
+
+  /* ========= MOBILE OVERRIDES ========= */
+  @media (max-width: 760px) {
+    nav.top .links { display: flex !important; gap: 18px; font-size: 12px; }
+    .cta-tiny { display: none; }
+    .brand { font-size: 16px !important; }
+
+    .svc-hero { height: auto; padding: 48px 0 56px; text-align: left; justify-content: flex-start; }
+    .svc-hero .wrap { align-items: flex-start; }
+
+    .svc-grid { grid-template-columns: repeat(2, 1fr) !important; gap: 14px; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+  }
+</style>
+</head>
+<body>
+
+<div class="bg-base"></div>
+<div class="bg-rays"></div>
+<div class="bg-aurora"></div>
+<div class="bg-grid"></div>
+<div class="bg-noise"></div>
+
+<nav class="top">
+  <div class="wrap">
+    <a href="/" class="brand">
+      <span class="mark"></span>
+      DirectSite
+    </a>
+    <div class="links">
+      <a href="/#offer">Offer</a>
+      <a href="/services" class="active">Services</a>
+      <a href="/#faq">FAQ</a>
+    </div>
+    <button class="cta-tiny" data-book>Book a Free Call &#8594;</button>
+  </div>
+</nav>
+
+<main>
+
+  <!-- HERO -->
+  <section class="svc-hero">
+    <div class="wrap">
+      <span class="eyebrow reveal">
+        <span class="dot"></span>
+        <span>Full-service digital · Made in Australia</span>
+      </span>
+      <h1 class="reveal d1">Yes, we do<br/><em class="f">everything.</em></h1>
+      <p class="sub reveal d2">The website is our flagship. <strong>Everything else layers on when you need it.</strong> We're a full digital partner for Australian small businesses — not just a web design shop.</p>
+      <div class="reveal d3">
+        <button class="cta big" data-book>
+          Book a Free Strategy Call
+          <span class="arrow" aria-hidden="true">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+          </span>
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- SERVICES -->
+  <section class="svc-section">
+    <div class="wrap">
+
+      <div class="section-head">
+        <div class="label reveal"><span class="num">01</span>What we do</div>
+        <div>
+          <h2 class="reveal d1">Most agencies do <em>one thing</em>. We do <em class="f">all of them</em> — and they work together.</h2>
+          <p class="lead reveal d2">One team, one call, one invoice. Whether you need a website, ads, AI-powered leads, or the whole stack — we handle it end to end.</p>
+        </div>
+      </div>
+
+      <div class="svc-grid">
+
+        <!-- 1: Custom Websites — FLAGSHIP -->
+        <div class="svc-card flagship reveal">
+          <div class="svc-badge">&#9733;&nbsp; Flagship</div>
+          <div class="svc-icon">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+              <rect x="2" y="4" width="20" height="14" rx="2"/>
+              <line x1="2" y1="8" x2="22" y2="8"/>
+              <circle cx="5.5" cy="6" r=".75" fill="currentColor" stroke="none"/>
+              <circle cx="8.2" cy="6" r=".75" fill="currentColor" stroke="none"/>
+              <circle cx="10.9" cy="6" r=".75" fill="currentColor" stroke="none"/>
+              <line x1="8" y1="18" x2="16" y2="18" stroke-width="1"/>
+              <line x1="12" y1="18" x2="12" y2="20" stroke-width="1"/>
+            </svg>
+          </div>
+          <h3 class="svc-card-title">Custom Websites</h3>
+          <p class="svc-card-desc">Real, working demo in 48 hours. No deposit. Pay only when you love it — or walk away owing nothing.</p>
+          <a href="/" class="svc-card-link">
+            See how it works
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+          </a>
+        </div>
+
+        <!-- 2: AI Search Optimisation -->
+        <div class="svc-card reveal d1">
+          <div class="svc-icon">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="10.5" cy="10.5" r="6.5"/>
+              <line x1="15.5" y1="15.5" x2="21" y2="21"/>
+              <path d="M10.5 4.5v2M10.5 14.5v2M4.5 10.5h2M14.5 10.5h2"/>
+              <circle cx="19.5" cy="5.5" r="1" fill="currentColor" stroke="none"/>
+            </svg>
+          </div>
+          <h3 class="svc-card-title">AI Search Optimisation</h3>
+          <p class="svc-card-desc">Get found on ChatGPT, Gemini, and Perplexity — not just Google. The next wave of local search, covered from day one.</p>
+        </div>
+
+        <!-- 3: Google Ads -->
+        <div class="svc-card reveal d2">
+          <div class="svc-icon">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round">
+              <circle cx="12" cy="12" r="9.5"/>
+              <circle cx="12" cy="12" r="5.5"/>
+              <circle cx="12" cy="12" r="2"/>
+            </svg>
+          </div>
+          <h3 class="svc-card-title">Google Ads</h3>
+          <p class="svc-card-desc">Targeted local campaigns built for ROI — not impressions. We run the ads, track the calls, and prove the return.</p>
+        </div>
+
+        <!-- 4: Meta Ads -->
+        <div class="svc-card reveal">
+          <div class="svc-icon">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M3 11v1a2 2 0 002 2h1.5l3.5 3V7l-3.5 3H5a2 2 0 00-2 2z"/>
+              <path d="M17.5 7.5s2 1.2 2 4.5-2 4.5-2 4.5"/>
+              <path d="M19.8 5s3 2.2 3 7-3 7-3 7"/>
+            </svg>
+          </div>
+          <h3 class="svc-card-title">Meta Ads</h3>
+          <p class="svc-card-desc">Facebook and Instagram ads dialled for local reach and qualified leads — not vanity metrics.</p>
+        </div>
+
+        <!-- 5: Lead Filtering -->
+        <div class="svc-card reveal d1">
+          <div class="svc-icon">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M22 3H2l8 9.46V19l4 2V12.46z"/>
+              <circle cx="18" cy="18" r="4" stroke-width="1.3"/>
+              <path d="M16.8 18l.9.9 1.8-1.8" stroke-width="1.3"/>
+            </svg>
+          </div>
+          <h3 class="svc-card-title">Lead Filtering &amp; Qualification</h3>
+          <p class="svc-card-desc">AI-powered lead scoring so you only talk to real buyers. Stop wasting hours on tyre-kickers.</p>
+        </div>
+
+        <!-- 6: Custom AI -->
+        <div class="svc-card reveal d2">
+          <div class="svc-icon">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+              <rect x="6" y="6" width="12" height="12" rx="1.5"/>
+              <path d="M9 6V3.5M12 6V3.5M15 6V3.5"/>
+              <path d="M9 20.5V18M12 20.5V18M15 20.5V18"/>
+              <path d="M6 9H3.5M6 12H3.5M6 15H3.5"/>
+              <path d="M20.5 9H18M20.5 12H18M20.5 15H18"/>
+              <circle cx="12" cy="12" r="1.5" fill="currentColor" stroke="none"/>
+            </svg>
+          </div>
+          <h3 class="svc-card-title">Custom AI Solutions</h3>
+          <p class="svc-card-desc">Automations, AI receptionists, and workflows built around your business. Save hours every week from day one.</p>
+        </div>
+
+      </div>
+
+      <!-- Stats -->
+      <div class="stats-row">
+        <div class="stat-cell reveal">
+          <div class="stat-val">48h</div>
+          <div class="stat-lbl">Demo turnaround</div>
+        </div>
+        <div class="stat-cell reveal d1">
+          <div class="stat-val">6</div>
+          <div class="stat-lbl">Services, one team</div>
+        </div>
+        <div class="stat-cell reveal d2">
+          <div class="stat-val">$0</div>
+          <div class="stat-lbl">Risk to you</div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- BAND -->
+  <section class="svc-band">
+    <div class="wrap">
+      <div class="svc-band-inner">
+        <div>
+          <p class="svc-band-quote reveal">Your website feeds your ads.<br/>Your ads feed your <em class="f">leads</em>.<br/>Your leads get <em>scored by AI</em>.<br/>One team builds <em class="f">all of it</em>.</p>
+          <p class="svc-band-sub reveal d1">Most agencies hand you one piece of the puzzle. We put the whole board together — then make every piece work harder because they're connected.</p>
+        </div>
+        <div class="reveal d2">
+          <button class="cta big" data-book>
+            Tell Us What You Need
+            <span class="arrow">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+            </span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FINAL CTA -->
+  <section class="final">
+    <div class="final-orbit">
+      <div class="o r1"></div>
+      <div class="o r2"></div>
+      <div class="o r3"></div>
+    </div>
+    <div class="wrap">
+      <div style="font: 500 11px/1 var(--mono); text-transform: uppercase; letter-spacing: 0.22em; margin-bottom: 24px; position: relative;" class="reveal">
+        <span style="color: var(--ink-soft);">[ One call · </span><span class="foil" style="font-weight: 600">Everything handled</span><span style="color: var(--ink-soft);"> ]</span>
+      </div>
+      <h2 class="reveal d1">Tell us what<br/>you <em class="f">need</em>.</h2>
+      <p class="reveal d2">Whether you're starting with a website or you want the whole stack — book a free strategy call and we'll map out exactly what makes sense for your business.</p>
+      <button class="cta big reveal d3" data-book style="font-size: 19px; padding: 26px 36px;">
+        Book a Free Strategy Call
+        <span class="arrow"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></span>
+      </button>
+      <div class="meta reveal d4">No deposit · Obligation-free · Australia-wide</div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="wrap">
+      <div class="row">
+        <div>
+          <a href="/" class="brand">
+            <span class="mark"></span>
+            DirectSite
+          </a>
+          <p style="color: var(--ink-soft); font-size: 14px; line-height: 1.5; margin: 18px 0 0; max-width: 320px;">
+            Custom websites for Aussie small businesses. Built in 48 hours. Live in three days. Paid only when you love it.
+          </p>
+        </div>
+        <div>
+          <h5>Pages</h5>
+          <ul>
+            <li><a href="/#offer">Offer</a></li>
+            <li><a href="/services">Services</a></li>
+            <li><a href="/#faq">FAQ</a></li>
+          </ul>
+        </div>
+        <div>
+          <h5>Contact</h5>
+          <ul>
+            <li><a href="#" data-book>Book a call</a></li>
+            <li><a href="https://cal.com/arjun-sharma-l5xsle/directsite-strategy-call" target="_blank">Schedule a call</a></li>
+          </ul>
+        </div>
+        <div>
+          <h5>Service area</h5>
+          <ul>
+            <li>Sydney · Melbourne</li>
+            <li>Brisbane · Perth</li>
+            <li>Australia-wide remote</li>
+          </ul>
+        </div>
+      </div>
+      <div class="colophon">
+        <span>&#169; 2026 DirectSite</span>
+        <span>Made in Australia</span>
+      </div>
+    </div>
+  </footer>
+
+</main>
+
+<!-- BOOKING MODAL -->
+<div class="modal-bg" id="modal">
+  <div class="modal">
+    <button class="x" id="modal-x" aria-label="Close">&#215;</button>
+    <div id="modal-form">
+      <div class="label">Free strategy call · No deposit</div>
+      <h3>Tell us what you <em class="f">need</em>.</h3>
+      <p class="sub">Website, ads, AI, or all of the above — drop your details and we'll map out exactly what makes sense for your business.</p>
+      <form id="bookform" onsubmit="event.preventDefault(); window.__submit();">
+        <div class="field">
+          <label>Your name</label>
+          <input type="text" required placeholder="Mel B." />
+        </div>
+        <div class="field">
+          <label>Business name</label>
+          <input type="text" required placeholder="Mel's Plumbing &amp; Gas" />
+        </div>
+        <div class="field">
+          <label>Email or phone</label>
+          <input type="text" required placeholder="mel@example.com.au" />
+        </div>
+        <div class="field">
+          <label>What are you looking for?</label>
+          <select required>
+            <option value="">Choose one&#8230;</option>
+            <option>Custom website (48-hour demo)</option>
+            <option>AI Search Optimisation</option>
+            <option>Google Ads management</option>
+            <option>Meta Ads (Facebook &amp; Instagram)</option>
+            <option>Lead filtering &amp; qualification</option>
+            <option>Custom AI solution</option>
+            <option>The whole stack &#8212; let's talk</option>
+          </select>
+        </div>
+        <button class="submit" type="submit">Book my free strategy call &#8594;</button>
+        <p style="font: 500 10px/1.4 var(--mono); color: var(--ink-mute); text-transform: uppercase; letter-spacing: 0.18em; margin: 14px 0 0; text-align: center;">No deposit · Obligation-free · Australia-wide</p>
+      </form>
+    </div>
+    <div id="modal-done" style="display:none">
+      <div class="success">
+        <div class="check">&#10003;</div>
+        <h3 style="margin-bottom: 10px;">You're <em class="f">in</em>.</h3>
+        <p class="sub">Nice one — now book a quick call so we can map out your plan together.</p>
+        <a href="https://cal.com/arjun-sharma-l5xsle/directsite-strategy-call" target="_blank" class="cta big" style="margin-top: 18px; display: inline-flex; text-decoration: none;">
+          Book Your Free Strategy Call
+          <span class="arrow" aria-hidden="true">&#8594;</span>
+        </a>
+        <p style="font: 500 10px/1.4 var(--mono); color: var(--ink-mute); text-transform: uppercase; letter-spacing: 0.18em; margin: 14px 0 0; text-align: center;">20 min · Google Meet · No obligation</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  var io = new IntersectionObserver(function(entries) {
+    entries.forEach(function(en) {
+      if (en.isIntersecting) {
+        en.target.classList.add('in');
+        io.unobserve(en.target);
+      }
+    });
+  }, { threshold: 0.12, rootMargin: '0px 0px -6% 0px' });
+  document.querySelectorAll('.reveal, .svc-card').forEach(function(el) { io.observe(el); });
+
+  var modal = document.getElementById('modal');
+  var modalX = document.getElementById('modal-x');
+  var formDiv = document.getElementById('modal-form');
+  var doneDiv = document.getElementById('modal-done');
+  function openModal() {
+    formDiv.style.display = 'block';
+    doneDiv.style.display = 'none';
+    modal.classList.add('on');
+    document.body.style.overflow = 'hidden';
+  }
+  function closeModal() {
+    modal.classList.remove('on');
+    document.body.style.overflow = '';
+  }
+  modalX.addEventListener('click', closeModal);
+  modal.addEventListener('click', function(e) { if (e.target === modal) closeModal(); });
+  document.addEventListener('keydown', function(e) { if (e.key === 'Escape') closeModal(); });
+  document.querySelectorAll('[data-book]').forEach(function(el) {
+    el.addEventListener('click', function(e) { e.preventDefault(); openModal(); });
+  });
+  window.__submit = function() {
+    formDiv.style.display = 'none';
+    doneDiv.style.display = 'block';
+  };
+</script>
+
+</body>
+</html>

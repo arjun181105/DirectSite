@@ -1,0 +1,2643 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>DirectSite — A custom website in your hands within three days.</title>
+<meta name="description" content="DirectSite builds custom websites for Australian small businesses. Submit a form, get a real demo in 48 hours, request changes, and only pay once you love it. Live in three days." />
+<meta name="keywords" content="web design Australia, small business website, custom website design, 48 hour website demo, website redesign Australia, no-risk web design, DirectSite, premium web design" />
+<meta name="author" content="DirectSite" />
+<meta name="theme-color" content="#e9dcc0" />
+<meta name="robots" content="index, follow" />
+<meta name="geo.region" content="AU" />
+<meta name="geo.placename" content="Australia" />
+
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="DirectSite" />
+<meta property="og:title" content="DirectSite — Demo in 48 hours. Live in three days." />
+<meta property="og:description" content="A custom website for your Australian small business. Real demo within 48 hours, request changes, only pay when you love it." />
+<meta property="og:locale" content="en_AU" />
+<meta property="og:url" content="https://directsite.com.au/" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="DirectSite — Demo in 48 hours. Live in three days." />
+<meta name="twitter:description" content="Custom websites for Australian small businesses. Pay only when you love it." />
+<link rel="canonical" href="https://directsite.com.au/" />
+<link rel="icon" type="image/svg+xml" href="favicon.svg" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": "DirectSite",
+  "description": "We design and develop custom websites for Australian small businesses. Submit a form, receive a demo within 48 hours, request any changes, then pay only once you love it and we take it live — typically in three days.",
+  "areaServed": { "@type": "Country", "name": "Australia" },
+  "serviceType": "Custom Website Design & Development",
+  "priceRange": "Custom",
+  "url": "https://directsite.com.au/",
+  "potentialAction": {
+    "@type": "ReserveAction",
+    "name": "Book a Free Call to See Your Website",
+    "target": "https://directsite.com.au/#book"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    { "@type": "Question", "name": "How fast can you build a website?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Once you submit the form, we deliver a real, working demo within 48 hours. After your feedback and any revisions, we typically go live in three days." }},
+    { "@type": "Question", "name": "What if I want changes to the demo?",
+      "acceptedAnswer": { "@type": "Answer", "text": "You request changes and we update the demo before you pay anything. You only pay once it is exactly what you want." }},
+    { "@type": "Question", "name": "How much does the website cost?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Pricing is custom and tailored to your business and scope. We agree the price transparently before you pay." }}
+  ]
+}
+</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Manrope:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+
+<style>
+  :root {
+    --cream:     #ece1c7;
+    --cream-2:   #e4d6b6;
+    --cream-3:   #d8c69e;
+    --paper:     #f3ebd5;
+    --paper-2:   #faf3df;
+
+    --ink:       #1d130a;
+    --ink-2:     #2a1d10;
+    --ink-3:     #3a2918;
+    --ink-soft:  #5a4326;
+    --ink-mute:  #8a7253;
+
+    --bronze:    #7a4a1f;
+    --bronze-2:  #5a3414;
+    --copper:    #a06632;
+
+    --gold:      #b8853d;
+    --gold-2:    #d6a857;
+    --gold-3:    #efce86;
+
+    --line:      rgba(29,19,10,0.10);
+    --line-2:    rgba(29,19,10,0.20);
+    --line-3:    rgba(29,19,10,0.32);
+
+    --foil: linear-gradient(135deg, #efce86 0%, #b8853d 22%, #5a3414 38%, #d6a857 52%, #8a5a25 70%, #efce86 100%);
+    --foil-soft: linear-gradient(135deg, #f3ebd5 0%, #d6a857 30%, #b8853d 55%, #f3ebd5 100%);
+
+    --serif:     "Instrument Serif", "Times New Roman", serif;
+    --sans:      "Manrope", system-ui, -apple-system, "Helvetica Neue", sans-serif;
+    --mono:      "JetBrains Mono", ui-monospace, monospace;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  html, body {
+    margin: 0; padding: 0;
+    background: var(--cream);
+    color: var(--ink);
+  }
+  body {
+    font-family: var(--sans);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+    text-rendering: optimizeLegibility;
+  }
+  ::selection { background: var(--ink); color: var(--cream); }
+  img, svg { display: block; max-width: 100%; }
+
+  /* =========== RICH BACKGROUND =========== */
+  .bg-base, .bg-grid, .bg-aurora, .bg-rays, .bg-noise {
+    position: fixed; inset: 0; pointer-events: none; z-index: 0;
+  }
+  .bg-base {
+    background:
+      radial-gradient(120vmax 80vmax at 50% -10%, rgba(214,168,87,0.30), transparent 55%),
+      radial-gradient(80vmax 80vmax at 10% 110%, rgba(122,74,31,0.18), transparent 60%),
+      radial-gradient(80vmax 80vmax at 90% 90%, rgba(184,133,61,0.18), transparent 60%),
+      linear-gradient(180deg, #ece1c7 0%, #e8dbbf 50%, #ddd0b0 100%);
+  }
+  .bg-aurora {
+    background:
+      radial-gradient(50vmax 40vmax at 25% 30%, rgba(239,206,134,0.35), transparent 55%),
+      radial-gradient(40vmax 40vmax at 75% 70%, rgba(122,74,31,0.18), transparent 55%);
+    animation: aurora 22s ease-in-out infinite alternate;
+    mix-blend-mode: multiply;
+    opacity: 0.6;
+  }
+  @keyframes aurora {
+    0%   { transform: translate3d(-4%, -2%, 0) scale(1); }
+    100% { transform: translate3d(4%, 2%, 0) scale(1.08); }
+  }
+  .bg-rays {
+    background: conic-gradient(
+      from 0deg at 50% -20%,
+      transparent 0deg, rgba(214,168,87,0.10) 6deg, transparent 12deg,
+      transparent 36deg, rgba(214,168,87,0.10) 42deg, transparent 48deg,
+      transparent 72deg, rgba(214,168,87,0.10) 78deg, transparent 84deg,
+      transparent 108deg, rgba(214,168,87,0.10) 114deg, transparent 120deg,
+      transparent 144deg, rgba(214,168,87,0.10) 150deg, transparent 156deg,
+      transparent 180deg, rgba(214,168,87,0.10) 186deg, transparent 192deg,
+      transparent 216deg, rgba(214,168,87,0.10) 222deg, transparent 228deg,
+      transparent 252deg, rgba(214,168,87,0.10) 258deg, transparent 264deg,
+      transparent 288deg, rgba(214,168,87,0.10) 294deg, transparent 300deg,
+      transparent 324deg, rgba(214,168,87,0.10) 330deg, transparent 336deg,
+      transparent 360deg
+    );
+    animation: ray-rotate 90s linear infinite;
+    mix-blend-mode: overlay;
+    opacity: 0.5;
+  }
+  @keyframes ray-rotate { to { transform: rotate(360deg); } }
+  .bg-grid {
+    background-image:
+      linear-gradient(rgba(29,19,10,0.04) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(29,19,10,0.04) 1px, transparent 1px);
+    background-size: 96px 96px;
+    mask-image: radial-gradient(ellipse at center, rgba(0,0,0,1) 0%, rgba(0,0,0,0.5) 55%, rgba(0,0,0,0) 85%);
+    -webkit-mask-image: radial-gradient(ellipse at center, rgba(0,0,0,1) 0%, rgba(0,0,0,0.5) 55%, rgba(0,0,0,0) 85%);
+  }
+  .bg-noise {
+    z-index: 9000;
+    opacity: 0.12; mix-blend-mode: multiply;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='180' height='180'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%' height='100%' filter='url(%23n)' opacity='0.8'/></svg>");
+  }
+
+  main { position: relative; z-index: 1; }
+  .wrap { width: min(1280px, 92vw); margin: 0 auto; }
+
+  .foil {
+    background: var(--foil);
+    background-size: 240% 240%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: foil-shimmer 9s linear infinite;
+    filter: drop-shadow(0 1px 0 rgba(255,255,255,0.4));
+  }
+  @keyframes foil-shimmer {
+    0%   { background-position: 0% 50%; }
+    100% { background-position: 240% 50%; }
+  }
+
+  /* ========= NAV ========= */
+  nav.top {
+    position: sticky; top: 0; z-index: 100;
+    backdrop-filter: saturate(140%) blur(14px);
+    -webkit-backdrop-filter: saturate(140%) blur(14px);
+    background: rgba(236,225,199,0.75);
+    border-bottom: 1px solid var(--line);
+  }
+  nav.top .wrap {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 14px 0;
+  }
+  .brand {
+    display: inline-flex; align-items: center; gap: 12px;
+    font-weight: 600; font-size: 17px; letter-spacing: -0.01em;
+    color: var(--ink); text-decoration: none;
+  }
+  .brand .mark {
+    position: relative;
+    width: 30px; height: 30px;
+    border-radius: 8px;
+    background: var(--foil);
+    background-size: 240% 240%;
+    animation: foil-shimmer 9s linear infinite;
+    box-shadow:
+      inset 0 1px 0 rgba(255,255,255,0.6),
+      inset 0 -1px 0 rgba(90,52,20,0.6),
+      0 6px 18px rgba(122,74,31,0.30);
+  }
+  .brand .mark::after {
+    content: "";
+    position: absolute; inset: 5px;
+    background: var(--ink);
+    border-radius: 4px;
+  }
+  .brand .mark::before {
+    content: "D";
+    position: absolute; inset: 0;
+    z-index: 1;
+    display: grid; place-items: center;
+    font-family: var(--serif); font-style: italic;
+    font-size: 18px;
+    color: transparent;
+    background: var(--foil);
+    background-size: 240% 240%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    animation: foil-shimmer 9s linear infinite;
+  }
+  nav.top .links { display: flex; gap: 26px; font-size: 13px; color: var(--ink-soft); }
+  nav.top .links a { color: inherit; text-decoration: none; transition: color .25s; position: relative; }
+  nav.top .links a::after {
+    content: ""; position: absolute; left: 0; right: 0; bottom: -6px;
+    height: 1px; background: var(--foil); background-size: 200% 200%;
+    transform: scaleX(0); transform-origin: left center;
+    transition: transform .35s cubic-bezier(.2,.8,.2,1);
+    animation: foil-shimmer 9s linear infinite;
+  }
+  nav.top .links a:hover { color: var(--ink); }
+  nav.top .links a:hover::after { transform: scaleX(1); }
+  @media (max-width: 760px) { nav.top .links { display: none; } }
+
+  .cta-tiny {
+    background: var(--ink); color: var(--cream);
+    border: none; cursor: pointer;
+    font: 500 13px/1 var(--sans);
+    padding: 11px 16px;
+    border-radius: 999px;
+    transition: transform .25s ease, box-shadow .25s ease;
+    box-shadow: 0 4px 14px rgba(29,19,10,0.20);
+    position: relative; overflow: hidden;
+  }
+  .cta-tiny::before {
+    content: ""; position: absolute; inset: -1px;
+    border-radius: 999px;
+    padding: 1px;
+    background: var(--foil);
+    background-size: 240% 240%;
+    -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+    mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    opacity: 0; transition: opacity .3s;
+    animation: foil-shimmer 9s linear infinite;
+  }
+  .cta-tiny:hover { transform: translateY(-1px); }
+  .cta-tiny:hover::before { opacity: 1; }
+
+  .cta {
+    display: inline-flex; align-items: center; gap: 14px;
+    background: var(--ink); color: var(--cream);
+    border: none; cursor: pointer;
+    font: 500 16px/1 var(--sans);
+    padding: 20px 26px;
+    border-radius: 999px;
+    text-decoration: none;
+    position: relative; overflow: hidden;
+    transition: transform .25s cubic-bezier(.2,.8,.2,1), box-shadow .25s ease;
+    box-shadow:
+      0 10px 28px rgba(29,19,10,0.28),
+      inset 0 1px 0 rgba(239,206,134,0.20);
+  }
+  .cta::before {
+    content: "";
+    position: absolute; inset: 0;
+    background: linear-gradient(110deg, transparent 30%, rgba(239,206,134,0.55) 50%, transparent 70%);
+    transform: translateX(-100%);
+    transition: transform .9s cubic-bezier(.2,.8,.2,1);
+  }
+  .cta:hover::before { transform: translateX(100%); }
+  .cta:hover { transform: translateY(-2px); box-shadow: 0 18px 50px rgba(29,19,10,0.42); }
+  .cta .arrow {
+    width: 28px; height: 28px;
+    display: grid; place-items: center;
+    background: var(--foil);
+    background-size: 240% 240%;
+    color: var(--ink);
+    border-radius: 50%;
+    transition: transform .35s cubic-bezier(.2,.8,.2,1);
+    animation: foil-shimmer 9s linear infinite;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.45);
+  }
+  .cta:hover .arrow { transform: rotate(-45deg); }
+  .cta.big { font-size: 16px; padding: 20px 28px; }
+
+  /* ========= HERO ========= */
+  .hero {
+    padding: 0;
+    position: relative;
+    overflow: hidden;
+    height: 100svh;
+    display: flex;
+    align-items: center;
+  }
+  .hero-grid {
+    display: grid;
+    grid-template-columns: 1.12fr 0.88fr;
+    gap: 36px;
+    align-items: center;
+    min-height: 0;
+  }
+  @media (max-width: 980px) {
+    .hero { padding: 28px 0 60px; }
+    .hero-grid { grid-template-columns: 1fr; gap: 32px; min-height: 0; }
+    .hero-art-wrap { order: -1; height: clamp(340px, 64vw, 500px); }
+  }
+
+  .eyebrow {
+    display: inline-flex; gap: 12px; align-items: center;
+    font: 500 11px/1 var(--mono);
+    text-transform: uppercase; letter-spacing: 0.18em;
+    color: var(--ink-soft);
+    margin-bottom: 18px;
+    padding: 9px 13px 9px 11px;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    background: rgba(243,235,213,0.55);
+    backdrop-filter: blur(4px);
+  }
+  .eyebrow .dot {
+    width: 7px; height: 7px;
+    border-radius: 50%;
+    background: var(--gold-2);
+    box-shadow: 0 0 0 0 rgba(214,168,87,0.6);
+    animation: pulse 2.2s infinite ease-in-out;
+  }
+  @keyframes pulse {
+    0%,100% { box-shadow: 0 0 0 0 rgba(214,168,87,0.6); }
+    50%     { box-shadow: 0 0 0 10px rgba(214,168,87,0); }
+  }
+
+  h1.display {
+    font-family: var(--serif);
+    font-weight: 400;
+    font-size: clamp(40px, 6.4vw, 86px);
+    line-height: 0.94;
+    letter-spacing: -0.035em;
+    margin: 0 0 18px;
+    text-wrap: balance;
+    color: var(--ink);
+  }
+  h1.display .it { font-style: italic; }
+  h1.display em.f {
+    font-style: italic;
+    background: var(--foil);
+    background-size: 240% 240%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: foil-shimmer 9s linear infinite;
+  }
+
+  .typer-line {
+    font: 600 16px/1.5 var(--mono);
+    color: var(--ink);
+    margin: 0 0 18px;
+    display: inline-flex; align-items: center; gap: 12px;
+    padding: 14px 20px;
+    border: 1px solid var(--line-2);
+    border-radius: 12px;
+    background: rgba(243,235,213,0.72);
+    max-width: 100%;
+    overflow: hidden;
+    backdrop-filter: blur(6px);
+    box-shadow: 0 4px 16px rgba(58,41,24,0.08);
+  }
+  .typer-line .prompt {
+    color: transparent;
+    background: var(--foil);
+    background-size: 240% 240%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    animation: foil-shimmer 9s linear infinite;
+    font-weight: 600;
+  }
+  .typer-line .caret {
+    display: inline-block;
+    width: 2px; height: 1em;
+    background: var(--bronze);
+    vertical-align: -2px;
+    animation: blink 1s steps(2) infinite;
+  }
+  @keyframes blink { 50% { opacity: 0; } }
+
+  .sub {
+    max-width: 560px;
+    font-size: clamp(15px, 1.1vw, 17px);
+    line-height: 1.45;
+    color: var(--ink-soft);
+    margin: 0 0 22px;
+  }
+  .sub strong { color: var(--ink); font-weight: 600; }
+
+  .hero-actions { display: flex; gap: 14px; flex-wrap: wrap; align-items: center; }
+  .hero-actions .meta {
+    font: 500 11px/1.4 var(--mono);
+    color: var(--ink-soft);
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+  }
+  .hero-actions .meta b { color: var(--ink); font-weight: 600; }
+
+
+  /* =================== HERO 3D iPHONE =================== */
+  .hero-art-wrap {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    max-height: 640px;
+    perspective: 1800px;
+    transform-style: preserve-3d;
+  }
+
+  .plate {
+    position: absolute;
+    top: 4%; left: -2%;
+    width: 42%;
+    aspect-ratio: 1.4 / 1;
+    transform-style: preserve-3d;
+    animation: plate-float 7.5s ease-in-out infinite;
+    z-index: 3;
+  }
+  @keyframes plate-float {
+    0%,100% { transform: rotateY(-14deg) rotateX(10deg) translateZ(40px); }
+    50%     { transform: rotateY(-10deg) rotateX(8deg) translateZ(60px) translateY(-10px); }
+  }
+  .plate .glass {
+    position: absolute; inset: 0;
+    border-radius: 14px;
+    background: linear-gradient(140deg, rgba(243,235,213,0.92), rgba(243,235,213,0.6));
+    border: 1px solid rgba(122,74,31,0.30);
+    box-shadow:
+      0 30px 80px rgba(58,41,24,0.45),
+      inset 0 1px 0 rgba(255,255,255,0.7);
+    overflow: hidden;
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+  }
+  .plate .glass::before {
+    content: "";
+    position: absolute; inset: 0;
+    background: linear-gradient(110deg, transparent 30%, rgba(255,255,255,0.6) 50%, transparent 70%);
+    transform: translateX(-100%);
+    animation: glass-sweep 5.5s ease-in-out infinite;
+  }
+  @keyframes glass-sweep {
+    0%,40%   { transform: translateX(-100%); }
+    70%,100% { transform: translateX(100%); }
+  }
+  .plate .topbar {
+    display: flex; align-items: center; gap: 5px;
+    padding: 8px 10px;
+    border-bottom: 1px solid rgba(122,74,31,0.18);
+    background: rgba(228,214,182,0.6);
+  }
+  .plate .topbar .d { width: 7px; height: 7px; border-radius: 50%; background: rgba(122,74,31,0.30); }
+  .plate .topbar .url {
+    margin-left: 4px; flex: 1;
+    font: 500 9px/1 var(--mono);
+    color: var(--ink-soft);
+    padding: 5px 8px;
+    background: rgba(255,253,247,0.6);
+    border-radius: 999px;
+    text-align: center;
+  }
+  .plate .pcontent {
+    padding: 12px 12px 14px;
+    display: grid; gap: 7px;
+  }
+  .plate .pcontent .ph-title {
+    font-family: var(--serif);
+    font-size: clamp(13px, 1.5vw, 19px);
+    line-height: 1; margin: 0;
+    color: var(--ink);
+  }
+  .plate .pcontent .ph-title em { font-style: italic; }
+  .plate .pcontent .ph-title em.f {
+    background: var(--foil); background-size: 240% 240%;
+    -webkit-background-clip: text; background-clip: text;
+    color: transparent;
+    animation: foil-shimmer 9s linear infinite;
+  }
+  .plate .pcontent .ph-line {
+    height: 5px;
+    background: linear-gradient(90deg, rgba(122,74,31,0.18), rgba(122,74,31,0.04));
+    border-radius: 999px;
+    width: 92%;
+  }
+  .plate .pcontent .ph-line.short { width: 64%; }
+  .plate .pcontent .ph-btn {
+    margin-top: 4px;
+    align-self: start;
+    display: inline-flex;
+    padding: 6px 10px;
+    background: var(--ink); color: var(--cream);
+    font: 500 9px/1 var(--sans);
+    border-radius: 999px;
+  }
+
+  /* ---- 3D iPhone ---- */
+  .iphone-stage {
+    position: absolute;
+    right: 0%;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 260px;
+    height: 530px;
+    transform-style: preserve-3d;
+    animation: iphone-float 6s ease-in-out infinite;
+    z-index: 6;
+  }
+  @keyframes iphone-float {
+    0%,100% { transform: translateY(-50%); }
+    50%     { transform: translateY(calc(-50% - 18px)); }
+  }
+
+  .iphone-shadow {
+    position: absolute;
+    bottom: -48px; left: 50%;
+    width: 200px; height: 28px;
+    transform: translateX(-50%);
+    background: radial-gradient(ellipse, rgba(29,19,10,0.28) 0%, transparent 70%);
+    border-radius: 50%;
+    animation: shadow-pulse 6s ease-in-out infinite;
+    filter: blur(6px);
+  }
+  @keyframes shadow-pulse {
+    0%,100% { transform: translateX(-50%) scale(1); opacity: 1; }
+    50%     { transform: translateX(-50%) scale(0.82); opacity: 0.6; }
+  }
+
+  .iphone-body {
+    position: absolute; inset: 0;
+    border-radius: 48px;
+    background:
+      linear-gradient(165deg,
+        #3a2918 0%, #5a4326 8%, #2a1d10 20%,
+        #1d130a 40%, #2a1d10 60%, #3a2918 80%, #1d130a 100%
+      );
+    box-shadow:
+      0 0 0 1px rgba(184,133,61,0.25),
+      inset 0 1px 0 rgba(239,206,134,0.30),
+      inset 0 -1px 0 rgba(0,0,0,0.5),
+      0 40px 80px -10px rgba(29,19,10,0.65),
+      0 20px 40px -5px rgba(29,19,10,0.40),
+      0 8px 16px rgba(29,19,10,0.30),
+      -20px 20px 60px rgba(29,19,10,0.20),
+      20px 20px 60px rgba(29,19,10,0.20);
+    transform-style: preserve-3d;
+    will-change: transform;
+    transition: transform 0.12s ease-out;
+    transform: rotateY(-12deg) rotateX(4deg);
+  }
+
+  .iphone-side-shine {
+    position: absolute;
+    top: 3%; bottom: 3%;
+    right: -2px; width: 4px;
+    border-radius: 0 4px 4px 0;
+    background: linear-gradient(180deg,
+      rgba(239,206,134,0.05) 0%, rgba(239,206,134,0.35) 30%,
+      rgba(239,206,134,0.10) 60%, rgba(239,206,134,0.30) 80%,
+      rgba(239,206,134,0.05) 100%
+    );
+    pointer-events: none;
+  }
+  .iphone-body::before {
+    content: "";
+    position: absolute;
+    left: -3px; top: 22%;
+    width: 3px; height: 30px;
+    border-radius: 3px 0 0 3px;
+    background: linear-gradient(180deg, #3a2918, #1d130a, #3a2918);
+    box-shadow: 0 38px 0 0 #2a1d10, 0 54px 0 0 #2a1d10;
+  }
+  .iphone-body::after {
+    content: "";
+    position: absolute;
+    right: -3px; top: 26%;
+    width: 3px; height: 52px;
+    border-radius: 0 3px 3px 0;
+    background: linear-gradient(180deg, #3a2918, #1d130a, #3a2918);
+  }
+
+  .iphone-bezel {
+    position: absolute;
+    top: 9px; left: 9px; right: 9px; bottom: 9px;
+    border-radius: 40px;
+    overflow: hidden;
+    background: #0a0a0a;
+  }
+
+  .iphone-island {
+    position: absolute;
+    top: 8px; left: 50%;
+    transform: translateX(-50%);
+    width: 90px; height: 26px;
+    background: #000;
+    border-radius: 18px;
+    z-index: 10;
+    box-shadow: 0 0 0 1px rgba(60,60,60,0.3);
+  }
+  .iphone-island::before {
+    content: "";
+    position: absolute;
+    top: 7px; left: 18px;
+    width: 10px; height: 10px;
+    border-radius: 50%;
+    background: radial-gradient(circle at 40% 40%, #1a1a2a, #0a0a12);
+    box-shadow: inset 0 0 2px rgba(100,100,255,0.15);
+  }
+
+  .iphone-screen {
+    position: absolute; inset: 0;
+    border-radius: 40px;
+    overflow: hidden;
+    background: var(--cream);
+  }
+
+  .iphone-screen-content {
+    position: absolute; inset: 0;
+    display: flex; flex-direction: column;
+    background: linear-gradient(180deg, var(--paper-2) 0%, var(--cream) 100%);
+    font-family: var(--sans);
+    color: var(--ink);
+    overflow: hidden;
+  }
+
+  .screen-status-bar {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 10px 16px 0;
+    font: 600 11px/1 var(--sans);
+    color: var(--ink);
+    flex-shrink: 0;
+    height: 38px;
+    position: relative;
+    z-index: 5;
+  }
+  .status-time { flex: 0 0 auto; }
+  .status-island-spacer { flex: 0 0 110px; }
+  .screen-status-icons {
+    display: flex; gap: 3px; align-items: center;
+    color: var(--ink);
+    flex: 0 0 auto;
+  }
+
+  .safari-url-bar {
+    display: flex; align-items: center; gap: 6px;
+    margin: 6px 12px 0;
+    padding: 7px 10px;
+    background: rgba(228,214,182,0.5);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    flex-shrink: 0;
+  }
+  .safari-url-bar svg { color: var(--ink-mute); flex-shrink: 0; }
+  .safari-url-text {
+    flex: 1;
+    font: 500 9px/1 var(--sans);
+    color: var(--ink-soft);
+    text-align: center;
+  }
+
+  .safari-page-content {
+    flex: 1;
+    overflow: hidden;
+    display: flex; flex-direction: column;
+    will-change: transform;
+  }
+  .mob-site-nav {
+    display: flex; align-items: center; gap: 6px;
+    padding: 8px 12px;
+    flex-shrink: 0;
+  }
+  .screen-brand-dot {
+    width: 16px; height: 16px;
+    border-radius: 4px;
+    background: var(--foil);
+    background-size: 240% 240%;
+    animation: foil-shimmer 9s linear infinite;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.5);
+    flex-shrink: 0;
+  }
+  .mob-site-hero {
+    position: relative;
+    margin: 0 10px;
+    height: 110px;
+    border-radius: 12px;
+    overflow: hidden;
+    background:
+      linear-gradient(140deg,
+        rgba(122,74,31,0.30) 0%,
+        rgba(29,19,10,0.85) 40%,
+        rgba(29,19,10,0.95) 100%
+      );
+    flex-shrink: 0;
+  }
+  .mob-site-hero-gradient {
+    position: absolute; inset: 0;
+    background:
+      radial-gradient(circle at 30% 20%, rgba(214,168,87,0.40), transparent 60%),
+      radial-gradient(circle at 70% 80%, rgba(122,74,31,0.30), transparent 50%);
+    animation: screen-glow 8s ease-in-out infinite alternate;
+  }
+  @keyframes screen-glow {
+    0%   { opacity: 0.7; }
+    100% { opacity: 1; }
+  }
+  .mob-site-hero-text {
+    position: absolute;
+    bottom: 10px; left: 10px;
+    display: flex; flex-direction: column; gap: 4px;
+    color: var(--cream);
+  }
+  .screen-cta-pill {
+    display: inline-flex;
+    padding: 7px 12px;
+    background: var(--ink);
+    color: var(--cream);
+    font: 500 8px/1 var(--sans);
+    border-radius: 999px;
+  }
+  .mob-site-cards {
+    display: flex; gap: 5px;
+    padding: 8px 10px 0;
+    flex-shrink: 0;
+  }
+  .mob-site-card {
+    flex: 1;
+    padding: 7px;
+    border-radius: 8px;
+    border: 1px solid var(--line);
+    background: var(--paper-2);
+    display: flex; flex-direction: column; gap: 3px;
+  }
+  .mob-site-text {
+    padding: 8px 12px;
+    display: flex; flex-direction: column; gap: 5px;
+    flex-shrink: 0;
+  }
+  .mob-site-section-head {
+    padding: 10px 12px 2px;
+    flex-shrink: 0;
+  }
+  .screen-line {
+    height: 3px;
+    border-radius: 99px;
+    background: rgba(122,74,31,0.10);
+  }
+  .screen-line.w90 { width: 90%; }
+  .screen-line.w80 { width: 80%; }
+  .screen-line.w70 { width: 70%; }
+  .screen-line.w60 { width: 60%; }
+  .screen-line.w50 { width: 50%; }
+
+  .mob-site-offer-grid {
+    display: grid; grid-template-columns: 1fr 1fr;
+    gap: 5px;
+    padding: 6px 10px 0;
+    flex-shrink: 0;
+  }
+  .mob-site-offer-cell {
+    padding: 7px;
+    border-radius: 8px;
+    border: 1px solid var(--line);
+    background: var(--paper-2);
+    display: flex; flex-direction: column; gap: 3px;
+  }
+  .mob-site-risk-box {
+    margin: 8px 10px 0;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid var(--line-2);
+    background:
+      radial-gradient(circle at 80% 0%, rgba(214,168,87,0.15), transparent 55%),
+      linear-gradient(180deg, var(--paper-2), var(--paper));
+    flex-shrink: 0;
+  }
+  .mob-site-score {
+    flex: 1;
+    padding: 6px;
+    border-radius: 7px;
+    border: 1px solid var(--line);
+    background: rgba(255,253,247,0.5);
+    display: flex; flex-direction: column; gap: 4px;
+  }
+  .mob-site-steps {
+    padding: 6px 10px 0;
+    display: flex; flex-direction: column; gap: 5px;
+    flex-shrink: 0;
+  }
+  .mob-site-step {
+    display: flex; align-items: flex-start; gap: 7px;
+    padding: 6px 8px;
+    border-radius: 8px;
+    border: 1px solid var(--line);
+    background: var(--paper-2);
+  }
+  .mob-step-num {
+    width: 16px; height: 16px;
+    border-radius: 50%;
+    background: var(--ink);
+    color: var(--cream);
+    font: 600 7px/16px var(--sans);
+    text-align: center;
+    flex-shrink: 0;
+  }
+  .mob-site-testimonial {
+    margin: 8px 10px 0;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid var(--line);
+    background: var(--paper-2);
+    flex-shrink: 0;
+  }
+  .mob-site-final {
+    margin: 10px 10px 0;
+    padding: 14px 10px;
+    border-radius: 12px;
+    background:
+      radial-gradient(circle at 50% 50%, rgba(214,168,87,0.18), transparent 60%),
+      var(--paper-2);
+    border: 1px solid var(--line);
+    flex-shrink: 0;
+  }
+  .mob-site-footer {
+    display: flex; align-items: center; gap: 6px;
+    padding: 10px 12px 16px;
+    flex-shrink: 0;
+    border-top: 1px solid var(--line);
+    margin-top: 8px;
+  }
+  .mob-site-faq-list {
+    padding: 4px 10px 0;
+    display: flex; flex-direction: column; gap: 4px;
+    flex-shrink: 0;
+  }
+  .mob-faq-item {
+    padding: 7px 8px;
+    border-radius: 8px;
+    border: 1px solid var(--line);
+    background: var(--paper-2);
+  }
+  .mob-site-portfolio {
+    display: flex; gap: 5px;
+    padding: 6px 10px 0;
+    flex-shrink: 0;
+    overflow: hidden;
+  }
+  .mob-portfolio-item {
+    flex: 1; min-width: 0;
+  }
+  .mob-portfolio-thumb {
+    width: 100%; height: 48px;
+    border-radius: 8px;
+    border: 1px solid var(--line);
+  }
+  .mob-site-form {
+    padding: 6px 10px 0;
+    display: flex; flex-direction: column; gap: 6px;
+    flex-shrink: 0;
+  }
+  .mob-form-field { flex-shrink: 0; }
+  .mob-form-input {
+    height: 20px;
+    border-radius: 6px;
+    border: 1px solid var(--line);
+    background: rgba(255,253,247,0.6);
+    padding: 0 6px;
+  }
+  .mob-site-stats {
+    display: flex; gap: 5px;
+    padding: 10px 10px 0;
+    flex-shrink: 0;
+  }
+  .mob-stat {
+    flex: 1;
+    padding: 8px 6px;
+    border-radius: 8px;
+    border: 1px solid var(--line);
+    background: var(--paper-2);
+    display: flex; flex-direction: column; gap: 3px;
+    text-align: center;
+  }
+  .mob-site-locations {
+    display: flex; flex-wrap: wrap; gap: 4px;
+    padding: 6px 10px 0;
+    flex-shrink: 0;
+  }
+  .mob-location-tag {
+    padding: 4px 7px;
+    border-radius: 99px;
+    border: 1px solid var(--line);
+    background: var(--paper-2);
+    font: 500 6px/1 var(--mono);
+    color: var(--ink-soft);
+    letter-spacing: 0.08em;
+  }
+
+  .safari-bottom-bar {
+    display: flex; justify-content: space-around; align-items: center;
+    padding: 6px 16px 14px;
+    flex-shrink: 0;
+    color: var(--ink-soft);
+    border-top: 1px solid var(--line);
+    background: rgba(243,235,213,0.8);
+  }
+
+  .iphone-screen-reflection {
+    position: absolute; inset: 0;
+    border-radius: 40px;
+    background: linear-gradient(
+      135deg,
+      transparent 0%, transparent 35%,
+      rgba(255,255,255,0.07) 40%, rgba(255,255,255,0.12) 44%,
+      rgba(255,255,255,0.07) 48%, transparent 52%, transparent 100%
+    );
+    pointer-events: none; z-index: 6;
+  }
+  .iphone-glass-reflection {
+    position: absolute; inset: 0;
+    border-radius: 48px;
+    background: linear-gradient(165deg,
+      rgba(239,206,134,0.12) 0%, transparent 25%,
+      transparent 70%, rgba(239,206,134,0.08) 100%
+    );
+    pointer-events: none; z-index: 2;
+  }
+
+  @media (max-width: 980px) {
+    .iphone-stage { width: 200px; height: 410px; right: 10%; }
+    .plate { width: 42%; left: 0; }
+  }
+
+  /* ============ SECTIONS ============ */
+  section { padding: 120px 0; position: relative; }
+  @media (max-width: 760px) { section { padding: 80px 0; } }
+
+  .section-head {
+    display: grid; grid-template-columns: 0.32fr 1fr; gap: 40px;
+    margin-bottom: 56px;
+    align-items: start;
+  }
+  @media (max-width: 900px) { .section-head { grid-template-columns: 1fr; gap: 16px; margin-bottom: 40px; } }
+  .section-head .label {
+    font: 500 11px/1.4 var(--mono);
+    color: var(--ink-soft);
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    padding-top: 8px;
+  }
+  .section-head .label .num {
+    color: transparent;
+    background: var(--foil);
+    background-size: 240% 240%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    margin-right: 8px;
+    animation: foil-shimmer 9s linear infinite;
+    font-weight: 600;
+  }
+  .section-head h2 {
+    margin: 0;
+    font-family: var(--serif); font-weight: 400;
+    font-size: clamp(34px, 5.6vw, 76px);
+    line-height: 0.96;
+    letter-spacing: -0.025em;
+    text-wrap: balance;
+    color: var(--ink);
+  }
+  .section-head h2 em { font-style: italic; }
+  .section-head h2 em.f {
+    background: var(--foil);
+    background-size: 240% 240%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: foil-shimmer 9s linear infinite;
+  }
+  .section-head .lead {
+    margin-top: 22px;
+    font-size: clamp(16px, 1.15vw, 19px);
+    line-height: 1.5;
+    color: var(--ink-soft);
+    max-width: 720px;
+  }
+
+  /* ========= OFFER ========= */
+  .offer {
+    background:
+      linear-gradient(180deg, var(--paper) 0%, var(--paper-2) 100%);
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+  }
+  .offer-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0;
+    border: 1px solid var(--line);
+    border-radius: 18px;
+    overflow: hidden;
+    background: var(--paper-2);
+    box-shadow: 0 14px 40px rgba(58,41,24,0.10);
+  }
+  @media (max-width: 900px) { .offer-grid { grid-template-columns: 1fr 1fr; } }
+  @media (max-width: 540px) { .offer-grid { grid-template-columns: 1fr; } }
+  .offer-cell {
+    padding: 32px 26px;
+    border-right: 1px solid var(--line);
+    display: flex; flex-direction: column; gap: 12px;
+    min-height: 220px;
+    position: relative;
+    background: linear-gradient(180deg, rgba(243,235,213,0.4), transparent);
+  }
+  .offer-cell:last-child { border-right: none; }
+  @media (max-width: 900px) {
+    .offer-cell:nth-child(2n) { border-right: none; }
+    .offer-cell:nth-child(-n+2) { border-bottom: 1px solid var(--line); }
+  }
+  @media (max-width: 540px) {
+    .offer-cell { border-right: none; border-bottom: 1px solid var(--line); }
+    .offer-cell:last-child { border-bottom: none; }
+  }
+  .offer-cell::before {
+    content: ""; position: absolute; top: 0; left: 0; right: 0;
+    height: 2px;
+    background: var(--foil);
+    background-size: 240% 240%;
+    transform: scaleX(0);
+    transform-origin: left center;
+    animation: line-in 1.2s cubic-bezier(.6,.2,.2,1) forwards, foil-shimmer 9s linear infinite;
+    animation-play-state: paused, running;
+  }
+  .offer-cell.in::before { animation-play-state: running, running; }
+  .offer-cell:nth-child(2)::before { animation-delay: .15s, 0s; }
+  .offer-cell:nth-child(3)::before { animation-delay: .3s, 0s; }
+  .offer-cell:nth-child(4)::before { animation-delay: .45s, 0s; }
+  @keyframes line-in { to { transform: scaleX(1); } }
+
+  .offer-cell .num {
+    font-family: var(--serif); font-style: italic;
+    font-size: 56px; line-height: 0.9;
+    background: var(--foil);
+    background-size: 240% 240%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: foil-shimmer 9s linear infinite;
+  }
+  .offer-cell .t { font: 600 17px/1.3 var(--sans); color: var(--ink); }
+  .offer-cell .d { font-size: 14px; line-height: 1.5; color: var(--ink-soft); margin-top: auto; }
+
+  .risk {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    align-items: center;
+    margin-top: 64px;
+    padding: 48px;
+    border: 1px solid var(--line-2);
+    border-radius: 22px;
+    background:
+      radial-gradient(circle at 80% 0%, rgba(214,168,87,0.20), transparent 55%),
+      linear-gradient(180deg, var(--paper-2), var(--paper));
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 20px 60px rgba(58,41,24,0.12);
+  }
+  @media (max-width: 800px) { .risk { grid-template-columns: 1fr; padding: 32px 24px; } }
+  .risk h3 {
+    margin: 0;
+    font-family: var(--serif); font-weight: 400;
+    font-size: clamp(26px, 3.4vw, 44px);
+    line-height: 1.02;
+    letter-spacing: -0.02em;
+    color: var(--ink);
+  }
+  .risk h3 em { font-style: italic; }
+  .risk p { color: var(--ink-soft); font-size: 15px; line-height: 1.55; margin: 16px 0 0; max-width: 460px; }
+  .scoreboard { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+  .score {
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    padding: 22px 20px;
+    background: rgba(255,253,247,0.5);
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.7);
+  }
+  .score .who {
+    font: 500 10px/1 var(--mono);
+    text-transform: uppercase; letter-spacing: 0.18em;
+    color: var(--ink-soft); margin-bottom: 12px;
+  }
+  .score .val {
+    font-family: var(--serif);
+    font-size: clamp(40px, 5vw, 60px);
+    line-height: 0.9;
+    letter-spacing: -0.03em;
+    color: var(--ink);
+  }
+  .score.you .val {
+    background: var(--foil);
+    background-size: 240% 240%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: foil-shimmer 9s linear infinite;
+  }
+  .score .lbl { font-size: 12px; color: var(--ink-soft); margin-top: 8px; line-height: 1.4; }
+
+  /* ========= FAQ ========= */
+  .faq-list { border-top: 1px solid var(--line); }
+  details.faq {
+    border-bottom: 1px solid var(--line);
+    padding: 22px 0;
+  }
+  .faq summary {
+    list-style: none; cursor: pointer;
+    display: grid; grid-template-columns: 1fr auto;
+    gap: 30px; align-items: center;
+  }
+  .faq summary::-webkit-details-marker { display: none; }
+  .faq .q {
+    font-family: var(--serif); font-weight: 400;
+    font-size: clamp(20px, 2.2vw, 28px);
+    line-height: 1.1;
+    letter-spacing: -0.01em;
+    color: var(--ink);
+  }
+  .faq .toggle {
+    width: 40px; height: 40px;
+    border-radius: 50%;
+    border: 1px solid var(--line-2);
+    display: grid; place-items: center;
+    color: var(--ink);
+    font-family: var(--serif); font-size: 24px; line-height: 1;
+    transition: transform .35s cubic-bezier(.2,.8,.2,1), background .3s, color .3s;
+    flex-shrink: 0;
+    background: rgba(255,253,247,0.5);
+  }
+  details.faq[open] .toggle {
+    transform: rotate(45deg);
+    background: var(--foil);
+    background-size: 240% 240%;
+    animation: foil-shimmer 9s linear infinite;
+    color: var(--ink);
+    border-color: transparent;
+  }
+  .faq .a { margin: 18px 0 0; color: var(--ink-soft); font-size: 15px; line-height: 1.55; max-width: 780px; }
+  .faq .a strong { color: var(--ink); font-weight: 600; }
+
+  /* ========= FINAL ========= */
+  .final {
+    padding: 140px 0 110px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+  .final::before {
+    content: "";
+    position: absolute; left: 50%; top: 50%;
+    width: 90vmin; height: 90vmin;
+    transform: translate(-50%, -50%);
+    background: radial-gradient(circle, rgba(214,168,87,0.30), transparent 60%);
+    pointer-events: none;
+  }
+  .final h2 {
+    font-family: var(--serif); font-weight: 400;
+    font-size: clamp(48px, 10vw, 144px);
+    line-height: 0.92;
+    letter-spacing: -0.04em;
+    margin: 0 auto 32px;
+    max-width: 14ch;
+    text-wrap: balance;
+    position: relative;
+    color: var(--ink);
+  }
+  .final h2 em { font-style: italic; }
+  .final h2 em.f {
+    background: var(--foil);
+    background-size: 240% 240%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: foil-shimmer 9s linear infinite;
+  }
+  .final p {
+    max-width: 580px;
+    margin: 0 auto 40px;
+    font-size: 18px; line-height: 1.5;
+    color: var(--ink-soft);
+    position: relative;
+  }
+  .final .meta {
+    margin-top: 32px;
+    font: 500 11px/1.4 var(--mono);
+    color: var(--ink-soft);
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    position: relative;
+  }
+  .final-orbit {
+    position: absolute;
+    left: 50%; top: 50%;
+    width: 70vmin; height: 70vmin;
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+    z-index: 0;
+    transform-style: preserve-3d;
+  }
+  .final-orbit .o {
+    position: absolute;
+    inset: 0;
+    border-radius: 50%;
+    border: 1px solid rgba(122,74,31,0.20);
+    transform-style: preserve-3d;
+  }
+  .final-orbit .o.r1 { animation: orbit-a 24s linear infinite; }
+  .final-orbit .o.r2 { inset: 14%; animation: orbit-b 18s linear infinite; border-style: dashed; }
+  .final-orbit .o.r3 { inset: 28%; animation: orbit-c 14s linear infinite; }
+  .final-orbit .o::before {
+    content: "";
+    position: absolute;
+    top: -5px; left: 50%;
+    width: 10px; height: 10px;
+    margin-left: -5px;
+    background: var(--foil);
+    background-size: 240% 240%;
+    animation: foil-shimmer 9s linear infinite;
+    border-radius: 50%;
+    box-shadow: 0 0 14px 3px rgba(214,168,87,0.7);
+  }
+  @keyframes orbit-a {
+    from { transform: rotateX(72deg) rotateZ(0); }
+    to   { transform: rotateX(72deg) rotateZ(360deg); }
+  }
+  @keyframes orbit-b {
+    from { transform: rotateX(68deg) rotateY(20deg) rotateZ(0); }
+    to   { transform: rotateX(68deg) rotateY(20deg) rotateZ(-360deg); }
+  }
+  @keyframes orbit-c {
+    from { transform: rotateX(60deg) rotateZ(0); }
+    to   { transform: rotateX(60deg) rotateZ(360deg); }
+  }
+
+  /* ========= FOOTER ========= */
+  footer {
+    border-top: 1px solid var(--line);
+    padding: 48px 0 32px;
+    background:
+      linear-gradient(180deg, var(--paper) 0%, var(--cream-2) 100%);
+  }
+  footer .row {
+    display: grid; grid-template-columns: 1.4fr 1fr 1fr 1fr; gap: 32px;
+  }
+  @media (max-width: 800px) { footer .row { grid-template-columns: 1fr 1fr; } }
+  footer h5 {
+    margin: 0 0 14px;
+    font: 500 11px/1 var(--mono);
+    text-transform: uppercase; letter-spacing: 0.2em;
+    color: var(--ink-soft);
+  }
+  footer ul { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 10px; }
+  footer a { color: var(--ink); text-decoration: none; font-size: 14px; }
+  footer a:hover { color: var(--bronze-2); }
+  footer .colophon {
+    margin-top: 40px;
+    border-top: 1px solid var(--line);
+    padding-top: 22px;
+    display: flex; justify-content: space-between; align-items: center;
+    font: 500 11px/1.4 var(--mono);
+    text-transform: uppercase; letter-spacing: 0.16em;
+    color: var(--ink-soft);
+    flex-wrap: wrap; gap: 16px;
+  }
+
+  /* ========= MODAL ========= */
+  .modal-bg {
+    position: fixed; inset: 0;
+    background: rgba(29,19,10,0.55);
+    backdrop-filter: blur(14px);
+    z-index: 200;
+    display: none;
+    align-items: center; justify-content: center;
+    padding: 20px;
+    opacity: 0;
+    transition: opacity .3s ease;
+  }
+  .modal-bg.on { display: flex; opacity: 1; }
+  .modal {
+    background:
+      linear-gradient(180deg, var(--paper-2), var(--paper));
+    border: 1px solid var(--line-2);
+    border-radius: 22px;
+    width: min(520px, 100%);
+    padding: 36px;
+    position: relative;
+    transform: translateY(20px);
+    transition: transform .35s cubic-bezier(.2,.8,.2,1);
+    box-shadow: 0 30px 80px rgba(29,19,10,0.4);
+    max-height: calc(100dvh - 40px);
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  .modal::before {
+    content: "";
+    position: absolute; inset: -1px;
+    border-radius: 22px;
+    padding: 1px;
+    background: var(--foil);
+    background-size: 240% 240%;
+    -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+    mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    animation: foil-shimmer 9s linear infinite;
+    opacity: 0.5;
+    pointer-events: none;
+  }
+  .modal-bg.on .modal { transform: translateY(0); }
+  .modal .x {
+    position: absolute; top: 16px; right: 16px;
+    width: 34px; height: 34px;
+    border-radius: 50%;
+    border: 1px solid var(--line-2);
+    background: rgba(255,253,247,0.5);
+    color: var(--ink);
+    font-family: var(--serif); font-size: 20px;
+    cursor: pointer;
+  }
+  .modal .label {
+    font: 500 10px/1 var(--mono);
+    color: transparent;
+    background: var(--foil);
+    background-size: 240% 240%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    margin-bottom: 14px;
+    animation: foil-shimmer 9s linear infinite;
+    font-weight: 600;
+  }
+  .modal h3 {
+    margin: 0 0 12px;
+    font-family: var(--serif); font-weight: 400;
+    font-size: 34px; line-height: 1;
+    letter-spacing: -0.02em;
+    color: var(--ink);
+  }
+  .modal h3 em { font-style: italic; }
+  .modal h3 em.f {
+    background: var(--foil);
+    background-size: 240% 240%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: foil-shimmer 9s linear infinite;
+  }
+  .modal .sub { color: var(--ink-soft); font-size: 14px; line-height: 1.55; margin: 0 0 22px; }
+  .modal .field { display: flex; flex-direction: column; gap: 6px; margin-bottom: 14px; }
+  .modal .field label {
+    font: 500 10px/1 var(--mono);
+    text-transform: uppercase; letter-spacing: 0.16em;
+    color: var(--ink-soft);
+  }
+  .modal .field input, .modal .field select {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid var(--line-2);
+    color: var(--ink);
+    font: 400 16px/1 var(--sans);
+    padding: 10px 0;
+    outline: none;
+  }
+  .modal .field input:focus, .modal .field select:focus { border-bottom-color: var(--bronze); }
+  .modal .field select option { background: var(--paper); color: var(--ink); }
+  .modal .submit {
+    width: 100%;
+    margin-top: 10px;
+    background: var(--ink);
+    color: var(--cream);
+    border: none;
+    font: 500 16px/1 var(--sans);
+    padding: 18px;
+    border-radius: 999px;
+    cursor: pointer;
+    transition: transform .2s, box-shadow .2s;
+    position: relative; overflow: hidden;
+  }
+  .modal .submit::before {
+    content: ""; position: absolute; inset: 0;
+    background: linear-gradient(110deg, transparent 30%, rgba(239,206,134,0.55) 50%, transparent 70%);
+    transform: translateX(-100%);
+    transition: transform .9s cubic-bezier(.2,.8,.2,1);
+  }
+  .modal .submit:hover::before { transform: translateX(100%); }
+  .modal .submit:hover { transform: translateY(-1px); box-shadow: 0 14px 30px rgba(29,19,10,0.35); }
+  .modal .success { text-align: center; padding: 12px 0; }
+  .modal .success .check {
+    width: 64px; height: 64px;
+    border-radius: 50%;
+    background: var(--foil);
+    background-size: 240% 240%;
+    color: var(--ink);
+    display: grid; place-items: center;
+    margin: 0 auto 16px;
+    font-family: var(--serif); font-size: 32px;
+    animation: foil-shimmer 9s linear infinite;
+    box-shadow:
+      inset 0 1px 0 rgba(255,255,255,0.5),
+      0 14px 36px rgba(214,168,87,0.45);
+  }
+
+  /* ===== Multi-step booking flow ===== */
+  .modal .field textarea {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid var(--line-2);
+    color: var(--ink);
+    font: 400 16px/1.5 var(--sans);
+    padding: 10px 0;
+    outline: none;
+    resize: none;
+    min-height: 60px;
+  }
+  .modal .field textarea:focus { border-bottom-color: var(--bronze); }
+  .modal .row2 { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+  .modal.wide { width: min(960px, 100%); padding: 32px; }
+  .mstep { display: none; }
+  .mstep.active { display: block; animation: stepIn .28s ease; }
+  @keyframes stepIn { from { opacity: 0; } to { opacity: 1; } }
+  .fineprint {
+    font: 500 10px/1.4 var(--mono); color: var(--ink-mute);
+    text-transform: uppercase; letter-spacing: 0.18em;
+    margin: 14px 0 0; text-align: center;
+  }
+  .back-btn {
+    background: none; border: none; cursor: pointer;
+    font: 500 10px/1 var(--mono); text-transform: uppercase; letter-spacing: 0.16em;
+    color: var(--ink-soft); padding: 0; margin-bottom: 16px;
+    display: inline-flex; align-items: center; gap: 7px;
+    transition: color .2s;
+  }
+  .back-btn:hover { color: var(--ink); }
+  .choice-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-top: 6px; }
+  .choice {
+    text-align: left; cursor: pointer;
+    background: linear-gradient(180deg, var(--paper-2), var(--paper));
+    border: 1px solid var(--line-2);
+    border-radius: 18px;
+    padding: 24px 20px;
+    display: flex; flex-direction: column; gap: 8px;
+    position: relative; overflow: hidden;
+    transition: transform .25s cubic-bezier(.2,.8,.2,1), border-color .25s, box-shadow .25s;
+  }
+  .choice:hover { transform: translateY(-3px); border-color: var(--bronze); box-shadow: 0 18px 40px rgba(29,19,10,0.18); }
+  .choice .choice-ic {
+    font-family: var(--serif); font-size: 26px; line-height: 1;
+    background: var(--foil); background-size: 240% 240%;
+    -webkit-background-clip: text; background-clip: text; color: transparent;
+    animation: foil-shimmer 9s linear infinite;
+  }
+  .choice .choice-t { font-family: var(--serif); font-size: 22px; color: var(--ink); line-height: 1.05; }
+  .choice .choice-d { font-size: 13px; color: var(--ink-soft); line-height: 1.45; }
+  .cal-embed {
+    width: 100%; height: min(560px, 58dvh); overflow: auto;
+    border: 1px solid var(--line-2); border-radius: 16px;
+    background: rgba(255,253,247,0.4);
+  }
+  .cal-loading {
+    display: grid; place-items: center; height: 100%;
+    font: 500 11px/1.5 var(--mono); text-transform: uppercase; letter-spacing: 0.18em;
+    color: var(--ink-mute);
+  }
+  @media (max-width: 760px) {
+    .modal.wide { padding: 26px 18px; }
+    .modal .row2 { grid-template-columns: 1fr; }
+    .choice-grid { grid-template-columns: 1fr; }
+    .cal-embed { height: min(520px, 62dvh); }
+  }
+
+  .reveal { opacity: 0; transform: translateY(20px); transition: opacity .9s ease, transform .9s cubic-bezier(.2,.8,.2,1); }
+  .reveal.in { opacity: 1; transform: translateY(0); }
+  .reveal.d1 { transition-delay: .08s; }
+  .reveal.d2 { transition-delay: .16s; }
+  .reveal.d3 { transition-delay: .24s; }
+  .reveal.d4 { transition-delay: .32s; }
+
+  /* ========= MOBILE STICKY CTA ========= */
+  .mobile-sticky { display: none; }
+  .mobile-sticky.hidden { opacity: 0; transform: translateY(20px); pointer-events: none; }
+  /* Hide the floating CTA whenever the booking modal is open */
+  body.modal-open .mobile-sticky { opacity: 0 !important; transform: translateY(20px) !important; pointer-events: none !important; }
+
+  /* ========= MOBILE-ONLY OVERRIDES ========= */
+  @media (max-width: 760px) {
+
+    /* Sticky bottom CTA bar */
+    .mobile-sticky {
+      display: flex; justify-content: center;
+      position: fixed; bottom: calc(14px + env(safe-area-inset-bottom)); left: 16px; right: 16px;
+      z-index: 9000;
+      transition: opacity 0.4s, transform 0.4s;
+    }
+    .mobile-sticky .cta {
+      width: 100%;
+      display: flex; align-items: center; justify-content: center; gap: 10px;
+      font-size: 16px; font-weight: 600; padding: 18px 28px;
+      border-radius: 999px;
+      background: var(--ink);
+      color: var(--cream);
+      letter-spacing: 0.01em;
+      position: relative;
+      overflow: hidden;
+      animation: sticky-glow 3s ease-in-out infinite;
+    }
+    .mobile-sticky .cta::before {
+      content: "";
+      position: absolute; inset: 0;
+      border-radius: inherit;
+      background: var(--foil);
+      background-size: 300% 300%;
+      animation: foil-shimmer 4s linear infinite;
+      opacity: 0;
+      transition: opacity 0.3s;
+    }
+    .mobile-sticky .cta::after {
+      content: "";
+      position: absolute; top: -1px; left: -1px; right: -1px; bottom: -1px;
+      border-radius: inherit;
+      border: 1.5px solid transparent;
+      background: var(--foil) border-box;
+      background-size: 300% 300%;
+      animation: foil-shimmer 4s linear infinite;
+      -webkit-mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0);
+      mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0);
+      -webkit-mask-composite: xor;
+      mask-composite: exclude;
+    }
+    .mobile-sticky .cta .sticky-dot {
+      width: 8px; height: 8px; border-radius: 50%;
+      background: #5cba5c;
+      box-shadow: 0 0 8px rgba(92,186,92,0.7);
+      animation: sticky-blink 2s ease-in-out infinite;
+      flex-shrink: 0;
+    }
+    @keyframes sticky-glow {
+      0%, 100% { box-shadow: 0 4px 24px rgba(214,168,87,0.25), 0 8px 32px rgba(29,19,10,0.3); }
+      50% { box-shadow: 0 6px 36px rgba(214,168,87,0.5), 0 10px 40px rgba(29,19,10,0.35); }
+    }
+    @keyframes sticky-blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.35; }
+    }
+
+    /* Nav — show links, hide top CTA (sticky replaces it) */
+    nav.top { padding: 12px 0; }
+    nav.top .wrap { padding: 0 16px; }
+    nav.top .links { display: flex !important; gap: 18px; font-size: 12px; }
+    .cta-tiny { display: none; }
+    .brand { font-size: 16px !important; }
+
+    /* Hero — adaptive full-screen */
+    .hero {
+      padding: 0;
+      height: calc(100svh - 56px);
+      display: flex;
+      align-items: center;
+      overflow: hidden;
+    }
+    .hero .wrap {
+      padding: 0 20px; width: 100%;
+      margin-top: -6svh;
+    }
+    .hero-grid {
+      grid-template-columns: 1fr !important;
+      gap: 0 !important;
+      min-height: 0 !important;
+    }
+    .hero-art-wrap {
+      display: none !important;
+    }
+    h1.display { font-size: clamp(52px, 14vw, 76px) !important; line-height: 0.93 !important; letter-spacing: -0.04em !important; margin-bottom: 14px !important; }
+    .hero-actions { flex-direction: column; align-items: stretch; margin-top: 8px; }
+    .hero-actions .cta.big {
+      width: 100%; text-align: center;
+      font-size: 17px; padding: 20px 24px;
+    }
+    .hero-actions .meta { text-align: center; font-size: 12px; }
+    .sub { font-size: 16px; line-height: 1.45; }
+    .eyebrow { font-size: 12px !important; margin-bottom: 10px !important; margin-top: 0 !important; }
+    .typer-line { font-size: 14px; margin: 14px 0 18px; }
+
+    /* Hide desktop art on mobile */
+    .plate { display: none; }
+
+    /* Sections */
+    section { padding: 60px 0; }
+    .wrap { padding: 0 18px; }
+    .section-head { gap: 12px; margin-bottom: 32px; }
+    .section-head .label { font-size: 10px; }
+    .section-head h2 { font-size: clamp(36px, 10vw, 50px); }
+    .section-head p { font-size: 14px; }
+
+    /* Offer grid — force 2x2, bigger titles */
+    .offer-grid { gap: 12px; grid-template-columns: 1fr 1fr !important; }
+    .offer-cell { padding: 24px 20px; }
+    .offer-cell h3 { font-size: 28px; }
+    .offer-cell p { font-size: 13px; }
+
+    /* Risk scoreboard */
+    .risk { padding: 28px 20px; }
+    .risk h3 { font-size: clamp(34px, 9vw, 44px); }
+
+    /* FAQ */
+    details.faq { padding: 18px 0; }
+    .faq summary { gap: 16px; min-height: 48px; }
+    .faq .q { font-size: clamp(24px, 6.5vw, 32px); }
+    .faq .toggle { width: 44px; height: 44px; }
+    .faq .a { font-size: 14px; margin-top: 14px; }
+
+    /* Final CTA — big heading, compact animated button */
+    .final { padding: 80px 0 60px; }
+    .final h2 { font-size: clamp(54px, 15vw, 80px); line-height: 0.86; }
+    .final p { font-size: 14px; }
+    .final .cta.big {
+      font-size: 14px !important; padding: 16px 28px !important;
+      animation: cta-pulse 2.5s ease-in-out infinite;
+    }
+    @keyframes cta-pulse {
+      0%, 100% { box-shadow: 0 4px 20px rgba(214,168,87,0.3); }
+      50% { box-shadow: 0 6px 32px rgba(214,168,87,0.6), 0 0 0 6px rgba(214,168,87,0.1); }
+    }
+
+    /* Footer */
+    footer { padding: 36px 0 24px; }
+    footer .row { grid-template-columns: 1fr; gap: 24px; }
+    footer .colophon { font-size: 10px; flex-direction: column; align-items: flex-start; gap: 10px; }
+
+    /* Extra bottom padding so sticky pill doesn't cover content */
+    body { padding-bottom: 56px; }
+
+    /* Modal */
+    .modal { width: 100%; max-height: calc(100dvh - 24px); padding: 26px 20px; border-radius: 18px; }
+    .modal.wide { width: 100%; padding: 24px 16px; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+  }
+</style>
+</head>
+<body>
+
+<div class="bg-base"></div>
+<div class="bg-rays"></div>
+<div class="bg-aurora"></div>
+<div class="bg-grid"></div>
+<div class="bg-noise"></div>
+
+<nav class="top">
+  <div class="wrap">
+    <a href="#" class="brand">
+      <span class="mark"></span>
+      DirectSite
+    </a>
+    <div class="links">
+      <a href="#offer">Offer</a>
+      <a href="/services">Services</a>
+      <a href="#faq">FAQ</a>
+    </div>
+    <button class="cta-tiny" data-book>Book a Free Call &#8594;</button>
+  </div>
+</nav>
+
+<main>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="wrap">
+      <div class="hero-grid">
+
+        <div>
+          <span class="eyebrow reveal">
+            <span class="dot"></span>
+            <span>Custom web design · Made in Australia</span>
+          </span>
+
+          <h1 class="display reveal d1">Websites for<br/>local <em class="f">Aussie</em> businesses.<br/>Built in <em class="f">48 hours</em>.<br/>Live in <em class="f">three days</em>.</h1>
+
+          <div class="typer-line reveal d2">
+            <span class="prompt">&rsaquo;</span>
+            <span id="typer">Reading your business&#8230;</span>
+            <span class="caret"></span>
+          </div>
+
+          <p class="sub reveal d2" style="font-size: 15px">Send us your current site or a few details about your business. We build a real, working demo within 48 hours. Request changes, then pay only when you love it. Live in 3 days after approval.</p>
+
+          <div class="hero-actions reveal d3">
+            <button class="cta big" data-book>
+              Book a Free Call to See Your Website
+              <span class="arrow" aria-hidden="true">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+              </span>
+            </button>
+            <span class="meta">10 MIN · NO OBLIGATION · AUSTRALIA-WIDE</span>
+          </div>
+        </div>
+
+        <div class="hero-art-wrap" aria-hidden="true">
+
+          <!-- Floating glass browser plate (desktop preview) -->
+          <div class="plate">
+            <div class="glass">
+              <div class="topbar">
+                <span class="d"></span><span class="d"></span><span class="d"></span>
+                <span class="url">yourbusiness.com.au</span>
+              </div>
+              <div class="pcontent">
+                <h3 class="ph-title">Built for <em class="f">you</em>.</h3>
+                <div class="ph-line"></div>
+                <div class="ph-line short"></div>
+                <div class="ph-btn">Live now &#8594;</div>
+              </div>
+            </div>
+          </div>
+
+
+          <!-- 3D iPhone -->
+          <div class="iphone-stage" id="iphoneStage">
+            <div class="iphone-shadow"></div>
+            <div class="iphone-body" id="iphoneBody">
+              <div class="iphone-side-shine"></div>
+              <div class="iphone-bezel">
+                <div class="iphone-island"></div>
+                <div class="iphone-screen">
+                  <div class="iphone-screen-content">
+                    <div class="screen-status-bar">
+                      <span class="status-time">9:41</span>
+                      <span class="status-island-spacer"></span>
+                      <span class="screen-status-icons">
+                        <svg width="16" height="11" viewBox="0 0 16 11" fill="currentColor"><path d="M1 7.5C1 6.67 1.67 6 2.5 6h1C4.33 6 5 6.67 5 7.5v2C5 10.33 4.33 11 3.5 11h-1C1.67 11 1 10.33 1 9.5v-2zM6 5c0-.83.67-1.5 1.5-1.5h1c.83 0 1.5.67 1.5 1.5v4.5c0 .83-.67 1.5-1.5 1.5h-1C6.67 11 6 10.33 6 9.5V5zM11 2.5c0-.83.67-1.5 1.5-1.5h1c.83 0 1.5.67 1.5 1.5v7c0 .83-.67 1.5-1.5 1.5h-1c-.83 0-1.5-.67-1.5-1.5v-7z"/></svg>
+                        <svg width="15" height="11" viewBox="0 0 15 11" fill="currentColor"><path d="M7.5 3.3a5.8 5.8 0 014.1 1.7l1.1-1.1A7.4 7.4 0 007.5 1.2 7.4 7.4 0 002.3 3.9L3.4 5A5.8 5.8 0 017.5 3.3zM7.5 6.5c1.1 0 2.1.4 2.9 1.2l1.1-1.1A5.8 5.8 0 007.5 4.9a5.8 5.8 0 00-4 1.7L4.6 7.7A4.2 4.2 0 017.5 6.5zM7.5 9a2 2 0 00-1.5.6l1.5 1.8 1.5-1.8A2 2 0 007.5 9z"/></svg>
+                        <svg width="25" height="11" viewBox="0 0 25 11" fill="currentColor"><rect x="0" y="1" width="21" height="9" rx="2" stroke="currentColor" stroke-width="1" fill="none"/><rect x="22" y="3.5" width="1.5" height="4" rx=".5"/><rect x="2" y="3" width="15" height="5" rx="1" fill="var(--gold-2)"/></svg>
+                      </span>
+                    </div>
+                    <div class="safari-url-bar">
+                      <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 2a10 10 0 100 20 10 10 0 000-20z"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10A15.3 15.3 0 0112 2z"/></svg>
+                      <span class="safari-url-text">yourbusiness.com.au</span>
+                      <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 12v8a2 2 0 002 2h12a2 2 0 002-2v-8"/><polyline points="16 6 12 2 8 6"/><line x1="12" y1="2" x2="12" y2="15"/></svg>
+                    </div>
+                    <div class="safari-page-content" id="safariContent">
+                      <div class="mob-site-nav">
+                        <span class="screen-brand-dot"></span>
+                        <span style="font:600 9px/1 var(--sans);color:var(--ink);">DirectSite</span>
+                        <span style="margin-left:auto;font:500 8px/1 var(--sans);color:var(--ink-soft);">&#9776;</span>
+                      </div>
+                      <div class="mob-site-hero">
+                        <div class="mob-site-hero-gradient"></div>
+                        <div class="mob-site-hero-text">
+                          <span style="font:500 7px/1 var(--mono);opacity:.65;letter-spacing:.14em;text-transform:uppercase;">Custom web design</span>
+                          <span style="font-family:var(--serif);font-size:18px;line-height:1;letter-spacing:-.02em;">Your website,<br/>built in <em class="f" style="font-style:italic;">48h</em>.</span>
+                        </div>
+                      </div>
+                      <div style="padding:8px 12px 0;">
+                        <div class="screen-cta-pill">Book a Free Call &#8594;</div>
+                      </div>
+
+                      <div class="mob-site-section-head" style="padding-top:14px;">
+                        <div style="font:500 6px/1 var(--mono);color:var(--gold);text-transform:uppercase;letter-spacing:.18em;">01 · The Offer</div>
+                        <div style="font-family:var(--serif);font-size:13px;line-height:1.05;color:var(--ink);margin-top:4px;letter-spacing:-.01em;">An <em style="font-style:italic;background:var(--foil);background-size:240% 240%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:foil-shimmer 9s linear infinite;">unfair</em> advantage.</div>
+                      </div>
+                      <div class="mob-site-offer-grid">
+                        <div class="mob-site-offer-cell">
+                          <div style="font-family:var(--serif);font-style:italic;font-size:18px;line-height:.85;background:var(--foil);background-size:240% 240%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:foil-shimmer 9s linear infinite;">01</div>
+                          <div style="font:600 7px/1.2 var(--sans);color:var(--ink);">Real demo in 48h</div>
+                          <div style="font:400 6px/1.3 var(--sans);color:var(--ink-soft);">Not a mockup. A working site.</div>
+                        </div>
+                        <div class="mob-site-offer-cell">
+                          <div style="font-family:var(--serif);font-style:italic;font-size:18px;line-height:.85;background:var(--foil);background-size:240% 240%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:foil-shimmer 9s linear infinite;">02</div>
+                          <div style="font:600 7px/1.2 var(--sans);color:var(--ink);">See before you pay</div>
+                          <div style="font:400 6px/1.3 var(--sans);color:var(--ink-soft);">We show, you decide.</div>
+                        </div>
+                        <div class="mob-site-offer-cell">
+                          <div style="font-family:var(--serif);font-style:italic;font-size:18px;line-height:.85;background:var(--foil);background-size:240% 240%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:foil-shimmer 9s linear infinite;">03</div>
+                          <div style="font:600 7px/1.2 var(--sans);color:var(--ink);">Free changes</div>
+                          <div style="font:400 6px/1.3 var(--sans);color:var(--ink-soft);">Until it's exactly right.</div>
+                        </div>
+                        <div class="mob-site-offer-cell">
+                          <div style="font-family:var(--serif);font-style:italic;font-size:18px;line-height:.85;background:var(--foil);background-size:240% 240%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:foil-shimmer 9s linear infinite;">04</div>
+                          <div style="font:600 7px/1.2 var(--sans);color:var(--ink);">Pay when you love it</div>
+                          <div style="font:400 6px/1.3 var(--sans);color:var(--ink-soft);">Walk away owing $0.</div>
+                        </div>
+                      </div>
+
+                      <div class="mob-site-risk-box">
+                        <div style="font-family:var(--serif);font-size:11px;line-height:1.1;color:var(--ink);letter-spacing:-.01em;">You bear <em style="font-style:italic;">no risk</em>.</div>
+                        <div style="display:flex;gap:5px;margin-top:6px;">
+                          <div class="mob-site-score">
+                            <div style="font:500 5px/1 var(--mono);color:var(--ink-soft);text-transform:uppercase;letter-spacing:.14em;">Our risk</div>
+                            <div style="font-family:var(--serif);font-size:16px;line-height:.9;color:var(--ink);">100%</div>
+                          </div>
+                          <div class="mob-site-score gold">
+                            <div style="font:500 5px/1 var(--mono);color:var(--ink-soft);text-transform:uppercase;letter-spacing:.14em;">Your risk</div>
+                            <div style="font-family:var(--serif);font-size:16px;line-height:.9;background:var(--foil);background-size:240% 240%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:foil-shimmer 9s linear infinite;">$0</div>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="mob-site-section-head" style="padding-top:12px;">
+                        <div style="font:500 6px/1 var(--mono);color:var(--gold);text-transform:uppercase;letter-spacing:.18em;">02 · Process</div>
+                        <div style="font-family:var(--serif);font-size:13px;line-height:1.05;color:var(--ink);margin-top:4px;letter-spacing:-.01em;">How it <em style="font-style:italic;">works</em>.</div>
+                      </div>
+                      <div class="mob-site-steps">
+                        <div class="mob-site-step"><div class="mob-step-num">1</div><div><div style="font:600 7px/1.2 var(--sans);color:var(--ink);">Submit the form</div><div style="font:400 6px/1.3 var(--sans);color:var(--ink-soft);">Tell us about your business.</div></div></div>
+                        <div class="mob-site-step"><div class="mob-step-num">2</div><div><div style="font:600 7px/1.2 var(--sans);color:var(--ink);">Review your demo</div><div style="font:400 6px/1.3 var(--sans);color:var(--ink-soft);">We build it in 48 hours.</div></div></div>
+                        <div class="mob-site-step"><div class="mob-step-num">3</div><div><div style="font:600 7px/1.2 var(--sans);color:var(--ink);">Request changes</div><div style="font:400 6px/1.3 var(--sans);color:var(--ink-soft);">Unlimited revisions, free.</div></div></div>
+                        <div class="mob-site-step"><div class="mob-step-num">4</div><div><div style="font:600 7px/1.2 var(--sans);color:var(--ink);">Go live</div><div style="font:400 6px/1.3 var(--sans);color:var(--ink-soft);">Pay and launch in days.</div></div></div>
+                      </div>
+
+                      <div class="mob-site-section-head" style="padding-top:12px;">
+                        <div style="font:500 6px/1 var(--mono);color:var(--gold);text-transform:uppercase;letter-spacing:.18em;">03 · Solutions</div>
+                        <div style="font-family:var(--serif);font-size:13px;line-height:1.05;color:var(--ink);margin-top:4px;letter-spacing:-.01em;">Built for <em class="f" style="font-style:italic;">every</em> business.</div>
+                      </div>
+                      <div class="mob-site-cards">
+                        <div class="mob-site-card" style="padding:8px;"><div style="font:600 7px/1.2 var(--sans);color:var(--ink);">Redesigns</div><div style="font:400 6px/1.3 var(--sans);color:var(--ink-soft);">Modernise your existing site.</div></div>
+                        <div class="mob-site-card" style="padding:8px;"><div style="font:600 7px/1.2 var(--sans);color:var(--ink);">New builds</div><div style="font:400 6px/1.3 var(--sans);color:var(--ink-soft);">Start from scratch.</div></div>
+                      </div>
+                      <div class="mob-site-cards" style="padding-top:5px;">
+                        <div class="mob-site-card" style="padding:8px;"><div style="font:600 7px/1.2 var(--sans);color:var(--ink);">E-commerce</div><div style="font:400 6px/1.3 var(--sans);color:var(--ink-soft);">Sell online, fast.</div></div>
+                        <div class="mob-site-card" style="padding:8px;"><div style="font:600 7px/1.2 var(--sans);color:var(--ink);">Lead gen</div><div style="font:400 6px/1.3 var(--sans);color:var(--ink-soft);">Book more clients.</div></div>
+                      </div>
+
+                      <div class="mob-site-final">
+                        <div style="font-family:var(--serif);font-size:14px;line-height:1.05;color:var(--ink);text-align:center;letter-spacing:-.01em;">Worst case:<br/><em class="f" style="font-style:italic;">a free website</em>.</div>
+                        <div style="text-align:center;margin-top:8px;"><div class="screen-cta-pill">Book a Free Call &#8594;</div></div>
+                        <div style="font:500 5px/1 var(--mono);color:var(--ink-soft);text-transform:uppercase;letter-spacing:.14em;text-align:center;margin-top:6px;">No deposit · Live in three days</div>
+                      </div>
+
+                      <div class="mob-site-footer">
+                        <span class="screen-brand-dot" style="width:12px;height:12px;border-radius:3px;"></span>
+                        <span style="font:500 7px/1 var(--sans);color:var(--ink-soft);">© 2026 DirectSite</span>
+                      </div>
+
+                      <div class="mob-site-section-head" style="padding-top:12px;">
+                        <div style="font:500 6px/1 var(--mono);color:var(--gold);text-transform:uppercase;letter-spacing:.18em;">04 · FAQ</div>
+                        <div style="font-family:var(--serif);font-size:13px;line-height:1.05;color:var(--ink);margin-top:4px;letter-spacing:-.01em;">Common <em style="font-style:italic;">questions</em>.</div>
+                      </div>
+                      <div class="mob-site-faq-list">
+                        <div class="mob-faq-item"><div style="font:600 7px/1.3 var(--sans);color:var(--ink);">How fast can you build a website?</div><div style="font:400 6px/1.3 var(--sans);color:var(--ink-soft);margin-top:2px;">Demo in 48h, live in three days.</div></div>
+                        <div class="mob-faq-item"><div style="font:600 7px/1.3 var(--sans);color:var(--ink);">What if I want changes?</div><div style="font:400 6px/1.3 var(--sans);color:var(--ink-soft);margin-top:2px;">Unlimited free revisions before you pay.</div></div>
+                        <div class="mob-faq-item"><div style="font:600 7px/1.3 var(--sans);color:var(--ink);">How much does it cost?</div><div style="font:400 6px/1.3 var(--sans);color:var(--ink-soft);margin-top:2px;">Custom pricing, agreed transparently.</div></div>
+                        <div class="mob-faq-item"><div style="font:600 7px/1.3 var(--sans);color:var(--ink);">Do you work outside Australia?</div><div style="font:400 6px/1.3 var(--sans);color:var(--ink-soft);margin-top:2px;">AU/NZ timezone, remote nationwide.</div></div>
+                      </div>
+
+                      <div class="mob-site-section-head" style="padding-top:12px;">
+                        <div style="font:500 6px/1 var(--mono);color:var(--gold);text-transform:uppercase;letter-spacing:.18em;">05 · Get started</div>
+                        <div style="font-family:var(--serif);font-size:13px;line-height:1.05;color:var(--ink);margin-top:4px;letter-spacing:-.01em;">Book your <em class="f" style="font-style:italic;">free</em> demo.</div>
+                      </div>
+                      <div class="mob-site-form">
+                        <div class="mob-form-field"><div style="font:500 5px/1 var(--mono);color:var(--ink-soft);text-transform:uppercase;letter-spacing:.14em;margin-bottom:3px;">Your name</div><div class="mob-form-input"></div></div>
+                        <div class="mob-form-field"><div style="font:500 5px/1 var(--mono);color:var(--ink-soft);text-transform:uppercase;letter-spacing:.14em;margin-bottom:3px;">Business name</div><div class="mob-form-input"></div></div>
+                        <div class="mob-form-field"><div style="font:500 5px/1 var(--mono);color:var(--ink-soft);text-transform:uppercase;letter-spacing:.14em;margin-bottom:3px;">Email or phone</div><div class="mob-form-input"></div></div>
+                        <div class="mob-form-field"><div style="font:500 5px/1 var(--mono);color:var(--ink-soft);text-transform:uppercase;letter-spacing:.14em;margin-bottom:3px;">Website type</div><div class="mob-form-input" style="display:flex;align-items:center;justify-content:space-between;"><span style="font:400 6px/1 var(--sans);color:var(--ink-mute);">Choose one&#8230;</span><span style="font:400 7px/1 var(--sans);color:var(--ink-soft);">&#9662;</span></div></div>
+                        <div style="padding:4px 0 0;"><div class="screen-cta-pill" style="width:100%;text-align:center;padding:8px;">Send me my 48-hour demo &#8594;</div></div>
+                      </div>
+
+                      <div class="mob-site-final">
+                        <div style="font-family:var(--serif);font-size:14px;line-height:1.05;color:var(--ink);text-align:center;letter-spacing:-.01em;">Still thinking?<br/><em class="f" style="font-style:italic;">No risk</em>. No deposit.</div>
+                        <div style="text-align:center;margin-top:8px;"><div class="screen-cta-pill">Book a Free Call &#8594;</div></div>
+                      </div>
+
+                      <div class="mob-site-section-head" style="padding-top:12px;">
+                        <div style="font:500 6px/1 var(--mono);color:var(--gold);text-transform:uppercase;letter-spacing:.18em;">06 · Service area</div>
+                      </div>
+                      <div class="mob-site-locations">
+                        <div class="mob-location-tag">Sydney</div>
+                        <div class="mob-location-tag">Melbourne</div>
+                        <div class="mob-location-tag">Brisbane</div>
+                        <div class="mob-location-tag">Perth</div>
+                        <div class="mob-location-tag">Adelaide</div>
+                        <div class="mob-location-tag">Hobart</div>
+                        <div class="mob-location-tag">Remote AU</div>
+                      </div>
+
+                      <div class="mob-site-text" style="padding-top:12px;">
+                        <div class="screen-line w90"></div>
+                        <div class="screen-line w70"></div>
+                        <div class="screen-line w80"></div>
+                        <div class="screen-line w60"></div>
+                      </div>
+                      <div class="mob-site-text">
+                        <div class="screen-line w80"></div>
+                        <div class="screen-line w90"></div>
+                        <div class="screen-line w60"></div>
+                      </div>
+                      <div class="mob-site-final">
+                        <div style="font-family:var(--serif);font-size:12px;line-height:1.05;color:var(--ink);text-align:center;letter-spacing:-.01em;">Your website.<br/><em class="f" style="font-style:italic;">Your way</em>.</div>
+                        <div style="text-align:center;margin-top:8px;"><div class="screen-cta-pill">Start now &#8594;</div></div>
+                      </div>
+
+                      <div style="height:20px;flex-shrink:0;"></div>
+                    </div>
+                    </div>
+                    <div class="safari-bottom-bar">
+                      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><polyline points="15 18 9 12 15 6"/></svg>
+                      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><polyline points="9 18 15 12 9 6"/></svg>
+                      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10A15.3 15.3 0 0112 2z"/></svg>
+                      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg>
+                    </div>
+                  </div>
+                  <div class="iphone-screen-reflection"></div>
+                </div>
+              </div>
+              <div class="iphone-glass-reflection"></div>
+            </div>
+          </div>
+
+
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- OFFER -->
+  <section class="offer" id="offer">
+    <div class="wrap">
+      <div class="section-head">
+        <div class="label reveal"><span class="num">01</span>The Offer</div>
+        <div>
+          <h2 class="reveal d1">An <em class="f">unfair</em> advantage.<br/>The risk is on us.</h2>
+          <p class="lead reveal d2">
+            Every other agency wants a deposit, a brief and three rounds of revisions before you see anything real. We flip it. Submit a quick form, get a real demo within 48 hours, decide afterwards.
+          </p>
+        </div>
+      </div>
+
+      <div class="offer-grid">
+        <div class="offer-cell reveal">
+          <div class="num">01</div>
+          <div class="t">A real demo in 48 hours.</div>
+          <div class="d">Not a mockup. A working site you can click through.</div>
+        </div>
+        <div class="offer-cell reveal d1">
+          <div class="num">02</div>
+          <div class="t">You see it before you pay anything.</div>
+          <div class="d">We get on a call. Send you the link and talk you through it.</div>
+        </div>
+        <div class="offer-cell reveal d2">
+          <div class="num">03</div>
+          <div class="t">Request changes &#8212; for free.</div>
+          <div class="d">We update the demo until it's exactly right.</div>
+        </div>
+        <div class="offer-cell reveal d3">
+          <div class="num">04</div>
+          <div class="t">Pay only when you love it.</div>
+          <div class="d">Live within three days of approval. Don't love it &#8212; walk away owing nothing.</div>
+        </div>
+      </div>
+
+      <div class="risk reveal d2">
+        <div>
+          <h3>You bear <em>no risk</em>.<br/>We bear all of it.</h3>
+          <p>Most agencies sell you a promise. We send you a finished website within 48 hours. If our work can't earn your money on its own merit &#8212; that's our problem, not yours.</p>
+        </div>
+        <div class="scoreboard">
+          <div class="score us">
+            <div class="who">Our risk</div>
+            <div class="val">100%</div>
+            <div class="lbl">Time, design, code, hosting &#8212; all on us until you say yes.</div>
+          </div>
+          <div class="score you">
+            <div class="who">Your risk</div>
+            <div class="val">$0</div>
+            <div class="lbl">No deposit. No contract. No obligation.</div>
+          </div>
+        </div>
+      </div>
+
+      <div style="margin-top: 56px; display: flex; justify-content: center;" class="reveal">
+        <button class="cta big" data-book>
+          Book a Free Call to See Your Website
+          <span class="arrow"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></span>
+        </button>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- FAQ -->
+  <section id="faq">
+    <div class="wrap">
+      <div class="section-head">
+        <div class="label reveal"><span class="num">02</span>Questions</div>
+        <div>
+          <h2 class="reveal d1">The <em class="f">"what's the catch"</em> section.</h2>
+          <p class="lead reveal d2">There isn't one. But here are the questions we get on every call.</p>
+        </div>
+      </div>
+
+      <div class="faq-list">
+        <details class="faq reveal" open>
+          <summary>
+            <span class="q">How can you really turn around a demo in 48 hours?</span>
+            <span class="toggle">+</span>
+          </summary>
+          <p class="a">Because we've built a tight in-house process and we only take on a handful of new builds at once. The moment your form hits our inbox, design starts. Forty-eight hours later, you have a working website to click through &#8212; not a mood-board, not a quote.</p>
+        </details>
+        <details class="faq reveal d1">
+          <summary>
+            <span class="q">How long until my site is actually live?</span>
+            <span class="toggle">+</span>
+          </summary>
+          <p class="a">You get your demo within 48 hours of submitting the form. From there, you review it, request any changes you want, and once you're happy &#8212; we take it live within three days of approval. <strong>Most clients go from form to live site in under a week.</strong></p>
+        </details>
+        <details class="faq reveal d2">
+          <summary>
+            <span class="q">Seriously &#8212; what's the catch?</span>
+            <span class="toggle">+</span>
+          </summary>
+          <p class="a">No catch. <strong>No deposit. No contract before the demo. No retainer.</strong> You don't pay until you've seen the finished website and asked for any changes you want. If you don't love it, you walk away owing nothing.</p>
+        </details>
+        <details class="faq reveal d2">
+          <summary>
+            <span class="q">What happens if I want changes to the demo?</span>
+            <span class="toggle">+</span>
+          </summary>
+          <p class="a">You'll get them. We update the demo as many times as it takes to feel like <em>your</em> website. <strong>All revisions happen before you pay anything.</strong> Most builds are dialled in within one or two rounds.</p>
+        </details>
+        <details class="faq reveal">
+          <summary>
+            <span class="q">I already have a website. Can you redesign it?</span>
+            <span class="toggle">+</span>
+          </summary>
+          <p class="a">That's our most common request. Drop your current URL into the form and we'll send a redesigned version of it within 48 hours &#8212; better, faster, and tuned for your actual customers. Same offer: <strong>no payment until you love it.</strong></p>
+        </details>
+        <details class="faq reveal d1">
+          <summary>
+            <span class="q">How much does the website cost if I love it?</span>
+            <span class="toggle">+</span>
+          </summary>
+          <p class="a">Pricing is <strong>custom &#8212; tailored to your business, scope and goals.</strong> The right number for a sole-trader plumber is different from a multi-location franchise. We agree the price transparently before any money moves.</p>
+        </details>
+        <details class="faq reveal d2">
+          <summary>
+            <span class="q">Do you only work with Australian businesses?</span>
+            <span class="toggle">+</span>
+          </summary>
+          <p class="a">We're built in Australia and our heart is here. We also work with businesses across AU/NZ time zones. <strong>Local SEO, .com.au domains, Stripe AU, AusPost integrations &#8212; all native.</strong></p>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <!-- FINAL CTA -->
+  <section class="final">
+    <div class="final-orbit">
+      <div class="o r1"></div>
+      <div class="o r2"></div>
+      <div class="o r3"></div>
+    </div>
+    <div class="wrap">
+      <div style="font: 500 11px/1 var(--mono); text-transform: uppercase; letter-spacing: 0.22em; margin-bottom: 24px; position: relative;" class="reveal">
+        <span style="color: var(--ink-soft);">[ Last call · </span><span class="foil" style="font-weight: 600">Demo within 48 hours</span><span style="color: var(--ink-soft);"> ]</span>
+      </div>
+      <h2 class="reveal d1">
+        Worst case:<br/>
+        a <em class="f">free website</em>.
+      </h2>
+      <p class="reveal d2">
+        Submit the form. We send your demo within 48 hours. You decide. If it's a yes, we go live in days &#8212; if it isn't, we shake hands and you walk away.
+      </p>
+      <button class="cta big reveal d3" data-book style="font-size: 19px; padding: 26px 36px;">
+        Book a Free Call to See Your Business's Website
+        <span class="arrow"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></span>
+      </button>
+      <div class="meta reveal d4" style="margin-top: 32px;">No deposit · 48-hour demo · Live in three days · Australia-wide</div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="wrap">
+      <div class="row">
+        <div>
+          <a href="#" class="brand">
+            <span class="mark"></span>
+            DirectSite
+          </a>
+          <p style="color: var(--ink-soft); font-size: 14px; line-height: 1.5; margin: 18px 0 0; max-width: 320px;">
+            Custom websites for Aussie small businesses. Built in 48 hours. Live in three days. Paid only when you love it.
+          </p>
+        </div>
+        <div>
+          <h5>Company</h5>
+          <ul>
+            <li><a href="#offer">Offer</a></li>
+            <li><a href="#faq">FAQ</a></li>
+          </ul>
+        </div>
+        <div>
+          <h5>Contact</h5>
+          <ul>
+            <li><a href="#" data-book>Book a call</a></li>
+            <li><a href="https://cal.com/arjun-sharma-l5xsle/directsite-strategy-call" target="_blank">Schedule a call</a></li>
+          </ul>
+        </div>
+        <div>
+          <h5>Service area</h5>
+          <ul>
+            <li>Sydney · Melbourne</li>
+            <li>Brisbane · Perth</li>
+            <li>Australia-wide remote</li>
+          </ul>
+        </div>
+      </div>
+      <div class="colophon">
+        <span>&#169; 2026 DirectSite</span>
+        <span>Made in Australia</span>
+      </div>
+    </div>
+  </footer>
+
+</main>
+
+<!-- BOOKING MODAL -->
+<div class="modal-bg" id="modal">
+  <div class="modal">
+    <button class="x" id="modal-x" aria-label="Close">&#215;</button>
+    <!-- STEP 1 · Your details -->
+    <div class="mstep active" data-step="1">
+      <div class="label">Step 1 of 3 · Demo within 48 hours</div>
+      <h3>Get your <em class="f">free site</em>.</h3>
+      <p class="sub">First, who are we building for? No deposit, no obligation &#8212; just a real, working demo of your site within 48 hours.</p>
+      <form id="form1" onsubmit="event.preventDefault(); window.__step1();">
+        <div class="field">
+          <label>Your name</label>
+          <input id="f-name" type="text" required placeholder="Mel B." />
+        </div>
+        <div class="field">
+          <label>Business name</label>
+          <input id="f-biz" type="text" required placeholder="Mel's Plumbing &amp; Gas" />
+        </div>
+        <div class="row2">
+          <div class="field">
+            <label>Email</label>
+            <input id="f-email" type="email" required placeholder="mel@example.com.au" />
+          </div>
+          <div class="field">
+            <label>Phone</label>
+            <input id="f-phone" type="tel" required placeholder="0400 000 000" />
+          </div>
+        </div>
+        <button class="submit" type="submit">Continue &#8594;</button>
+        <p class="fineprint">No deposit · Live in three days · Walk away anytime</p>
+      </form>
+    </div>
+
+    <!-- STEP 2 · Branch choice -->
+    <div class="mstep" data-step="branch">
+      <button class="back-btn" type="button" onclick="window.__go('1')">&#8592; Back</button>
+      <div class="label">Step 2 of 3</div>
+      <h3>New site or a <em class="f">redesign</em>?</h3>
+      <p class="sub">So we know exactly where to start. Pick the one that fits you.</p>
+      <div class="choice-grid">
+        <button class="choice" type="button" onclick="window.__choose('new')">
+          <span class="choice-ic">&#10022;</span>
+          <span class="choice-t">New website</span>
+          <span class="choice-d">Starting fresh &#8212; no site yet, or starting over.</span>
+        </button>
+        <button class="choice" type="button" onclick="window.__choose('redesign')">
+          <span class="choice-ic">&#8635;</span>
+          <span class="choice-t">Website redesign</span>
+          <span class="choice-d">I have a site already &#8212; make it look right.</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- STEP 2 · New website details -->
+    <div class="mstep" data-step="new">
+      <button class="back-btn" type="button" onclick="window.__go('branch')">&#8592; Back</button>
+      <div class="label">Step 2 of 3 · New build</div>
+      <h3>Tell us about the <em class="f">business</em>.</h3>
+      <p class="sub">The essentials we need to build your site. The more you give us, the sharper your demo.</p>
+      <form id="form-new" onsubmit="event.preventDefault(); window.__step2('new');">
+        <div class="field">
+          <label>What does the business do?</label>
+          <input id="n-industry" type="text" required placeholder="Emergency plumbing &amp; hot water" />
+        </div>
+        <div class="field">
+          <label>Main services to feature</label>
+          <input id="n-services" type="text" required placeholder="Blocked drains, leak repairs, gas fitting" />
+        </div>
+        <div class="field">
+          <label>Service area / suburb</label>
+          <input id="n-area" type="text" required placeholder="Melbourne &amp; eastern suburbs" />
+        </div>
+        <div class="row2">
+          <div class="field">
+            <label>Instagram <span style="text-transform:none;color:var(--ink-mute)">(optional)</span></label>
+            <input id="n-ig" type="text" placeholder="@melsplumbing" />
+          </div>
+          <div class="field">
+            <label>Facebook <span style="text-transform:none;color:var(--ink-mute)">(optional)</span></label>
+            <input id="n-fb" type="text" placeholder="facebook.com/melsplumbing" />
+          </div>
+        </div>
+        <div class="field">
+          <label>Google Business / reviews link <span style="text-transform:none;color:var(--ink-mute)">(optional)</span></label>
+          <input id="n-google" type="text" placeholder="Paste your Google profile link" />
+        </div>
+        <div class="field">
+          <label>Brand colours, logo or vibe <span style="text-transform:none;color:var(--ink-mute)">(optional)</span></label>
+          <textarea id="n-brand" placeholder="Navy &amp; white, have a logo, want it clean and trustworthy&#8230;"></textarea>
+        </div>
+        <button class="submit" type="submit">Continue &#8594;</button>
+        <p class="fineprint">Almost there · One last step</p>
+      </form>
+    </div>
+
+    <!-- STEP 2 · Redesign details -->
+    <div class="mstep" data-step="redesign">
+      <button class="back-btn" type="button" onclick="window.__go('branch')">&#8592; Back</button>
+      <div class="label">Step 2 of 3 · Redesign</div>
+      <h3>Let's see the <em class="f">current site</em>.</h3>
+      <p class="sub">Drop your existing URL and we'll rebuild it &#8212; faster, sharper, and built to convert.</p>
+      <form id="form-re" onsubmit="event.preventDefault(); window.__step2('redesign');">
+        <div class="field">
+          <label>Current website URL</label>
+          <input id="r-url" type="text" required placeholder="https://yourcurrentsite.com.au" />
+        </div>
+        <div class="field">
+          <label>What's not working about it? <span style="text-transform:none;color:var(--ink-mute)">(optional)</span></label>
+          <textarea id="r-notes" placeholder="Looks dated, slow on mobile, no booking button, hard to update&#8230;"></textarea>
+        </div>
+        <button class="submit" type="submit">Continue &#8594;</button>
+        <p class="fineprint">Almost there · One last step</p>
+      </form>
+    </div>
+
+    <!-- STEP 3 · Book the call (Cal.com inline embed) -->
+    <div class="mstep" data-step="book">
+      <button class="back-btn" type="button" onclick="window.__back2()">&#8592; Back</button>
+      <div class="label">Step 3 of 3 · Almost there</div>
+      <h3>Wait &#8212; you're <em class="f">not done</em> yet.</h3>
+      <p class="sub">Your site is being built right now. Book your free 10-minute call below to see it live, screen to screen.</p>
+      <div id="cal-embed" class="cal-embed"><div class="cal-loading">Loading available times&#8230;</div></div>
+      <p class="fineprint">10 min · Google Meet · No deposit · No obligation</p>
+    </div>
+  </div>
+</div>
+
+<div class="mobile-sticky hidden">
+  <button class="cta" data-book><span class="sticky-dot"></span> See Your Free Demo</button>
+</div>
+
+<script>
+  var lines = [
+    "No deposit required.",
+    "100% risk-free.",
+    "Done for you, start to finish.",
+    "Your site, built in 48 hours.",
+    "Zero obligation. Walk away anytime.",
+    "Real demo before you pay a cent.",
+    "Live in three days.",
+    "No contracts. No lock-in.",
+  ];
+  var typer = document.getElementById('typer');
+  var li = 0, ci = 0, deleting = false;
+  function type() {
+    var cur = lines[li];
+    if (!deleting) {
+      ci++;
+      typer.textContent = cur.slice(0, ci);
+      if (ci === cur.length) { deleting = true; setTimeout(type, 1800); return; }
+      setTimeout(type, 30 + Math.random() * 30);
+    } else {
+      ci--;
+      typer.textContent = cur.slice(0, ci);
+      if (ci === 0) { deleting = false; li = (li + 1) % lines.length; setTimeout(type, 280); return; }
+      setTimeout(type, 14);
+    }
+  }
+  type();
+
+  (function() {
+    var iphoneBody = document.getElementById('iphoneBody');
+    var iphoneStage = document.getElementById('iphoneStage');
+    var safariContent = document.getElementById('safariContent');
+    if (!iphoneBody || !iphoneStage || !safariContent) return;
+
+    // Wrap all children in an inner div so transform doesn't expose the background
+    var inner = document.createElement('div');
+    inner.style.cssText = 'display:flex;flex-direction:column;will-change:transform;';
+    while (safariContent.firstChild) inner.appendChild(safariContent.firstChild);
+    safariContent.appendChild(inner);
+
+    var targetRY = -12, targetRX = 4;
+    var currentRY = -12, currentRX = 4;
+    var scrollTiltX = 0, scrollTiltY = 0;
+    var scrollContentY = 0;
+    var currentScrollContent = 0;
+    var originalH = 0;
+    var TOTAL_COPIES = 4;
+
+    var origChildren = Array.from(inner.children);
+    for (var i = 0; i < TOTAL_COPIES - 1; i++) {
+      origChildren.forEach(function(child) {
+        var clone = child.cloneNode(true);
+        clone.setAttribute('aria-hidden', 'true');
+        inner.appendChild(clone);
+      });
+    }
+
+    function measureH() {
+      inner.offsetHeight;
+      originalH = inner.scrollHeight / TOTAL_COPIES;
+    }
+    measureH();
+    if (document.fonts && document.fonts.ready) {
+      document.fonts.ready.then(measureH);
+    }
+    window.addEventListener('load', function() { setTimeout(measureH, 100); });
+
+    function lerp(a, b, t) { return a + (b - a) * t; }
+
+    var lastTickTime = performance.now();
+    var autoScrollSpeed = 28;
+
+    function tick(now) {
+      now = now || performance.now();
+      var dt = Math.min(64, now - lastTickTime) / 1000;
+      lastTickTime = now;
+
+      currentRY = lerp(currentRY, targetRY + scrollTiltY, 0.08);
+      currentRX = lerp(currentRX, targetRX + scrollTiltX, 0.08);
+      iphoneBody.style.transform =
+        'rotateY(' + currentRY.toFixed(2) + 'deg) rotateX(' + currentRX.toFixed(2) + 'deg)';
+
+      scrollContentY += autoScrollSpeed * dt;
+
+      if (originalH > 0) {
+        currentScrollContent = lerp(currentScrollContent, scrollContentY, 0.12);
+        while (currentScrollContent >= originalH) {
+          currentScrollContent -= originalH;
+          scrollContentY -= originalH;
+        }
+        while (currentScrollContent < 0) {
+          currentScrollContent += originalH;
+          scrollContentY += originalH;
+        }
+        inner.style.transform = 'translateY(' + (-currentScrollContent).toFixed(1) + 'px)';
+      }
+
+      requestAnimationFrame(tick);
+    }
+    requestAnimationFrame(tick);
+
+    iphoneStage.addEventListener('mousemove', function(e) {
+      var rect = iphoneStage.getBoundingClientRect();
+      var cx = rect.left + rect.width / 2;
+      var cy = rect.top + rect.height / 2;
+      var mx = (e.clientX - cx) / (rect.width / 2);
+      var my = (e.clientY - cy) / (rect.height / 2);
+      targetRY = -12 + mx * 14;
+      targetRX = 4 - my * 10;
+    });
+
+    iphoneStage.addEventListener('mouseleave', function() {
+      targetRY = -12;
+      targetRX = 4;
+    });
+
+    var lastScrollY = window.scrollY;
+
+    function onScroll() {
+      var sy = window.scrollY;
+      var delta = sy - lastScrollY;
+      lastScrollY = sy;
+      scrollTiltX = Math.max(-6, Math.min(6, delta * 0.3));
+      scrollContentY += Math.abs(delta) * 1.2;
+    }
+
+    setInterval(function() {
+      scrollTiltX *= 0.85;
+      scrollTiltY *= 0.85;
+    }, 50);
+
+    window.addEventListener('scroll', onScroll, { passive: true });
+  })();
+
+  var io = new IntersectionObserver(function(entries) {
+    entries.forEach(function(en) {
+      if (en.isIntersecting) {
+        en.target.classList.add('in');
+        io.unobserve(en.target);
+      }
+    });
+  }, { threshold: 0.12, rootMargin: '0px 0px -6% 0px' });
+  document.querySelectorAll('.reveal, .offer-cell').forEach(function(el) { io.observe(el); });
+
+  // Show sticky CTA after scrolling past the hero
+  (function() {
+    var sticky = document.querySelector('.mobile-sticky');
+    if (!sticky) return;
+    var hero = document.querySelector('.hero');
+    var stickyIO = new IntersectionObserver(function(entries) {
+      entries.forEach(function(en) {
+        if (en.isIntersecting) {
+          sticky.classList.add('hidden');
+        } else {
+          sticky.classList.remove('hidden');
+        }
+      });
+    }, { threshold: 0.1 });
+    stickyIO.observe(hero);
+  })();
+
+  var modal = document.getElementById('modal');
+  var modalCard = modal.querySelector('.modal');
+  var modalX = document.getElementById('modal-x');
+  var steps = modal.querySelectorAll('.mstep');
+
+  // Collected booking data
+  var D = { name:'', biz:'', email:'', phone:'', type:'', detail:{} };
+
+  // ===== Lead notification (Web3Forms) =====
+  // Get a free access key at https://web3forms.com (enter your email, no signup).
+  var WEB3FORMS_KEY = "0918ccda-b5ef-411e-85f8-0fbbf5ca9c46";
+  var leadSent = false;
+  function sendLead() {
+    if (leadSent || !WEB3FORMS_KEY || WEB3FORMS_KEY.indexOf("YOUR_") === 0) return;
+    leadSent = true;
+    var payload = {
+      access_key: WEB3FORMS_KEY,
+      subject: "New DirectSite lead — " + (D.biz || D.name || "Website enquiry"),
+      from_name: "DirectSite Website",
+      name: D.name,
+      email: D.email,          // lead's email — replies go straight to them
+      phone: D.phone,
+      business: D.biz,
+      project_type: (D.type === 'redesign' ? 'Website redesign' : 'New website'),
+      details: buildNotes(),
+      message: "New enquiry from directsite.com.au\n\nName: " + D.name +
+               "\nBusiness: " + D.biz + "\nEmail: " + D.email +
+               "\nPhone: " + D.phone + "\n\n" + buildNotes()
+    };
+    fetch("https://api.web3forms.com/submit", {
+      method: "POST",
+      headers: { "Content-Type": "application/json", "Accept": "application/json" },
+      body: JSON.stringify(payload)
+    }).catch(function(){ leadSent = false; }); // allow retry if it failed
+  }
+
+  function showStep(id) {
+    steps.forEach(function(s) {
+      s.classList.toggle('active', s.getAttribute('data-step') === id);
+    });
+    // Widen the modal only for the calendar step
+    modalCard.classList.toggle('wide', id === 'book');
+    modalCard.scrollTop = 0;
+  }
+
+  function openModal() {
+    D = { name:'', biz:'', email:'', phone:'', type:'', detail:{} };
+    leadSent = false;
+    showStep('1');
+    modal.classList.add('on');
+    document.body.classList.add('modal-open');
+    document.body.style.overflow = 'hidden';
+  }
+  function closeModal() {
+    modal.classList.remove('on');
+    modalCard.classList.remove('wide');
+    document.body.classList.remove('modal-open');
+    document.body.style.overflow = '';
+  }
+  modalX.addEventListener('click', closeModal);
+  modal.addEventListener('click', function(e) { if (e.target === modal) closeModal(); });
+  document.addEventListener('keydown', function(e) { if (e.key === 'Escape') closeModal(); });
+  document.querySelectorAll('[data-book]').forEach(function(el) {
+    el.addEventListener('click', function(e) { e.preventDefault(); openModal(); });
+  });
+
+  // Navigation helpers
+  window.__go = function(id) { showStep(id); };
+  window.__back2 = function() { showStep(D.type === 'redesign' ? 'redesign' : 'new'); };
+
+  // Step 1 → branch
+  window.__step1 = function() {
+    D.name  = document.getElementById('f-name').value.trim();
+    D.biz   = document.getElementById('f-biz').value.trim();
+    D.email = document.getElementById('f-email').value.trim();
+    D.phone = document.getElementById('f-phone').value.trim();
+    showStep('branch');
+  };
+
+  // Branch choice
+  window.__choose = function(kind) {
+    D.type = kind;
+    showStep(kind === 'redesign' ? 'redesign' : 'new');
+  };
+
+  // Step 2 → book
+  window.__step2 = function(kind) {
+    if (kind === 'new') {
+      D.detail = {
+        industry: val('n-industry'),
+        services: val('n-services'),
+        area: val('n-area'),
+        instagram: val('n-ig'),
+        facebook: val('n-fb'),
+        google: val('n-google'),
+        brand: val('n-brand')
+      };
+    } else {
+      D.detail = {
+        currentUrl: val('r-url'),
+        improve: val('r-notes')
+      };
+    }
+    sendLead();   // email you the lead now — even if they don't finish booking
+    showStep('book');
+    initCal();
+  };
+  function val(id) { var el = document.getElementById(id); return el ? el.value.trim() : ''; }
+
+  // Build a notes string so the team gets all the build info on the booking
+  function buildNotes() {
+    var L = [];
+    if (D.type === 'redesign') {
+      L.push('TYPE: Website redesign');
+      if (D.detail.currentUrl) L.push('Current site: ' + D.detail.currentUrl);
+      if (D.detail.improve)    L.push('Wants improved: ' + D.detail.improve);
+    } else {
+      L.push('TYPE: New website');
+      if (D.detail.industry)  L.push('Business does: ' + D.detail.industry);
+      if (D.detail.services)  L.push('Services: ' + D.detail.services);
+      if (D.detail.area)      L.push('Service area: ' + D.detail.area);
+      if (D.detail.instagram) L.push('Instagram: ' + D.detail.instagram);
+      if (D.detail.facebook)  L.push('Facebook: ' + D.detail.facebook);
+      if (D.detail.google)    L.push('Google: ' + D.detail.google);
+      if (D.detail.brand)     L.push('Brand/vibe: ' + D.detail.brand);
+    }
+    return L.join('\n');
+  }
+
+  // ===== Cal.com inline embed =====
+  var calLoaded = false, calInited = false;
+  (function (C, A, L) {
+    var p = function (a, ar) { a.q.push(ar); };
+    var d = C.document;
+    C.Cal = C.Cal || function () {
+      var cal = C.Cal, ar = arguments;
+      if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; }
+      if (ar[0] === L) {
+        var api = function () { p(api, arguments); };
+        var namespace = ar[1];
+        api.q = api.q || [];
+        if (typeof namespace === "string") { cal.ns[namespace] = cal.ns[namespace] || api; p(cal.ns[namespace], ar); p(cal, ["initNamespace", namespace]); }
+        else p(cal, ar);
+        return;
+      }
+      p(cal, ar);
+    };
+  })(window, "https://app.cal.com/embed/embed.js", "init");
+
+  function initCal() {
+    if (calInited) {
+      // Re-prefill in case details changed, then reload inline
+      Cal.ns["ds"]("inline", {
+        elementOrSelector: "#cal-embed",
+        config: calConfig(),
+        calLink: "arjun-sharma-l5xsle/directsite-see-your-website"
+      });
+      return;
+    }
+    calInited = true;
+    Cal("init", "ds", { origin: "https://app.cal.com" });
+    Cal.ns["ds"]("inline", {
+      elementOrSelector: "#cal-embed",
+      config: calConfig(),
+      calLink: "arjun-sharma-l5xsle/directsite-see-your-website"
+    });
+    Cal.ns["ds"]("ui", {
+      cssVarsPerTheme: { light: { "cal-brand": "#b8853d" } },
+      hideEventTypeDetails: false,
+      layout: "month_view"
+    });
+    // Remove the loading placeholder once the calendar iframe paints
+    var poll = setInterval(function() {
+      var ph = document.querySelector('#cal-embed .cal-loading');
+      if (document.querySelector('#cal-embed iframe')) {
+        if (ph) ph.remove();
+        clearInterval(poll);
+      }
+    }, 250);
+    setTimeout(function(){ clearInterval(poll); }, 12000);
+  }
+
+  function calConfig() {
+    return {
+      layout: "month_view",
+      name: D.name,
+      email: D.email,
+      attendeePhoneNumber: D.phone,
+      business_name: D.biz,
+      notes: buildNotes()
+    };
+  }
+</script>
+
+</body>
+</html>
