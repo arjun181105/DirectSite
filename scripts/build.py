@@ -75,6 +75,10 @@ def label_forms(s):
     s=s.replace('Get your <em class="f">free site</em>.','Get your <em class="f">free demo</em>.')
     s=s.replace('Wait &#8212; you\'re <em class="f">not done</em> yet.','Your demo request is in.')
     s=s.replace('<div id="cal-embed"','<p class="fineprint"><a href="https://cal.com/arjun-sharma-l5xsle/directsite-see-your-website">Open the booking calendar directly</a></p><div id="cal-embed"')
+    s=s.replace('id="f-phone" type="tel" required', 'id="f-phone" type="tel"')
+    s=s.replace('<label for="f-phone">Phone</label>', '<label for="f-phone">Phone (optional)</label>')
+    s=s.replace('10 MIN · NO OBLIGATION', 'NO DEPOSIT · NO OBLIGATION').replace('10 min · Google Meet', 'Google Meet')
+    s=s.replace('Book a free 10-minute call below', 'Book a free call below')
     disclosure='<p class="fineprint">Your enquiry is sent to DirectSite through Web3Forms. Booking uses Cal.com. Please do not include passwords or sensitive customer records.</p>'
     return s.replace('<form ',disclosure+'<form ',1)
 
@@ -134,12 +138,20 @@ def enhance_baseline(s,p,production):
     s=s.replace('<h5>','<p class="footer-label">').replace('</h5>','</p>')
     s=s.replace('Worst case:<br', 'See it first:<br')
     s=s.replace('free website</em>', 'free working demo</em>')
+    if p['slug']=='/':
+        s=s.replace('Book a Free Call to See Your Business&#8217;s Website','Request Your Free Website Demo').replace("Book a Free Call to See Your Business's Website",'Request Your Free Website Demo').replace('Book a Free Call to See Your Website','Request Your Free Website Demo').replace('Book a Free Call &rarr;','Get a Free Demo &rarr;').replace('Book a Free Call &#8594;','Get a Free Demo &#8594;')
     return label_forms(s)
 
 def tool_html(p):
     kind=p.get('tool')
     if not kind:return ''
     return '<section class="growth-tool" data-tool="'+kind+'"><h2>'+{'roi':'Model your enquiry value','cost':'Set your planning assumptions','checklist':'Your customer-journey check'}[kind]+'</h2><div class="tool-controls"></div><noscript><p>Enable JavaScript to use the interactive controls. The method and limitations are explained below.</p></noscript></section><script src="/tools-core.js"></script><script src="/tools.js"></script>'
+
+def resource_cards(slugs):
+    return ''.join('<a class="growth-resource" href="'+slug+'"><span>'+H(BY_SLUG[slug]['title'].split(' | ')[0])+'</span><p>'+H(BY_SLUG[slug]['description'])+'</p><b aria-hidden="true">Explore →</b></a>' for slug in slugs)
+
+def process_panel():
+    return '<aside class="growth-promise" aria-label="How your free demo works"><p class="growth-kicker">See it before you commit</p><h2>Your business.<br>Your working demo.</h2><ol><li><strong>Tell us what you need</strong><span>Send your current site or a short business brief.</span></li><li><strong>Review it within 48 hours</strong><span>Click through a real demo and request free changes.</span></li><li><strong>Decide when you have seen it</strong><span>Agree the price before payment. No deposit.</span></li></ol><a href="/process/">See the full process →</a></aside>'
 
 def render(p,production,modal,modal_css):
     parent='/'+'/'.join(p['slug'].strip('/').split('/')[:-1])+'/'
@@ -151,13 +163,19 @@ def render(p,production,modal,modal_css):
     faqs='<section class="growth-faq growth-section"><h2>Your questions, answered</h2>'+''.join('<details><summary>'+H(f['question'])+'</summary><p>'+H(f['answer'])+'</p></details>' for f in p['faqs'])+'</section>' if p['faqs'] else ''
     sources='<section class="growth-section"><h2>Sources and review</h2><p>Reviewed 12 September 2026. Provider offers and product details can change.</p><ul>'+''.join('<li><a href="'+H(s['url'],quote=True)+'">'+H(s['title'])+'</a></li>' for s in p.get('sources',[]))+'</ul></section>' if p.get('sources') else ''
     disclosure='<p class="growth-disclosure">'+H(p['disclosure'])+'</p>' if p.get('disclosure') else ''
-    hub='<nav class="growth-section growth-links" aria-label="Browse this collection">'+links(p['related'])+'</nav>' if p['pageType']=='hub' else ''
-    herocta='' if p['pageType']=='tool' else cta('hero')
+    hub='<nav class="growth-resources" aria-label="Browse this collection">'+resource_cards(p['related'])+'</nav>' if p['pageType']=='hub' else ''
+    commercial=p['pageType'] in {'service','industry','location'} or p['slug'] in {'/contact/','/process/','/about/'}
+    herocta=('<div class="growth-actions">'+cta('hero')+'<a class="growth-secondary" href="'+SITE['schedule']+'" data-placement="hero_direct_call">Prefer to talk? Book a free call →</a></div>') if commercial else ''
+    panel=process_panel() if commercial else ''
+    review='<p class="growth-note">By DirectSite · Reviewed <time datetime="2026-09-12">12 September 2026</time></p>' if p['pageType'] in {'guide','comparison','buyer-guide','tool'} else ''
+    contents='<nav class="growth-contents" aria-label="On this page"><p class="growth-kicker">On this page</p>'+''.join('<a href="#section-'+str(i)+'">'+H(section['heading'])+'</a>' for i,section in enumerate(p['sections']))+'</nav>'
+    bodyclass='growth-page growth-'+p['pageType']
+
     tool_top=tool_html(p) if p['pageType']=='tool' else ''
-    return f'''<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#e9dcc0">{meta(p,production)}<link rel="icon" href="/favicon.svg">{modal_css}<link rel="stylesheet" href="/growth.css"><script src="/events.js" defer></script></head>
-<body class="growth-page"><a class="skip-link" href="#main-content">Skip to content</a><header class="growth-wrap"><nav class="growth-nav" aria-label="Main"><a href="/">DirectSite</a><a href="/web-design/">Web design</a><a href="/industries/">Industries</a><a href="/locations/">Locations</a><a href="/guides/">Guides</a><a href="/contact/">Get a demo</a></nav></header>
-<main class="growth-wrap" id="main-content"><nav class="growth-breadcrumb" aria-label="Breadcrumb">{crumb}</nav><header class="growth-hero"><p class="growth-kicker">DirectSite · Built before you buy</p><h1>{H(p['h1'])}</h1>{herocta}{tool_top}<p class="growth-answer">{H(p['answer'])}</p><p class="growth-note">By DirectSite · Reviewed <time datetime="2026-09-12">12 September 2026</time></p></header>
-<div class="growth-layout"><article>{disclosure}{hub}{table}{sections}{faqs}{sources}<section class="growth-end"><h2>See your website before you pay.</h2><p>A real working demo within 48 hours. Review it, request changes and decide.</p>{cta('bottom')}</section></article><aside aria-label="Related pages"><h2>Make your next step clearer</h2>{links(p['related'])}<a href="{SITE['schedule']}" data-cta>Book a conversation</a></aside></div></main>{footer()}{modal}<script src="/demo-form.js" defer></script><script src="/form-accessibility.js" defer></script></body></html>'''
+    return f'''<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#e9dcc0">{meta(p,production)}<link rel="icon" href="/favicon.svg">{modal_css}<link rel="stylesheet" href="/fonts.css"><link rel="stylesheet" href="/growth.css"><script src="/events.js" defer></script></head>
+<body class="{bodyclass}"><a class="skip-link" href="#main-content">Skip to content</a><header class="growth-wrap"><nav class="growth-nav" aria-label="Main"><a href="/">DirectSite</a><a href="/web-design/">Web design</a><a href="/industries/">Industries</a><a href="/locations/">Locations</a><a href="/guides/">Guides</a><a class="growth-nav-cta" href="{SITE['schedule']}" data-book data-placement="nav">Get a free demo →</a></nav></header>
+<main class="growth-wrap" id="main-content"><nav class="growth-breadcrumb" aria-label="Breadcrumb">{crumb}</nav><header class="growth-hero{' growth-hero-split' if commercial else ''}"><div><p class="growth-kicker">DirectSite · Built before you buy</p><h1>{H(p['h1'])}</h1>{tool_top}<p class="growth-answer">{H(p['answer'])}</p>{herocta}{review}</div>{panel}</header>
+<div class="growth-layout"><article>{disclosure}{hub}{table}{sections}{faqs}{sources}<section class="growth-end"><h2>See your website before you pay.</h2><p>A real working demo within 48 hours. Review it, request changes and decide.</p>{cta('bottom')}</section></article><aside class="growth-sidebar" aria-label="Related pages">{contents}<h2>Keep exploring</h2>{links(p['related'])}<a class="growth-sidebar-call" href="{SITE['schedule']}" data-cta>Book a free call →</a></aside></div></main>{footer()}{modal}<script src="/demo-form.js" defer></script><script src="/form-accessibility.js" defer></script></body></html>'''
 
 def build(production=False):
     check_collection(PAGES)
