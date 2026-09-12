@@ -17,3 +17,5 @@ let commands=fresh.ctx.dataLayer.map(x=>Array.from(x));assert.equal(commands.fil
 fresh.choose('denied');const count=fresh.ctx.dataLayer.length;fresh.fire({event:'form_submit'});assert.equal(fresh.ctx.dataLayer.length,count);assert.equal(fresh.ctx['ga-disable-G-TEST123'],true);
 assert.equal(run('denied').scripts.length,0);const returning=run('granted');assert.equal(returning.scripts.length,1);returning.fire({event:'page_view'});assert.equal(returning.ctx.dataLayer.filter(x=>x[0]==='event'&&x[1]==='page_view').length,1);
 console.log('PASS: GA opt-in gate, rejection/revocation, single pageview, accepted-lead mapping and PII stripping.');
+
+const attributed=run();attributed.fire({event:'page_view',referral_source:'chatgpt.com'});attributed.choose('granted');assert.equal(attributed.ctx.dataLayer.find(x=>x[0]==='event'&&x[1]==='page_view')[2].referral_source,'chatgpt.com');

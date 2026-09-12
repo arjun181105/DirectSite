@@ -3,6 +3,7 @@
   if (!/^G-[A-Z0-9]+$/.test(id || '')) return;
   const key = 'directsite-analytics-consent-v1';
   let consent = null, loaded = false, pageSent = false;
+  let pageSource = 'other';
   try { consent = localStorage.getItem(key); } catch {}
   window.dataLayer = window.dataLayer || [];
   const gtag = function () { window.dataLayer.push(arguments); };
@@ -36,7 +37,10 @@
     script.src = 'https://www.googletagmanager.com/gtag/js?id=' + id;
     document.head.append(script);
   }
-  window.addEventListener('directsite:analytics', e => send(e.detail));
+  window.addEventListener('directsite:analytics', e => {
+    if (e.detail?.event === 'page_view') pageSource = e.detail.referral_source === 'chatgpt.com' ? 'chatgpt.com' : 'other';
+    send(e.detail);
+  });
   const panel = document.createElement('section');
   panel.className = 'ds-consent';
   panel.setAttribute('aria-label','Analytics preferences');
@@ -56,7 +60,7 @@
       window['ga-disable-' + id] = false;
       if (loaded) gtag('consent','update',{analytics_storage:'granted'});
       start();
-      send({event:'page_view'});
+      send({event:'page_view',referral_source:pageSource});
     } else {
       window['ga-disable-' + id] = true;
       if (loaded) gtag('consent','update',{analytics_storage:'denied'});

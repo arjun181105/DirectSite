@@ -139,7 +139,7 @@ def enhance_baseline(s,p,production):
 def tool_html(p):
     kind=p.get('tool')
     if not kind:return ''
-    return '<section class="growth-tool" data-tool="'+kind+'"><h2>'+{'roi':'Model your enquiry value','cost':'Set your planning assumptions','checklist':'Your customer-journey check'}[kind]+'</h2><div class="tool-controls"></div><noscript><p>Enable JavaScript to use the interactive controls. The method and limitations are explained below.</p></noscript></section>'
+    return '<section class="growth-tool" data-tool="'+kind+'"><h2>'+{'roi':'Model your enquiry value','cost':'Set your planning assumptions','checklist':'Your customer-journey check'}[kind]+'</h2><div class="tool-controls"></div><noscript><p>Enable JavaScript to use the interactive controls. The method and limitations are explained below.</p></noscript></section><script src="/tools-core.js"></script><script src="/tools.js"></script>'
 
 def render(p,production,modal,modal_css):
     parent='/'+'/'.join(p['slug'].strip('/').split('/')[:-1])+'/'
@@ -157,7 +157,7 @@ def render(p,production,modal,modal_css):
     return f'''<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#e9dcc0">{meta(p,production)}<link rel="icon" href="/favicon.svg">{modal_css}<link rel="stylesheet" href="/growth.css"><script src="/events.js" defer></script></head>
 <body class="growth-page"><a class="skip-link" href="#main-content">Skip to content</a><header class="growth-wrap"><nav class="growth-nav" aria-label="Main"><a href="/">DirectSite</a><a href="/web-design/">Web design</a><a href="/industries/">Industries</a><a href="/locations/">Locations</a><a href="/guides/">Guides</a><a href="/contact/">Get a demo</a></nav></header>
 <main class="growth-wrap" id="main-content"><nav class="growth-breadcrumb" aria-label="Breadcrumb">{crumb}</nav><header class="growth-hero"><p class="growth-kicker">DirectSite · Built before you buy</p><h1>{H(p['h1'])}</h1>{herocta}{tool_top}<p class="growth-answer">{H(p['answer'])}</p><p class="growth-note">By DirectSite · Reviewed <time datetime="2026-09-12">12 September 2026</time></p></header>
-<div class="growth-layout"><article>{disclosure}{hub}{table}{sections}{faqs}{sources}<section class="growth-end"><h2>See your website before you pay.</h2><p>A real working demo within 48 hours. Review it, request changes and decide.</p>{cta('bottom')}</section></article><aside aria-label="Related pages"><h2>Make your next step clearer</h2>{links(p['related'])}<a href="{SITE['schedule']}" data-cta>Book a conversation</a></aside></div></main>{footer()}{modal}<script src="/demo-form.js" defer></script><script src="/form-accessibility.js" defer></script><script src="/tools-core.js" defer></script><script src="/tools.js" defer></script></body></html>'''
+<div class="growth-layout"><article>{disclosure}{hub}{table}{sections}{faqs}{sources}<section class="growth-end"><h2>See your website before you pay.</h2><p>A real working demo within 48 hours. Review it, request changes and decide.</p>{cta('bottom')}</section></article><aside aria-label="Related pages"><h2>Make your next step clearer</h2>{links(p['related'])}<a href="{SITE['schedule']}" data-cta>Book a conversation</a></aside></div></main>{footer()}{modal}<script src="/demo-form.js" defer></script><script src="/form-accessibility.js" defer></script></body></html>'''
 
 def build(production=False):
     check_collection(PAGES)
