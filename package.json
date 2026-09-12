@@ -4,7 +4,7 @@
   "scripts": {
     "build": "python3 scripts/build.py",
     "build:production": "python3 scripts/build.py --production",
-    "test": "python3 -m unittest discover -s tests -v && node tests/tools.test.cjs && node tests/forms.test.cjs && node tests/events.test.cjs",
+    "test": "python3 -m unittest discover -s tests -v && node tests/tools.test.cjs && node tests/forms.test.cjs && node tests/events.test.cjs && node tests/analytics.test.cjs",
     "lint": "node scripts/lint.mjs",
     "preview": "python3 scripts/serve.py",
     "research:plan": "python3 scripts/plan_content.py",

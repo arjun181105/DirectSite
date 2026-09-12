@@ -34,7 +34,8 @@ def schema(p):
 def meta(p,production):
     indexing='index, follow, max-image-preview:large' if production and p.get('indexable',True) else 'noindex, follow'
     verification = f'<meta name="msvalidate.01" content="{H(SITE["bingVerification"],quote=True)}">' if production and SITE.get("bingVerification") and p["slug"]=="/" else ""
-    return f'''{verification}<title>{H(p['title'])}</title>
+    analytics = f'<link rel="stylesheet" href="/analytics.css"><script src="/analytics.js" data-measurement-id="{H(SITE["ga4MeasurementId"],quote=True)}" defer></script>' if production and SITE.get('ga4MeasurementId') else ''
+    return f'''{verification}{analytics}<title>{H(p['title'])}</title>
 <meta name="description" content="{H(p['description'],quote=True)}">
 <meta name="robots" content="{indexing}">
 <link rel="canonical" href="{ORIGIN+p['slug']}">
