@@ -1,6 +1,6 @@
 # DirectSite organic growth implementation
 
-A reviewable static integration for https://directsite.com.au, created 12 September 2026. **Not deployed.** The selected Git repository was empty, without commits or a remote. The public homepage and services HTML were recovered as source baselines. Confirm the real production repository and Vercel settings before integrating this package.
+A static integration for https://directsite.com.au, created 12 September 2026. Production source is now verified: the recovered HTML exactly matches `arjun181105/DirectSite` commit `0825f4d`. The Vercel project deploys its `main` branch. The integration is in pull request #1 on `codex/organic-growth`; the first hosted preview passed. Production merge is awaiting end-to-end delivery/booking checks or explicit approval to deploy first. Client proof remains excluded.
 
 ## Run and verify
 
@@ -23,16 +23,16 @@ npm test
 npm run audit:http
 ```
 
-Production builds emit 29 indexable routes and a segmented sitemap index. They do not deploy. `npm run build` restores preview mode. The Vercel build command is explicitly `npm run build:production`; `dist` is the output directory. The build regenerates `vercel.json`; change hosting rules in `scripts/build.py`.
+Production builds emit 32 indexable routes and a segmented sitemap index. They do not deploy. `npm run build` restores preview mode. The Vercel build runs `npm run build:production && npm run lint && npm test`; `dist` is the output directory. The build regenerates `vercel.json`; change hosting rules in `scripts/build.py`.
 
 ## Edit the site
 
-- `content/pages.json`: 27 authored pages, visible answers, sections, FAQs, sources, relationships and review evidence.
+- `content/pages.json`: 30 authored pages, visible answers, sections, FAQs, sources, relationships and review evidence.
 - `src/homepage.html`, `src/services.html`: recovered public baselines. `scripts/build.py` adds shared metadata, navigation, corrected forms and assets.
 - `public/`: responsive styles, calculator logic, tracking, keyboard accessibility and licensed self-hosted fonts.
 - `scripts/content_model.py`: publication gate. The numeric score cannot override a failed gate.
 - `seo/content-manifest.json`: generated implemented-route inventory. Its `indexable` describes production eligibility; preview output remains noindex.
-- `seo/planned-manifest.json`: 54 unpublished future routes. None are rendered automatically.
+- `seo/planned-manifest.json`: 51 unpublished future routes. None are rendered automatically.
 - `seo/briefs.json`: 81 structured records. Implemented briefs contain actual content structure; future briefs are evidence-required scaffolds, not finished articles.
 - `content/case-study.template.json`: permissioned project intake. Complete visible content fields and evidence before adding an entry to pages.json.
 
@@ -52,7 +52,9 @@ Local-only `?__qa__=success`, `reject` or `network` loads a test harness that in
 - `seo/ARCHITECTURE.md`: route, indexing, schema and conversion design.
 - `seo/audit/`: static, HTTP, browser and lab-performance evidence.
 - `seo/research/`: 226 discovery query records, competitor inspections and outreach prospect ideas.
-- `seo/benchmark/METHODOLOGY.md`: proposed sample and reproducible measurement pipeline. No sample or published findings yet.
+- `seo/benchmark/METHODOLOGY.md`: proposed sample and reproducible measurement pipeline. A 20-site discovery pilot has 18 observed records and two unavailable sites; no population findings are published.
 - `seo/monitoring/README.md`: evidence-backed monthly AI-answer measurement workflow. No recurring automation was created.
 
 Production rollout: compare against current source; preserve unrelated features and verified old URLs; deploy a protected preview; confirm forms in controlled account tests; check production canonical/redirect/indexing behavior; then submit the production sitemap through Search Console and Bing. Do not expose a preview domain as indexable. Keep the existing deployment available for rollback.
+
+Vercel previews automatically use noindex and an empty sitemap through the VERCEL_ENV check, even when the configured command includes --production. The existing Vercel preview authentication remains enabled. Do not change it to bypass verification.

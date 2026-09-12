@@ -1,6 +1,6 @@
 # Australian Small Business Website Benchmark 2026
 
-Status: pipeline implemented; no representative sample collected, no findings published.
+Status: pipeline implemented and tested on a 20-site discovery pilot; 18 static observations and two unavailable robots files. No representative sample or population findings published.
 
 Proposed sample: 100 unique Australian small-business domains, balanced across five industries (plumbing, electrical, roofing, building, cleaning) and four metropolitan areas (Melbourne, Sydney, Brisbane, Perth): five per industry–city cell. This is a proposed stratified descriptive sample, not a population estimate. It excludes ecommerce-only businesses and web agencies. Define small-business eligibility and evidence before recruiting the sample; do not imply headcount can be inferred from a homepage.
 
@@ -17,3 +17,9 @@ Performance extension: collect PageSpeed mobile and desktop lab reports using an
 Statistics: publish sample n and denominator for every measurement and breakdown. Report medians and distributions for continuous measures. Disclose sample-frame and selection bias. Do not generalise a five-site cell to an entire industry. A second reviewer must verify a subset of manual observations and resolve differences before publication.
 
 Run `python3 scripts/benchmark.py` to generate empty, honest summary outputs. After constructing the sample file, `--scan` performs public requests. Each entry requires `id`, `url`, `industry`, `location`, `selectionReason`, `sourceUrl`. No chart or quotable finding is generated from an empty sample. The report remains gated until sample review, measurement validation and publication rights are complete.
+
+## Pilot collected on 12 September 2026
+
+`pilot-sample.json` records one search-discovered candidate for each of five industries across four cities. The recorded query uses “family owned”; this creates selection bias and does not establish employee count or statutory small-business status. The first relevant independent operator result was selected, before checking website metrics. Pilot outcomes are pipeline diagnostics only. Two sites with unavailable robots were not scanned. All sites remain subject to primary-source eligibility review before inclusion in the eventual 100-site benchmark.
+
+Use `python3 scripts/benchmark.py --sample seo/benchmark/pilot-sample.json` to reconstruct current summaries from saved raw observations. Running with the default empty sample overwrites summary outputs with n=0; specify the pilot file to retain this dataset. Raw HTML is retained locally and excluded from the GitHub integration.

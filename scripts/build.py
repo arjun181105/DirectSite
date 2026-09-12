@@ -79,17 +79,19 @@ def label_forms(s):
 def form_script(home):
     js=home[home.index("  var modal = document.getElementById('modal');"):home.rindex('</script>')]
     js=js.replace('function sendLead() {','async function sendLead() {')
-    js=js.replace('if (leadSent || !WEB3FORMS_KEY || WEB3FORMS_KEY.indexOf("YOUR_") === 0) return;\n    leadSent = true;','if (leadSent) return true;\n    if (!WEB3FORMS_KEY) throw new Error("Enquiry unavailable");')
+    js=js.replace('if (leadSent || !WEB3FORMS_KEY || WEB3FORMS_KEY.indexOf("YOUR_") === 0) return;\n    leadSent = true;','if (leadSent) return false;\n    if (!WEB3FORMS_KEY) throw new Error("Enquiry unavailable");')
     js=js.replace('    fetch("https://api.web3forms.com/submit", {','    const response = await fetch("https://api.web3forms.com/submit", {\n      signal: AbortSignal.timeout(15000),')
     js=js.replace('}).catch(function(){ leadSent = false; }); // allow retry if it failed','});\n    const result = await response.json();\n    if (!response.ok || result.success !== true) throw new Error("Enquiry not accepted");\n    leadSent = true; return true;')
     js=js.replace('showStep(\'branch\');',"window.dsTrack?.('form_step_complete',{step:'contact'}); showStep('branch');")
     js=js.replace('window.__step2 = function(kind) {','var submitting = false;\n  window.__step2 = async function(kind) {\n    if(submitting) return;\n    const form=document.getElementById(kind === "new" ? "form-new" : "form-re");\n    if(!form.reportValidity()) return;\n    submitting=true;\n    const button=form.querySelector("button[type=submit]");\n    const status=form.querySelector(".growth-submit-status");\n    button.disabled=true; status.textContent="Sending your request…";')
     old="sendLead();   // email you the lead now — even if they don't finish booking\n    showStep('book');\n    initCal();"
     new="""try {
-      await sendLead();
+      const accepted = await sendLead();
       window.dsTrack?.('form_step_complete',{step:'brief',project_type:kind});
-      window.dsTrack?.('form_submit',{project_type:kind});
-      window.dsTrack?.('demo_requested',{project_type:kind});
+      if (accepted) {
+        window.dsTrack?.('form_submit',{project_type:kind});
+        window.dsTrack?.('demo_requested',{project_type:kind});
+      }
       status.textContent=''; showStep('book'); initCal();
     } catch(error) {
       leadSent=false; status.textContent='Your request could not be confirmed. Please retry, or use the booking link below.';
@@ -204,8 +206,8 @@ def build(production=False):
     redirects=[{'source':'/:path*','has':[{'type':'host','value':'www.directsite.com.au'}],'destination':'https://directsite.com.au/:path*','permanent':True},{'source':'/website-design/','destination':'/web-design/','permanent':True}]
     (OUT/'build-info.json').write_text(json.dumps({'production':production,'routes':[r['slug'] for r in records]},indent=2))
     (ROOT/'seo/content-manifest.json').write_text(json.dumps(records,indent=2)+'\n')
-    (ROOT/'vercel.json').write_text(json.dumps({'buildCommand':'npm run build:production','outputDirectory':'dist','trailingSlash':True,'redirects':redirects,'headers':[{'source':'/(.*)','headers':[{'key':'X-Content-Type-Options','value':'nosniff'},{'key':'Referrer-Policy','value':'strict-origin-when-cross-origin'}]}]},indent=2)+'\n')
-    print(f'Built {len(records)} static routes; mode={"production" if production else "noindex preview"}. Production source integration remains unverified.')
+    (ROOT/'vercel.json').write_text(json.dumps({'buildCommand':'npm run build:production && npm run lint && npm test','outputDirectory':'dist','trailingSlash':True,'redirects':redirects,'headers':[{'source':'/(.*)','headers':[{'key':'X-Content-Type-Options','value':'nosniff'},{'key':'Referrer-Policy','value':'strict-origin-when-cross-origin'}]}]},indent=2)+'\n')
+    print(f'Built {len(records)} static routes; mode={"production" if production else "noindex preview"}. Production source verified against commit 0825f4d; deployment is a separate step.')
 
 if __name__=='__main__':
     parser=argparse.ArgumentParser();parser.add_argument('--production',action='store_true');args=parser.parse_args();build(args.production and os.environ.get('VERCEL_ENV','production')=='production')

@@ -1,5 +1,5 @@
 {
-  "buildCommand": "npm run build:production",
+  "buildCommand": "npm run build:production && npm run lint && npm test",
   "outputDirectory": "dist",
   "trailingSlash": true,
   "redirects": [

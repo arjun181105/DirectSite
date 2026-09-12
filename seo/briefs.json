@@ -185,7 +185,10 @@
       "/guides/website-cost-australia/",
       "/guides/how-long-does-a-website-take/",
       "/compare/wordpress-vs-custom/",
-      "/tools/tradie-website-checklist/"
+      "/tools/tradie-website-checklist/",
+      "/industries/landscapers/",
+      "/industries/cleaners/",
+      "/industries/hvac/"
     ],
     "internalLinksOut": [
       "/guides/website-cost-australia/",
@@ -669,22 +672,22 @@
     },
     "aiOverviewObservations": null,
     "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
-    "title": "Landscapers | DirectSite",
-    "metaTitle": "Landscapers | DirectSite",
-    "metaDescription": null,
-    "h1": "Landscapers",
+    "title": "Web Design for Landscapers Australia | DirectSite",
+    "metaTitle": "Web Design for Landscapers Australia | DirectSite",
+    "metaDescription": "Separate garden design, landscape construction and maintenance enquiries. See your landscaping website as a working demo before paying DirectSite.",
+    "h1": "Landscaping websites that turn inspiration into a useful project brief",
     "h2Structure": [
-      "Direct answer to the buyer task",
-      "Distinct requirements and examples",
-      "Evidence and source limitations",
-      "Scope and pricing considerations",
-      "Questions before choosing",
-      "See a working demo"
+      "A new outdoor space and a regular garden visit are different jobs",
+      "Use projects to explain decisions, not just show attractive gardens",
+      "Ask enough to plan the next conversation",
+      "Explain how a site visit changes the estimate",
+      "Make your coverage useful to customers and your team",
+      "Review the website before committing to the build"
     ],
     "questionsToAnswer": [
-      "What exact job does this page help a customer complete?",
-      "What information makes it different from existing pages?",
-      "What must a buyer verify before committing?"
+      "Can the site cover both landscaping and garden maintenance?",
+      "Do I need professional project photography first?",
+      "Can customers receive a final quote automatically?"
     ],
     "originalDataRequired": false,
     "proofRequired": [
@@ -692,10 +695,13 @@
       "Permissioned relevant project when available; do not invent portfolio",
       "Trade-specific journey, requirements and questions"
     ],
-    "internalLinksIn": [],
+    "internalLinksIn": [
+      "/industries/"
+    ],
     "internalLinksOut": [
-      "/web-design/",
-      "/guides/website-cost-australia/"
+      "/industries/",
+      "/guides/website-cost-australia/",
+      "/website-redesign/"
     ],
     "schema": [
       "WebPage",
@@ -704,21 +710,21 @@
     ],
     "cta": "Get Your Free 48-Hour Demo",
     "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
-    "status": "evidence_required",
-    "qualityScore": null,
+    "status": "implemented_local",
+    "qualityScore": 100,
     "opportunityScores": {
       "commercialIntent": 5,
       "searchOpportunity": 3,
       "abilityToRank": 2,
       "offerFit": 5,
       "expectedCustomerValue": 3,
-      "superiorContentAbility": 2
+      "superiorContentAbility": 4
     },
-    "priorityScore": 900,
+    "priorityScore": 1800,
     "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
-    "indexable": false,
+    "indexable": true,
     "canonical": "https://directsite.com.au/industries/landscapers/",
-    "lastReviewed": null
+    "lastReviewed": "2026-09-12"
   },
   {
     "url": "/industries/concreters/",
@@ -857,7 +863,7 @@
   {
     "url": "/industries/hvac/",
     "pageType": "industry",
-    "primaryKeyword": "web design for hvac",
+    "primaryKeyword": "web design for HVAC",
     "secondaryKeywords": [],
     "searchIntent": "commercial investigation",
     "targetReader": "Australian hvac business owner",
@@ -870,22 +876,22 @@
     },
     "aiOverviewObservations": null,
     "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
-    "title": "Hvac | DirectSite",
-    "metaTitle": "Hvac | DirectSite",
-    "metaDescription": null,
-    "h1": "Hvac",
+    "title": "Web Design for HVAC Australia | DirectSite",
+    "metaTitle": "Web Design for HVAC Australia | DirectSite",
+    "metaDescription": "Help customers distinguish air conditioning installation, repairs and maintenance. Review a real HVAC website demo before paying DirectSite.",
+    "h1": "Air conditioning websites built for installation and service enquiries",
     "h2Structure": [
-      "Direct answer to the buyer task",
-      "Distinct requirements and examples",
-      "Evidence and source limitations",
-      "Scope and pricing considerations",
-      "Questions before choosing",
-      "See a working demo"
+      "Route a fault differently from a new installation",
+      "Make installation pages useful before the site assessment",
+      "Ask service customers for safe, practical details",
+      "State real availability and service coverage",
+      "Explain maintenance and commercial enquiries separately",
+      "Test the enquiry journey before buying the website"
     ],
     "questionsToAnswer": [
-      "What exact job does this page help a customer complete?",
-      "What information makes it different from existing pages?",
-      "What must a buyer verify before committing?"
+      "Can installation and repair enquiries use different questions?",
+      "Can the website provide an automatic system recommendation?",
+      "Should every brand have its own landing page?"
     ],
     "originalDataRequired": false,
     "proofRequired": [
@@ -893,10 +899,13 @@
       "Permissioned relevant project when available; do not invent portfolio",
       "Trade-specific journey, requirements and questions"
     ],
-    "internalLinksIn": [],
+    "internalLinksIn": [
+      "/industries/"
+    ],
     "internalLinksOut": [
-      "/web-design/",
-      "/guides/website-cost-australia/"
+      "/industries/",
+      "/guides/website-cost-australia/",
+      "/website-redesign/"
     ],
     "schema": [
       "WebPage",
@@ -905,21 +914,21 @@
     ],
     "cta": "Get Your Free 48-Hour Demo",
     "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
-    "status": "evidence_required",
-    "qualityScore": null,
+    "status": "implemented_local",
+    "qualityScore": 99,
     "opportunityScores": {
       "commercialIntent": 5,
       "searchOpportunity": 3,
       "abilityToRank": 2,
       "offerFit": 5,
       "expectedCustomerValue": 3,
-      "superiorContentAbility": 2
+      "superiorContentAbility": 4
     },
-    "priorityScore": 900,
+    "priorityScore": 1800,
     "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
-    "indexable": false,
+    "indexable": true,
     "canonical": "https://directsite.com.au/industries/hvac/",
-    "lastReviewed": null
+    "lastReviewed": "2026-09-12"
   },
   {
     "url": "/industries/solar/",
@@ -1472,22 +1481,22 @@
     },
     "aiOverviewObservations": null,
     "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
-    "title": "Cleaners | DirectSite",
-    "metaTitle": "Cleaners | DirectSite",
-    "metaDescription": null,
-    "h1": "Cleaners",
+    "title": "Web Design for Cleaners Australia | DirectSite",
+    "metaTitle": "Web Design for Cleaners Australia | DirectSite",
+    "metaDescription": "Build separate enquiry paths for regular home cleaning, commercial contracts and one-off work. Get a working cleaning website demo before paying.",
+    "h1": "Cleaning websites that make the job and next step clear",
     "h2Structure": [
-      "Direct answer to the buyer task",
-      "Distinct requirements and examples",
-      "Evidence and source limitations",
-      "Scope and pricing considerations",
-      "Questions before choosing",
-      "See a working demo"
+      "Separate repeat cleaning from one-off enquiries",
+      "Tell customers what an agreed clean includes",
+      "Design the first form around the service",
+      "Make trust information specific and current",
+      "Show the boundary between enquiry and confirmed booking",
+      "Review a cleaning website built around your operation"
     ],
     "questionsToAnswer": [
-      "What exact job does this page help a customer complete?",
-      "What information makes it different from existing pages?",
-      "What must a buyer verify before committing?"
+      "Can I have separate residential and commercial forms?",
+      "Does a quote request automatically book a cleaner?",
+      "Can the website collect door or alarm codes?"
     ],
     "originalDataRequired": false,
     "proofRequired": [
@@ -1495,10 +1504,13 @@
       "Permissioned relevant project when available; do not invent portfolio",
       "Trade-specific journey, requirements and questions"
     ],
-    "internalLinksIn": [],
+    "internalLinksIn": [
+      "/industries/"
+    ],
     "internalLinksOut": [
-      "/web-design/",
-      "/guides/website-cost-australia/"
+      "/industries/",
+      "/guides/website-cost-australia/",
+      "/website-redesign/"
     ],
     "schema": [
       "WebPage",
@@ -1507,21 +1519,21 @@
     ],
     "cta": "Get Your Free 48-Hour Demo",
     "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
-    "status": "evidence_required",
-    "qualityScore": null,
+    "status": "implemented_local",
+    "qualityScore": 99,
     "opportunityScores": {
       "commercialIntent": 5,
       "searchOpportunity": 3,
       "abilityToRank": 2,
       "offerFit": 5,
       "expectedCustomerValue": 3,
-      "superiorContentAbility": 2
+      "superiorContentAbility": 4
     },
-    "priorityScore": 900,
+    "priorityScore": 1800,
     "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
-    "indexable": false,
+    "indexable": true,
     "canonical": "https://directsite.com.au/industries/cleaners/",
-    "lastReviewed": null
+    "lastReviewed": "2026-09-12"
   },
   {
     "url": "/industries/removalists/",
@@ -2778,7 +2790,10 @@
       "/tools/website-roi-calculator/",
       "/tools/website-cost-calculator/",
       "/guides/",
-      "/best/"
+      "/best/",
+      "/industries/landscapers/",
+      "/industries/cleaners/",
+      "/industries/hvac/"
     ],
     "internalLinksOut": [
       "/web-design/",
@@ -5120,14 +5135,20 @@
       "Real scope and brand-approved offer"
     ],
     "internalLinksIn": [
-      "/small-business-web-design/"
+      "/small-business-web-design/",
+      "/industries/landscapers/",
+      "/industries/cleaners/",
+      "/industries/hvac/"
     ],
     "internalLinksOut": [
       "/industries/tradies/",
       "/industries/plumbers/",
       "/industries/electricians/",
       "/industries/roofers/",
-      "/industries/builders/"
+      "/industries/builders/",
+      "/industries/landscapers/",
+      "/industries/cleaners/",
+      "/industries/hvac/"
     ],
     "schema": [
       "WebPage",

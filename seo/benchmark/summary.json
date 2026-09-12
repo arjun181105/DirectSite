@@ -1,10 +1,48 @@
 {
-  "n": 0,
+  "n": 18,
   "publishable": false,
   "publicationGate": "Representative sample, manual verification and methodology review required",
-  "medianHtmlBytes": null,
-  "htmlTapToCallFraction": null,
-  "byIndustry": {},
-  "byLocation": {},
+  "medianHtmlBytes": 178764.0,
+  "htmlTapToCallFraction": 0.8333333333333334,
+  "byIndustry": {
+    "plumbing": {
+      "n": 3,
+      "htmlTapToCallFraction": 1.0
+    },
+    "electrical": {
+      "n": 4,
+      "htmlTapToCallFraction": 1.0
+    },
+    "roofing": {
+      "n": 3,
+      "htmlTapToCallFraction": 1.0
+    },
+    "building": {
+      "n": 4,
+      "htmlTapToCallFraction": 0.5
+    },
+    "cleaning": {
+      "n": 4,
+      "htmlTapToCallFraction": 0.75
+    }
+  },
+  "byLocation": {
+    "Sydney": {
+      "n": 5,
+      "htmlTapToCallFraction": 0.8
+    },
+    "Brisbane": {
+      "n": 5,
+      "htmlTapToCallFraction": 0.6
+    },
+    "Perth": {
+      "n": 5,
+      "htmlTapToCallFraction": 1.0
+    },
+    "Melbourne": {
+      "n": 3,
+      "htmlTapToCallFraction": 1.0
+    }
+  },
   "quotableFindings": []
 }

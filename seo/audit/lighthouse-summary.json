@@ -1,6 +1,6 @@
 {
   "method": "Lighthouse simulated mobile, localhost, up to two concurrent audit processes. Not production field data. Preview noindex is intentional.",
-  "measuredAt": "2026-09-12T08:59:01.083Z",
+  "measuredAt": "2026-09-12T09:40:31.616Z",
   "results": [
     {
       "route": "/industries/plumbers/",
@@ -1457,6 +1457,147 @@
           "title": "Render-blocking requests",
           "score": 0,
           "displayValue": "Est savings of 580 ms"
+        }
+      ]
+    },
+    {
+      "route": "/industries/landscapers/",
+      "scores": {
+        "performance": 1,
+        "accessibility": 1,
+        "seo": 0.66
+      },
+      "labLcp": 1356.18105,
+      "labCls": 0,
+      "labTbt": 0,
+      "findings": [
+        {
+          "id": "unminified-javascript",
+          "title": "Minify JavaScript",
+          "score": 0.5,
+          "displayValue": "Est savings of 2 KiB"
+        },
+        {
+          "id": "is-crawlable",
+          "title": "Page is blocked from indexing",
+          "score": 0
+        },
+        {
+          "id": "cache-insight",
+          "title": "Use efficient cache lifetimes",
+          "score": 0,
+          "displayValue": "Est savings of 25 KiB"
+        },
+        {
+          "id": "document-latency-insight",
+          "title": "Document request latency",
+          "score": 0.5,
+          "displayValue": "Est savings of 18 KiB"
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render-blocking requests",
+          "score": 0,
+          "displayValue": "Est savings of 100 ms"
+        }
+      ]
+    },
+    {
+      "route": "/industries/cleaners/",
+      "scores": {
+        "performance": 1,
+        "accessibility": 1,
+        "seo": 0.66
+      },
+      "labLcp": 1356.1062,
+      "labCls": 0,
+      "labTbt": 0,
+      "findings": [
+        {
+          "id": "unminified-javascript",
+          "title": "Minify JavaScript",
+          "score": 0.5,
+          "displayValue": "Est savings of 2 KiB"
+        },
+        {
+          "id": "is-crawlable",
+          "title": "Page is blocked from indexing",
+          "score": 0
+        },
+        {
+          "id": "cache-insight",
+          "title": "Use efficient cache lifetimes",
+          "score": 0,
+          "displayValue": "Est savings of 25 KiB"
+        },
+        {
+          "id": "document-latency-insight",
+          "title": "Document request latency",
+          "score": 0.5,
+          "displayValue": "Est savings of 18 KiB"
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render-blocking requests",
+          "score": 0,
+          "displayValue": "Est savings of 100 ms"
+        }
+      ]
+    },
+    {
+      "route": "/industries/hvac/",
+      "scores": {
+        "performance": 1,
+        "accessibility": 1,
+        "seo": 0.66
+      },
+      "labLcp": 1354.392,
+      "labCls": 0,
+      "labTbt": 0,
+      "findings": [
+        {
+          "id": "unminified-javascript",
+          "title": "Minify JavaScript",
+          "score": 0.5,
+          "displayValue": "Est savings of 2 KiB"
+        },
+        {
+          "id": "is-crawlable",
+          "title": "Page is blocked from indexing",
+          "score": 0
+        },
+        {
+          "id": "cache-insight",
+          "title": "Use efficient cache lifetimes",
+          "score": 0,
+          "displayValue": "Est savings of 25 KiB"
+        },
+        {
+          "id": "document-latency-insight",
+          "title": "Document request latency",
+          "score": 0.5,
+          "displayValue": "Est savings of 18 KiB"
+        },
+        {
+          "id": "network-dependency-tree-insight",
+          "title": "Network dependency tree",
+          "score": 0
+        },
+        {
+          "id": "render-blocking-insight",
+          "title": "Render-blocking requests",
+          "score": 0,
+          "displayValue": "Est savings of 120 ms"
         }
       ]
     }

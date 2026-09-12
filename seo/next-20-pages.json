@@ -1,210 +1,6 @@
 [
   {
     "priority": 1,
-    "url": "/industries/landscapers/",
-    "pageType": "industry",
-    "primaryKeyword": "web design for landscapers",
-    "secondaryKeywords": [],
-    "searchIntent": "commercial investigation",
-    "targetReader": "Australian landscapers business owner",
-    "buyerStage": "evaluation",
-    "serpObservations": {
-      "queryRecordIds": [
-        "kw-040"
-      ],
-      "scope": "discovery_only_not_verified_google_rank"
-    },
-    "aiOverviewObservations": null,
-    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
-    "title": "Landscapers | DirectSite",
-    "metaTitle": "Landscapers | DirectSite",
-    "metaDescription": null,
-    "h1": "Landscapers",
-    "h2Structure": [
-      "Direct answer to the buyer task",
-      "Distinct requirements and examples",
-      "Evidence and source limitations",
-      "Scope and pricing considerations",
-      "Questions before choosing",
-      "See a working demo"
-    ],
-    "questionsToAnswer": [
-      "What exact job does this page help a customer complete?",
-      "What information makes it different from existing pages?",
-      "What must a buyer verify before committing?"
-    ],
-    "originalDataRequired": false,
-    "proofRequired": [
-      "Real scope and brand-approved offer",
-      "Permissioned relevant project when available; do not invent portfolio",
-      "Trade-specific journey, requirements and questions"
-    ],
-    "internalLinksIn": [],
-    "internalLinksOut": [
-      "/web-design/",
-      "/guides/website-cost-australia/"
-    ],
-    "schema": [
-      "WebPage",
-      "BreadcrumbList",
-      "Service"
-    ],
-    "cta": "Get Your Free 48-Hour Demo",
-    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
-    "status": "evidence_required",
-    "qualityScore": null,
-    "opportunityScores": {
-      "commercialIntent": 5,
-      "searchOpportunity": 3,
-      "abilityToRank": 2,
-      "offerFit": 5,
-      "expectedCustomerValue": 3,
-      "superiorContentAbility": 2
-    },
-    "priorityScore": 900,
-    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
-    "indexable": false,
-    "canonical": "https://directsite.com.au/industries/landscapers/",
-    "lastReviewed": null
-  },
-  {
-    "priority": 2,
-    "url": "/industries/cleaners/",
-    "pageType": "industry",
-    "primaryKeyword": "web design for cleaners",
-    "secondaryKeywords": [],
-    "searchIntent": "commercial investigation",
-    "targetReader": "Australian cleaners business owner",
-    "buyerStage": "evaluation",
-    "serpObservations": {
-      "queryRecordIds": [
-        "kw-063"
-      ],
-      "scope": "discovery_only_not_verified_google_rank"
-    },
-    "aiOverviewObservations": null,
-    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
-    "title": "Cleaners | DirectSite",
-    "metaTitle": "Cleaners | DirectSite",
-    "metaDescription": null,
-    "h1": "Cleaners",
-    "h2Structure": [
-      "Direct answer to the buyer task",
-      "Distinct requirements and examples",
-      "Evidence and source limitations",
-      "Scope and pricing considerations",
-      "Questions before choosing",
-      "See a working demo"
-    ],
-    "questionsToAnswer": [
-      "What exact job does this page help a customer complete?",
-      "What information makes it different from existing pages?",
-      "What must a buyer verify before committing?"
-    ],
-    "originalDataRequired": false,
-    "proofRequired": [
-      "Real scope and brand-approved offer",
-      "Permissioned relevant project when available; do not invent portfolio",
-      "Trade-specific journey, requirements and questions"
-    ],
-    "internalLinksIn": [],
-    "internalLinksOut": [
-      "/web-design/",
-      "/guides/website-cost-australia/"
-    ],
-    "schema": [
-      "WebPage",
-      "BreadcrumbList",
-      "Service"
-    ],
-    "cta": "Get Your Free 48-Hour Demo",
-    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
-    "status": "evidence_required",
-    "qualityScore": null,
-    "opportunityScores": {
-      "commercialIntent": 5,
-      "searchOpportunity": 3,
-      "abilityToRank": 2,
-      "offerFit": 5,
-      "expectedCustomerValue": 3,
-      "superiorContentAbility": 2
-    },
-    "priorityScore": 900,
-    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
-    "indexable": false,
-    "canonical": "https://directsite.com.au/industries/cleaners/",
-    "lastReviewed": null
-  },
-  {
-    "priority": 3,
-    "url": "/industries/hvac/",
-    "pageType": "industry",
-    "primaryKeyword": "web design for hvac",
-    "secondaryKeywords": [],
-    "searchIntent": "commercial investigation",
-    "targetReader": "Australian hvac business owner",
-    "buyerStage": "evaluation",
-    "serpObservations": {
-      "queryRecordIds": [
-        "kw-046"
-      ],
-      "scope": "discovery_only_not_verified_google_rank"
-    },
-    "aiOverviewObservations": null,
-    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
-    "title": "Hvac | DirectSite",
-    "metaTitle": "Hvac | DirectSite",
-    "metaDescription": null,
-    "h1": "Hvac",
-    "h2Structure": [
-      "Direct answer to the buyer task",
-      "Distinct requirements and examples",
-      "Evidence and source limitations",
-      "Scope and pricing considerations",
-      "Questions before choosing",
-      "See a working demo"
-    ],
-    "questionsToAnswer": [
-      "What exact job does this page help a customer complete?",
-      "What information makes it different from existing pages?",
-      "What must a buyer verify before committing?"
-    ],
-    "originalDataRequired": false,
-    "proofRequired": [
-      "Real scope and brand-approved offer",
-      "Permissioned relevant project when available; do not invent portfolio",
-      "Trade-specific journey, requirements and questions"
-    ],
-    "internalLinksIn": [],
-    "internalLinksOut": [
-      "/web-design/",
-      "/guides/website-cost-australia/"
-    ],
-    "schema": [
-      "WebPage",
-      "BreadcrumbList",
-      "Service"
-    ],
-    "cta": "Get Your Free 48-Hour Demo",
-    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
-    "status": "evidence_required",
-    "qualityScore": null,
-    "opportunityScores": {
-      "commercialIntent": 5,
-      "searchOpportunity": 3,
-      "abilityToRank": 2,
-      "offerFit": 5,
-      "expectedCustomerValue": 3,
-      "superiorContentAbility": 2
-    },
-    "priorityScore": 900,
-    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
-    "indexable": false,
-    "canonical": "https://directsite.com.au/industries/hvac/",
-    "lastReviewed": null
-  },
-  {
-    "priority": 4,
     "url": "/locations/sydney/",
     "pageType": "location",
     "primaryKeyword": "web design sydney",
@@ -283,7 +79,7 @@
     "lastReviewed": null
   },
   {
-    "priority": 5,
+    "priority": 2,
     "url": "/locations/brisbane/",
     "pageType": "location",
     "primaryKeyword": "web design brisbane",
@@ -362,7 +158,7 @@
     "lastReviewed": null
   },
   {
-    "priority": 6,
+    "priority": 3,
     "url": "/guides/website-seo-guide/",
     "pageType": "guide",
     "primaryKeyword": "website seo guide",
@@ -426,7 +222,7 @@
     "lastReviewed": null
   },
   {
-    "priority": 7,
+    "priority": 4,
     "url": "/guides/website-conversion-guide/",
     "pageType": "guide",
     "primaryKeyword": "website conversion guide",
@@ -490,7 +286,7 @@
     "lastReviewed": null
   },
   {
-    "priority": 8,
+    "priority": 5,
     "url": "/ecommerce-web-design/",
     "pageType": "service",
     "primaryKeyword": "ecommerce web design",
@@ -554,7 +350,7 @@
     "lastReviewed": null
   },
   {
-    "priority": 9,
+    "priority": 6,
     "url": "/industries/concreters/",
     "pageType": "industry",
     "primaryKeyword": "web design for concreters",
@@ -622,7 +418,7 @@
     "lastReviewed": null
   },
   {
-    "priority": 10,
+    "priority": 7,
     "url": "/industries/painters/",
     "pageType": "industry",
     "primaryKeyword": "web design for painters",
@@ -690,7 +486,7 @@
     "lastReviewed": null
   },
   {
-    "priority": 11,
+    "priority": 8,
     "url": "/industries/solar/",
     "pageType": "industry",
     "primaryKeyword": "web design for solar",
@@ -758,7 +554,7 @@
     "lastReviewed": null
   },
   {
-    "priority": 12,
+    "priority": 9,
     "url": "/locations/perth/",
     "pageType": "location",
     "primaryKeyword": "web design perth",
@@ -837,7 +633,7 @@
     "lastReviewed": null
   },
   {
-    "priority": 13,
+    "priority": 10,
     "url": "/locations/adelaide/",
     "pageType": "location",
     "primaryKeyword": "web design adelaide",
@@ -916,7 +712,7 @@
     "lastReviewed": null
   },
   {
-    "priority": 14,
+    "priority": 11,
     "url": "/industries/mortgage-brokers/",
     "pageType": "industry",
     "primaryKeyword": "web design for mortgage brokers",
@@ -984,7 +780,7 @@
     "lastReviewed": null
   },
   {
-    "priority": 15,
+    "priority": 12,
     "url": "/industries/accountants/",
     "pageType": "industry",
     "primaryKeyword": "web design for accountants",
@@ -1052,7 +848,7 @@
     "lastReviewed": null
   },
   {
-    "priority": 16,
+    "priority": 13,
     "url": "/industries/dentists/",
     "pageType": "industry",
     "primaryKeyword": "web design for dentists",
@@ -1120,7 +916,7 @@
     "lastReviewed": null
   },
   {
-    "priority": 17,
+    "priority": 14,
     "url": "/compare/squarespace-vs-web-designer/",
     "pageType": "comparison",
     "primaryKeyword": "squarespace vs web designer",
@@ -1186,7 +982,7 @@
     "lastReviewed": null
   },
   {
-    "priority": 18,
+    "priority": 15,
     "url": "/compare/freelancer-vs-web-design-agency/",
     "pageType": "comparison",
     "primaryKeyword": "freelancer vs web design agency",
@@ -1250,7 +1046,7 @@
     "lastReviewed": null
   },
   {
-    "priority": 19,
+    "priority": 16,
     "url": "/best/web-design-for-tradies/",
     "pageType": "buyer-guide",
     "primaryKeyword": "best web design for tradies",
@@ -1317,7 +1113,7 @@
     "lastReviewed": null
   },
   {
-    "priority": 20,
+    "priority": 17,
     "url": "/research/australian-small-business-website-benchmark-2026/",
     "pageType": "research",
     "primaryKeyword": "australian small business website benchmark 2026",
@@ -1378,6 +1174,208 @@
     "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
     "indexable": false,
     "canonical": "https://directsite.com.au/research/australian-small-business-website-benchmark-2026/",
+    "lastReviewed": null
+  },
+  {
+    "priority": 18,
+    "url": "/industries/law-firms/",
+    "pageType": "industry",
+    "primaryKeyword": "web design for law firms",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian law firms business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Law Firms | DirectSite",
+    "metaTitle": "Law Firms | DirectSite",
+    "metaDescription": null,
+    "h1": "Law Firms",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Permissioned relevant project when available; do not invent portfolio",
+      "Trade-specific journey, requirements and questions"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 5,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 900,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/industries/law-firms/",
+    "lastReviewed": null
+  },
+  {
+    "priority": 19,
+    "url": "/industries/physiotherapists/",
+    "pageType": "industry",
+    "primaryKeyword": "web design for physiotherapists",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian physiotherapists business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-059"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Physiotherapists | DirectSite",
+    "metaTitle": "Physiotherapists | DirectSite",
+    "metaDescription": null,
+    "h1": "Physiotherapists",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Permissioned relevant project when available; do not invent portfolio",
+      "Trade-specific journey, requirements and questions"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 5,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 900,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/industries/physiotherapists/",
+    "lastReviewed": null
+  },
+  {
+    "priority": 20,
+    "url": "/industries/mechanics/",
+    "pageType": "industry",
+    "primaryKeyword": "web design for mechanics",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian mechanics business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-067"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Mechanics | DirectSite",
+    "metaTitle": "Mechanics | DirectSite",
+    "metaDescription": null,
+    "h1": "Mechanics",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Permissioned relevant project when available; do not invent portfolio",
+      "Trade-specific journey, requirements and questions"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 5,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 900,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/industries/mechanics/",
     "lastReviewed": null
   }
 ]
