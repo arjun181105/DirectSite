@@ -1,0 +1,21 @@
+{
+  "routes": 32,
+  "productionOutput": true,
+  "errors": [],
+  "checks": [
+    "unique titles/H1s",
+    "canonicals",
+    "metadata",
+    "JSON-LD structure",
+    "local links/fragments/assets",
+    "hub reachability",
+    "sitemap equality",
+    "indexability",
+    "form label references"
+  ],
+  "limitations": [
+    "Schema.org external validator not run",
+    "HTTP/CDN validation separate",
+    "Browser accessibility and field Core Web Vitals require separate measurements"
+  ]
+}

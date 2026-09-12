@@ -1,0 +1,15 @@
+{
+  "promptId": "geo-01",
+  "platform": "Google AI Overview",
+  "date": null,
+  "status": "unavailable",
+  "location": "Australia / Melbourne",
+  "signedIn": null,
+  "directSiteMentioned": null,
+  "positionContext": null,
+  "sourcesCited": [],
+  "competitorsMentioned": [],
+  "sourceDomains": [],
+  "observations": "Example format only. Replace with an actual dated measurement before recording.",
+  "evidenceFile": null
+}

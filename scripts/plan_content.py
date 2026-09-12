@@ -1,0 +1,48 @@
+"""Build machine-readable planning and monitoring records; drafts are never rendered."""
+import json,pathlib,re,math
+ROOT=pathlib.Path(__file__).resolve().parents[1]
+def write(path,data):
+ p=ROOT/path
+ if path=='seo/research/ai-citations.json' and p.exists():return
+ p.parent.mkdir(parents=True,exist_ok=True);p.write_text(json.dumps(data,indent=2)+'\n')
+pages=json.load(open(ROOT/'content/pages.json'));by={p['slug']:p for p in pages}
+industries='plumbers electricians roofers builders tradies landscapers concreters painters hvac solar real-estate mortgage-brokers accountants law-firms dentists physiotherapists gyms cleaners removalists mechanics car-dealers restaurants cafes'.split()
+cities='melbourne sydney brisbane perth adelaide gold-coast canberra geelong newcastle sunshine-coast hobart'.split()
+guides='website-cost-australia website-cost-melbourne how-long-does-a-website-take small-business-website-checklist tradie-website-checklist plumber-website-checklist builder-website-checklist website-redesign-guide website-seo-guide website-conversion-guide'.split()
+comparisons='wix-vs-custom-website squarespace-vs-web-designer wordpress-vs-custom webflow-vs-wordpress freelancer-vs-web-design-agency template-vs-custom-website'.split()
+best='web-design-companies-australia web-design-companies-melbourne web-design-for-tradies plumber-website-designers builder-website-designers roofer-website-designers'.split()
+planned=[('/'+s+'/','service') for s in ['web-design','small-business-web-design','website-redesign','ecommerce-web-design']]
+for parent,names,kind in [('industries',industries,'industry'),('locations',cities,'location'),('guides',guides,'guide'),('compare',comparisons,'comparison'),('best',best,'buyer-guide')]:
+ planned += [('/'+parent+'/'+s+'/',kind) for s in names]
+planned += [('/'+s+'/',kind) for s,kind in [('case-studies','hub'),('pricing','company'),('privacy','company'),('terms','company'),('research','hub'),('research/australian-small-business-website-benchmark-2026','research'),('tools/website-score','tool'),('tools/website-redesign-checklist','tool'),('tools/website-speed-check','tool')]]
+for p in pages:
+ if p['slug'] not in [s for s,k in planned]:planned.append((p['slug'],p['pageType']))
+keywords=json.load(open(ROOT/'seo/research/keywords.json'))
+briefs=[];manifest=[]
+for slug,kind in planned:
+ p=by.get(slug);topic=slug.strip('/').split('/')[-1].replace('-',' ')
+ kw=p['primaryKeyword'] if p else ('web design '+topic if kind=='location' else 'web design for '+topic if kind=='industry' else 'best '+topic if kind=='buyer-guide' else topic)
+ observed=[r['id'] for r in keywords if r['query'].casefold()==kw.casefold() or (kind in {'industry','location'} and topic.casefold() in r['query'].casefold())]
+ quality=__import__('content_model').quality(p)['score'] if p else None
+ proof=['Real scope and brand-approved offer']
+ if kind=='industry':proof+=['Permissioned relevant project when available; do not invent portfolio','Trade-specific journey, requirements and questions']
+ if kind=='location':proof+=['Verified local source and geographic boundary','Distinct local customer information; no invented office']
+ if kind=='buyer-guide':proof+=['Current primary provider sources','Disclosed commercial interest and selection method','No unsupported ranking scores']
+ if kind in {'case-study','research'}:proof+=['Auditable original evidence and publication permission']
+ scores=dict(commercialIntent=5 if kind in {'service','industry','location','buyer-guide'} else 3,searchOpportunity=3,abilityToRank=2,offerFit=5 if kind in {'industry','service'} else 4,expectedCustomerValue=3,superiorContentAbility=4 if p else 2)
+ brief=dict(url=slug,pageType=kind,primaryKeyword=kw,secondaryKeywords=p.get('secondaryKeywords',[]) if p else [],searchIntent='informational' if kind in {'guide','tool','research'} else 'commercial investigation',targetReader='Australian '+(topic+' business owner' if kind=='industry' else 'small-business owner'),buyerStage='evaluation' if kind in {'service','industry','location','comparison','buyer-guide'} else 'planning',serpObservations={'queryRecordIds':observed,'scope':'discovery_only_not_verified_google_rank'},aiOverviewObservations=None,competitorWeaknesses='Not proven; compare primary sources and identify a specific unanswered buyer question',title=p['title'] if p else topic.title()+' | DirectSite',metaTitle=p['title'] if p else topic.title()+' | DirectSite',metaDescription=p['description'] if p else None,h1=p['h1'] if p else topic.title(),h2Structure=[s['heading'] for s in p['sections']] if p else ['Direct answer to the buyer task','Distinct requirements and examples','Evidence and source limitations','Scope and pricing considerations','Questions before choosing','See a working demo'],questionsToAnswer=[f['question'] for f in p['faqs']] if p else ['What exact job does this page help a customer complete?','What information makes it different from existing pages?','What must a buyer verify before committing?'],originalDataRequired=kind=='research',proofRequired=proof,internalLinksIn=[x['slug'] for x in pages if slug in x['related']],internalLinksOut=p['related'] if p else ['/web-design/','/guides/website-cost-australia/'],schema=['WebPage','BreadcrumbList']+(['Service'] if kind in {'service','industry','location'} else ['Article'] if kind in {'guide','comparison','buyer-guide'} else []),cta='Get Your Free 48-Hour Demo',conversionGoal='accepted demo request or service enquiry; completed bookings tracked separately',status='implemented_local' if p else 'evidence_required',qualityScore=quality,opportunityScores=scores,priorityScore=math.prod(scores.values()),scoreBasis='editorial assumptions, not measured demand/difficulty/value',indexable=bool(p),canonical='https://directsite.com.au'+slug,lastReviewed='2026-09-12' if p else None)
+ if slug in {'/privacy/','/terms/'}:brief['proofRequired']=['Verified legal/trading identity','Actual data handling, retention and processor arrangements','Actual payment, revision, scope and cancellation terms'];brief['status']='business_facts_required'
+ briefs.append(brief)
+ if not p:manifest.append(dict(slug=slug,pageType=kind,primaryKeyword=kw,secondaryKeywords=[],searchIntent=brief['searchIntent'],targetLocation=topic if kind=='location' else None,targetIndustry=topic if kind=='industry' else None,uniqueContentScore=None,proofAvailable=False,caseStudyAvailable=False,originalDataAvailable=False,wordCountTarget=650,indexable=False,canonical=brief['canonical'],status=brief['status'],lastReviewed=None))
+write('seo/briefs.json',briefs);write('seo/planned-manifest.json',manifest)
+next20=['/industries/landscapers/','/industries/cleaners/','/industries/hvac/','/locations/sydney/','/locations/brisbane/','/guides/website-seo-guide/','/guides/website-conversion-guide/','/ecommerce-web-design/','/industries/concreters/','/industries/painters/','/industries/solar/','/locations/perth/','/locations/adelaide/','/industries/mortgage-brokers/','/industries/accountants/','/industries/dentists/','/compare/squarespace-vs-web-designer/','/compare/freelancer-vs-web-design-agency/','/best/web-design-for-tradies/','/research/australian-small-business-website-benchmark-2026/']
+next20=[s for s in next20 if s not in by]
+for s in ['/industries/law-firms/','/industries/physiotherapists/','/industries/mechanics/']:
+ if len(next20)<20 and s not in by and s not in next20:next20.append(s)
+write('seo/next-20-pages.json',[{'priority':i+1,**next(b for b in briefs if b['url']==s)} for i,s in enumerate(next20)])
+prompts=['Who are the best web designers in Melbourne?','What are the best web design companies in Australia?','Who builds good websites for plumbers in Melbourne?','What web design agency specialises in tradies?','Who should I hire to redesign my small business website in Australia?','How much does a website cost in Australia?','What should a plumber website include?','What should a tradie website include?','Is Wix or a custom website better for a small business?','What are the best affordable web design companies in Melbourne?']
+platforms=['Google Search','Google AI Overview','Google AI Mode','ChatGPT Search']
+write('seo/monitoring/prompts.json',[{'id':f'geo-{i+1:02}','prompt':q,'platforms':platforms,'market':'Australia','suggestedCadence':'monthly','status':'measurement_required'} for i,q in enumerate(prompts)])
+write('seo/research/ai-citations.json',[{'prompt':q,'platform':plat,'date':None,'directSiteMentioned':None,'positionContext':None,'sourcesCited':None,'competitorsMentioned':None,'sourceDomains':None,'observations':'measurement_required','evidenceFile':None,'location':None,'signedIn':None} for q in prompts for plat in platforms])
+write('content/case-study.template.json',{'slug':None,'pageType':'case-study','client':None,'industry':None,'location':None,'previousSituation':None,'problems':[],'changes':[],'screenshots':[],'beforeAfter':None,'buildTimeline':None,'technicalImprovements':[],'conversionImprovements':None,'seoImprovements':None,'clientQuote':None,'result':None,'evidence':[],'publicationPermission':None,'indexable':False,'status':'evidence_required','related':[]})
+print(len(briefs),'briefs;',len(manifest),'planned pages gated; 40 GEO measurement rows')

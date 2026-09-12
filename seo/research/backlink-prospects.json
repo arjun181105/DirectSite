@@ -1,0 +1,73 @@
+[
+  {
+    "name": "SmartCompany",
+    "url": "https://www.smartcompany.com.au/",
+    "type": "Australian small-business publication",
+    "asset": "Original benchmark with transparent sample and denominators",
+    "angle": "Practical enquiry failures in Australian business websites",
+    "status": "publication_verified_pitch_requirements_unchecked",
+    "contact": null,
+    "priority": 1
+  },
+  {
+    "name": "Master Plumbers",
+    "url": "https://plumber.com.au/",
+    "type": "Trade association/publication",
+    "asset": "Plumber-specific website checklist and verified benchmark breakdown",
+    "angle": "Help member businesses assess customer enquiry usability",
+    "status": "organisation_verified_editorial_or_member_eligibility_unchecked",
+    "contact": null,
+    "priority": 1
+  },
+  {
+    "name": "The Site Shed",
+    "url": "https://www.thesiteshed.com/",
+    "type": "Trade-business podcast",
+    "asset": "Auditable trade website research and useful examples",
+    "angle": "Website customer-journey discussion backed by real measurements",
+    "status": "publication_verified_guest_policy_unchecked",
+    "contact": null,
+    "priority": 2,
+    "relationshipNote": "Trade-marketing adjacency may make competitor conflicts relevant; assess before proposing"
+  },
+  {
+    "name": "Dynamic Business",
+    "url": "https://dynamicbusiness.com/",
+    "type": "Business and technology publication",
+    "asset": "Transparent calculator methodology and measured website benchmark",
+    "angle": "How owners can assess website buying risk and enquiry reliability",
+    "status": "publication_verified_pitch_requirements_unchecked",
+    "contact": null,
+    "priority": 2
+  },
+  {
+    "name": "Existing DirectSite clients",
+    "url": null,
+    "type": "Permissioned client case-study relationship",
+    "asset": "Actual client story and useful project record",
+    "angle": "Optional attribution chosen by the client, never a contractual keyword backlink",
+    "status": "client_list_required",
+    "contact": null,
+    "priority": 1
+  },
+  {
+    "name": "Relevant chambers and business groups",
+    "url": null,
+    "type": "Local business network",
+    "asset": "Public checklist workshop or research summary",
+    "angle": "Useful education for members",
+    "status": "specific_organisation_and_eligibility_research_required",
+    "contact": null,
+    "priority": 3
+  },
+  {
+    "name": "Clutch",
+    "url": "https://clutch.co/",
+    "type": "Service-provider directory",
+    "asset": "Truthful business profile and consented client references",
+    "angle": "Accurate discovery footprint",
+    "status": "observed_in_discovery_profile_eligibility_unchecked",
+    "contact": null,
+    "priority": 3
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "name": "DirectSite",
+  "origin": "https://directsite.com.au",
+  "locale": "en-AU",
+  "reviewed": "2026-09-12",
+  "offer": "Your new website. Built before you buy.",
+  "cta": "Get Your Free 48-Hour Demo",
+  "booking": "/#book",
+  "schedule": "https://cal.com/arjun-sharma-l5xsle/directsite-strategy-call",
+  "trainingPolicy": "preserve_existing_wildcard_allow",
+  "productionSourceVerified": true,
+  "repository": "https://github.com/arjun181105/DirectSite",
+  "sourceCommit": "0825f4d0cf822b3279ea943af10f89f77ad0f580"
+}

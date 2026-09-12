@@ -1,0 +1,5972 @@
+[
+  {
+    "domain": "reddit.com",
+    "queryAppearances": 225,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "en.wikipedia.org",
+    "queryAppearances": 150,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "boldagency.com.au",
+    "queryAppearances": 57,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "clutch.co",
+    "queryAppearances": 46,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "goodfirms.co",
+    "queryAppearances": 42,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "sortlist.com",
+    "queryAppearances": 42,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "wordofmouth.com.au",
+    "queryAppearances": 33,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "21webs.com.au",
+    "queryAppearances": 28,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "designrush.com",
+    "queryAppearances": 25,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "techradar.com",
+    "queryAppearances": 25,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "media.truelocal.com.au",
+    "queryAppearances": 25,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "kcwebdesign.com.au",
+    "queryAppearances": 25,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "tda.edu.au",
+    "queryAppearances": 23,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "onboard.com.au",
+    "queryAppearances": 23,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webstallion.com.au",
+    "queryAppearances": 21,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "visualweb.com.au",
+    "queryAppearances": 21,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "brand.curtin.edu.au",
+    "queryAppearances": 19,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "creativebloq.com",
+    "queryAppearances": 19,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "onarastudios.com.au",
+    "queryAppearances": 19,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "wdm.com.au",
+    "queryAppearances": 18,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "digitalon.com.au",
+    "queryAppearances": 18,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "awebsite.com.au",
+    "queryAppearances": 17,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "issuewire.com",
+    "queryAppearances": 17,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "sitecentre.com.au",
+    "queryAppearances": 17,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "customwebcreations.com.au",
+    "queryAppearances": 16,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "aaronknight.com.au",
+    "queryAppearances": 16,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "adelaidewebdesigner.com.au",
+    "queryAppearances": 16,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "startdigital.com.au",
+    "queryAppearances": 15,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "rb.com.au",
+    "queryAppearances": 15,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webcraftstudio.com.au",
+    "queryAppearances": 14,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "diversewebsitedesign.com.au",
+    "queryAppearances": 14,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "threebestrated.com.au",
+    "queryAppearances": 14,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "telova.com.au",
+    "queryAppearances": 14,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "web-engine.com.au",
+    "queryAppearances": 13,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "proof1.webalive.com.au",
+    "queryAppearances": 13,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "fusco-studio.com",
+    "queryAppearances": 13,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "themanifest.com",
+    "queryAppearances": 12,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cleverops.com.au",
+    "queryAppearances": 12,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "levart.com.au",
+    "queryAppearances": 12,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "elphickdigital.com.au",
+    "queryAppearances": 12,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "wakeforddigital.com.au",
+    "queryAppearances": 12,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "marxcreative.com.au",
+    "queryAppearances": 12,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "newcastlewebco.com.au",
+    "queryAppearances": 12,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "peabodydigital.com.au",
+    "queryAppearances": 12,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "hutchins.tas.edu.au",
+    "queryAppearances": 12,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "web.archive.org",
+    "queryAppearances": 11,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "netbound.com.au",
+    "queryAppearances": 11,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "techreviewer.co",
+    "queryAppearances": 11,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cleverweb.com.au",
+    "queryAppearances": 11,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "weauto.org",
+    "queryAppearances": 11,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "topseos.com",
+    "queryAppearances": 11,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "geelongwebdesign.com.au",
+    "queryAppearances": 11,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "mybusinessmarketingcoach.com.au",
+    "queryAppearances": 10,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cit.edu.au",
+    "queryAppearances": 10,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "clickcreative.com.au",
+    "queryAppearances": 10,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "contentgroup.com.au",
+    "queryAppearances": 10,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "techcouncil.com.au",
+    "queryAppearances": 10,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "sitessimplysydney.weebly.com",
+    "queryAppearances": 10,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "shopfrontstudio.com.au",
+    "queryAppearances": 10,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "egsolutions.com.au",
+    "queryAppearances": 10,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "austradiewebsites.com.au",
+    "queryAppearances": 10,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "tomsguide.com",
+    "queryAppearances": 10,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "fivebyfive.com.au",
+    "queryAppearances": 10,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webdevise.com.au",
+    "queryAppearances": 10,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "thestart.com.au",
+    "queryAppearances": 10,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "philkurth.com.au",
+    "queryAppearances": 10,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "miniwebs.com.au",
+    "queryAppearances": 10,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "scorchedmedia.com.au",
+    "queryAppearances": 10,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "websiteadelaide.com",
+    "queryAppearances": 10,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "goldcoastmultimedia.com.au",
+    "queryAppearances": 10,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "geelongwebdesign.com",
+    "queryAppearances": 10,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "digitalbeans.com.au",
+    "queryAppearances": 10,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "training.gov.au",
+    "queryAppearances": 9,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webiteasy.com.au",
+    "queryAppearances": 9,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "studioslate.com.au",
+    "queryAppearances": 9,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "swinndigital.com.au",
+    "queryAppearances": 9,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "static1.squarespace.com",
+    "queryAppearances": 9,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "corewebhub.com.au",
+    "queryAppearances": 9,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cosmoswebtech.com.au",
+    "queryAppearances": 9,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "abirr.com",
+    "queryAppearances": 9,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "lawseo.com.au",
+    "queryAppearances": 9,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webadelaide.com.au",
+    "queryAppearances": 9,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webdesigninadelaide.com.au",
+    "queryAppearances": 9,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "boylen.com.au",
+    "queryAppearances": 9,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "ignitedesign.au",
+    "queryAppearances": 9,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "tropixel.com.au",
+    "queryAppearances": 9,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "savvywebstudio.com.au",
+    "queryAppearances": 9,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webswift.com.au",
+    "queryAppearances": 9,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webawards.com.au",
+    "queryAppearances": 8,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "pixelstorm.com.au",
+    "queryAppearances": 8,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "justozz.com.au",
+    "queryAppearances": 8,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "csiro.au",
+    "queryAppearances": 8,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "theleadgenlab.com.au",
+    "queryAppearances": 8,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "scalesites.com.au",
+    "queryAppearances": 8,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "smallbusiness.wa.gov.au",
+    "queryAppearances": 8,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webfrogstudios.com.au",
+    "queryAppearances": 8,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webwizards.com.au",
+    "queryAppearances": 8,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webdesignperthaustralia.com.au",
+    "queryAppearances": 8,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "jarmosdigital.com.au",
+    "queryAppearances": 8,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "projectsimple.com.au",
+    "queryAppearances": 8,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "unesco.org",
+    "queryAppearances": 8,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "geelongchamber.com.au",
+    "queryAppearances": 8,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "newcastle.edu.au",
+    "queryAppearances": 8,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "wolfrock.com.au",
+    "queryAppearances": 8,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webdesignhobart.com",
+    "queryAppearances": 8,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "agencies.semrush.com",
+    "queryAppearances": 7,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "thecheapwebsites.com.au",
+    "queryAppearances": 7,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "congero.com.au",
+    "queryAppearances": 7,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "yellowpages.com.au",
+    "queryAppearances": 7,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "failover.in.paws-sensis.com.au",
+    "queryAppearances": 7,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "servicescale.com.au",
+    "queryAppearances": 7,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "codeqy.com.au",
+    "queryAppearances": 7,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "ourcommunity.com.au",
+    "queryAppearances": 7,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "lunasystems.com.au",
+    "queryAppearances": 7,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "dsigns.com.au",
+    "queryAppearances": 7,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "uploads-ssl.webflow.com",
+    "queryAppearances": 7,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "goop.com.au",
+    "queryAppearances": 7,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "datagemba.com",
+    "queryAppearances": 7,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "pwd.com.au",
+    "queryAppearances": 7,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "perthweb.com.au",
+    "queryAppearances": 7,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "de.wikipedia.org",
+    "queryAppearances": 7,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webdesignadelaide.com.au",
+    "queryAppearances": 7,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "geeit.com.au",
+    "queryAppearances": 7,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "vkgroup.com.au",
+    "queryAppearances": 7,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "canberraweb.com.au",
+    "queryAppearances": 7,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "tourism.act.gov.au",
+    "queryAppearances": 7,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "maxideas.com.au",
+    "queryAppearances": 7,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "davisdesign.com.au",
+    "queryAppearances": 7,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "jezweb.com",
+    "queryAppearances": 7,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "moonstruckdigital.com.au",
+    "queryAppearances": 7,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "assets-au-scc.kc-usercontent.com",
+    "queryAppearances": 7,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "digitalink.com.au",
+    "queryAppearances": 7,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "hobartcity.com.au",
+    "queryAppearances": 7,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "hobartwebsitedesign.com.au",
+    "queryAppearances": 7,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "stategrowth.tas.gov.au",
+    "queryAppearances": 7,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "digitalreference.co",
+    "queryAppearances": 6,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "high10.com.au",
+    "queryAppearances": 6,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "mywork.com.au",
+    "queryAppearances": 6,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "arxiv.org",
+    "queryAppearances": 6,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "blumint.com.au",
+    "queryAppearances": 6,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "1cyber.com.au",
+    "queryAppearances": 6,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "constantwebbuilders.com",
+    "queryAppearances": 6,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "pixellabstudio.com.au",
+    "queryAppearances": 6,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "plumber.com.au",
+    "queryAppearances": 6,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "codemintofficial.com",
+    "queryAppearances": 6,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "northcoastwebdesign.com.au",
+    "queryAppearances": 6,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "onlinespark.com.au",
+    "queryAppearances": 6,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "getclad.au",
+    "queryAppearances": 6,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "5startradie.com.au",
+    "queryAppearances": 6,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cjco.com.au",
+    "queryAppearances": 6,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "devoq.com.au",
+    "queryAppearances": 6,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "wa.gov.au",
+    "queryAppearances": 6,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "sydneywebdesigner.com.au",
+    "queryAppearances": 6,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "conquerradigital.com.au",
+    "queryAppearances": 6,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "peakxd.com.au",
+    "queryAppearances": 6,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "sfbmedia.com.au",
+    "queryAppearances": 6,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "perthperth.com",
+    "queryAppearances": 6,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "ailsawilliams.com",
+    "queryAppearances": 6,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webtree.com.au",
+    "queryAppearances": 6,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webdesignercanberra.au",
+    "queryAppearances": 6,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "pandia.com",
+    "queryAppearances": 6,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "siroccodigital.com.au",
+    "queryAppearances": 6,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "invest.sunshinecoast.qld.gov.au",
+    "queryAppearances": 6,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "solid-state-designs.com",
+    "queryAppearances": 6,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "fortewebdesign.com.au",
+    "queryAppearances": 6,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "theinternet.com.au",
+    "queryAppearances": 6,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "marketcreations.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "theaffordablewebsites.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webdesigncentre.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "m.manlyaustralia.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "tdsaustralia.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "theunknowndesign.com",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "graphicaproartistry.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "free-websites.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "foxandlee.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "gdbmedia.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webdesignforplumbers.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "designodev.com",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webco.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "kingtradie.com",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "spiralorbdesigns.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "wallpaper.com",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "harmony.avid.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "microbite.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "buildingconnection.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "thesiteshed.com",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "hughesyaiautomation.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "itinspire.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "mindsite.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "saucedout.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "codeandvisual.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webeasy.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "perthsites.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "lethal.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "w1.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "theworksite.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "nawazonline.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "oncreative.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "jacobgates.com",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "destinationgoldcoast.stylelabs.cloud",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "goldcoastgraphicdesign.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "visualmarketing.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "2600design.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "sitefuse.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "d1digitalstudio.com",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "region.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "evolutiondesign.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "bellarinewebsites.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "clickk.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "360.lcimelbourne.edu.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "sunshinecoastwebdesign.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "coralcreative.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "ultimedia.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "lgat.tas.gov.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "presenceos.com.au",
+    "queryAppearances": 5,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "jpe.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "havealook.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "layerly.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "corepages.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "solidsites.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "ascendwebdesign.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "christom.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "melbournewebdesigners.com",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "foxtel.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "masterplumbers.asn.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "sitedone.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "ironformstudios.com",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "kurrajongstudio.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webnetic.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "ancr.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "synora.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "shareweb.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "nexty.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "zyrvo.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "getmoretraffic.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "hipagesgroup.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "setoutdigital.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webguymike.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "toolboxdigital.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "made4tradies.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "niftywebsites.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "stratifyiq.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "mojomesh.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "elephynlabs.com",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "michaelsherry.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "web4business.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "catalysthub.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "thewebshop.net.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "whitepalmwebsites.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webdesignsydneyaustralia.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "smartprimitive.com",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "greenhat.net",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "marketingsweet.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "badc.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webdesignperth.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "ferndigital.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webarena.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "perthx.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "canberra.edu.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "rastrick.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "bytesizelabs.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "themakerscollective.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "wdgeelong.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "pkc-gcod-media-ap2.s3.ap-southeast-2.amazonaws.com",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "pixeld.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "chocchip.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "reveler.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "ondetto.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "localbusinessguide.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "hccdc.nsw.gov.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "ncl.ac.uk",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "newism.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "dtb.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "aswstudio.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "assets-us-01.kc-usercontent.com",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "andytownsenddesign.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "hobartdigital.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "designid.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "tso.com.au",
+    "queryAppearances": 4,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "aussie-study.com",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "websitedesign.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "butterfly.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "thewebstore.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "aussiewebdesigns.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "creativebaguette.com",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "six9.design",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "69design.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "budgetwebdesign.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "mediaplusdigital.co",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cheapwebsites.net.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "mity.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "ngv.vic.gov.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "moo.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "nmedigitalagency.com",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "freerangewebsites.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "getquicksites.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "teamlewis.com",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "prodigygrowthlabs.com",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "ausasiaonline.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "ennovativewebdesign.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "tradeswebdesign.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "zarla.com",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "archipro.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "westcoastroofing.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "tsmg.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "studioellore.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "limitlesswebco.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "buildaustralia.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "tradie.hipages.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "sitelaunch.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "startmytradie.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "tradesiteworks.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "knuthlabs.com",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "toolboxmarketing.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "tradefoundry.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "getdigitalmarketinghelp.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cpaaustralia.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "upsoul.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "practiceedge.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "blenddesigns.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "alpineroot.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "s0.whitepages.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "citehawk.com",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "bdaa.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "expertmarket.com",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "jxmstudio.com",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "goji.agency",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "struo.dev",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "grovefoundry.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "rileytechstudio.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "goingrate.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "digitalmarketingagencymelbourne.com",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "c4studios.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "prycedigital.com",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "loudachris.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "policies.westernsydney.edu.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "wolfiq.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "sydneybusinessweb.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webdesignbrisbaneaustralia.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "sevinu.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "knd.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "qwebstudio.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webdesignerbrisbane.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "actuallyworks.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "jonathanbird.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "fairgoweb.com",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "lilo.net.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "geoffrey.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "deliciousdesign.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "nathanwebster.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "adelaide.edu.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "websiteboss.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "kennynkathy.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "pagewebstudio.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "jayem.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "experiencegoldcoast.com",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "parallaxcreative.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "tmdonline.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "subzdesigns.com",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "antcrow.com",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "gravit.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "geelongaustralia.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "baylineweb.site",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "yatesdesign.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "localsearch.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "chroniclelive.co.uk",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "chimera-design.com",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "newcastle.nsw.gov.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "partnerdigital.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "sunshinewebdesign.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "rdasunshinecoast.org.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "lawrenceofaustralia.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "smartfish.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webicreative.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "sxconstructions.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "techbehemoths.com",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "hdp-au-prod-app-hba-yoursay-files.s3.ap-southeast-2.amazonaws.com",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "oneflare.com.au",
+    "queryAppearances": 3,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webdesignaustralia.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webdesignersaustralia.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "bpwmedia.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webpixels.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "unjumble.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "digitalagencynetwork.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "kavera.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "smallbusinessweb.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "kindredwebdesign.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "newbusinesswebsite.ai",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "dreamwebsites.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "weblikeweb.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "kyweb.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "web-ideas.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "siteworksdev.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "help-v4.melbourneitwebsites.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "heyitslola.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "wildestudio.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "static.ethicaljobs.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "hayz.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "thecreativeones.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "simoneleamon.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "maribyrnong.vic.gov.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "newmediaservices.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "whaledigitalconsulting.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cheapwebsites.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "duellingpixels.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "aesmith.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "backpocket.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "hipages.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "sitenest.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "legrand.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "mountainwebdesign.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "s3-ap-southeast-2.amazonaws.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "emeroofing.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "themepress.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "jameshardie.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "tradiewebsitedesign.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "korvis.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webwaystech.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "tradiewebsites.net",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "budgetbyte.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "apacewa.org.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "creativeconcreteconstructions.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "wizcrete.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "wixdesigns.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "heylead.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "thriveweb.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "zegashop.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "agentpoint.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "aspecthuntley.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "data-api.marketindex.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "accc.gov.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "wecompound.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "brokerwebsites.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "mortgagebrokerwebsite.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "brokerstudio.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "mfaa.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "helia.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "australiawebsitedesign.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "accountantwebsite.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "f.hubspotusercontent30.net",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "lawsociety.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "lawyerwebdesign.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "lawfirmwebsites.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "dezignlegal.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "liftlegal.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "legal.thomsonreuters.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "lawsocietysa.asn.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "aso.org.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "dentifi.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "buildfirstsite.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "onelocal.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "medicalmarketinggroup.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "willowjammedia.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "australian.physio",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "doctorwebdesign.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "copgglobal.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "crushitdigital.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "whatsnewinfitness.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "dolphinweb.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "uniwebau.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "godfreys.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cdn5.f-cdn.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "themoppsters.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "dossisdigital.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "smartclean.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "techconductortechnologies.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "hireamover.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "nuss.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "fortemarketing.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "digitalrescue.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "imotor.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "easycars.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "vehiso.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "business.carsales.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "web-assets.cdn.dealersolutions.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "dealerstudio.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webdesignsolutionsydney.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "restai.food",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "tideloc.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "northside-creative.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "rollingcreatives.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "empireone.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "tradidigital.org",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "blueys.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "roofingsites.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "tempestdigital.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "zylodigital.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "caffeinate.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "getprice.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "conducthq.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "anao.gov.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "4it.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "weblift.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "elev8d.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "clearscale.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "confettidesign.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "emeraldwebsites.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "australiansmallbusiness.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "lovelypixel.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "business.gov.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "hellowebdesigns.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "assets.ctfassets.net",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "visualtargets.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "velacore.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "rickwhittington.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "vikilinks.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cloudwebdesign.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "designie.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "doshq.co",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "paulharveydesign.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "zacwebsites.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "nucleo.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "dreambuilds.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "sitesbydesign.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "kinskiandbourke.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "contentbase.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "quikclicks.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "digital8.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "sitescrafted.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "placedesigngroup.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "zoik.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webuilddigital.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "jupiwebsites.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "dva.wa.gov",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "thebestbrisbane.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "morningstardigital.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "themxstudio.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "gtpsupport.gtp-icommerce.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "designperth.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "startupwa.org",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cypherdigital.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "moneyhub.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "avenueperth.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "bluepeek.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "acewebdesign.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "clickableweb.co",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "argenteaitalia.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cdn.aadc.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "digitalengine.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "websofa.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "swiftstartdigital-au.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "baselinesites.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "emediastudios.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "goldcoastwebsites.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "spraymedia.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "elizabethrichardson.info",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "alignmedia.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "gcds.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "gway.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "pixelize.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "goldcoastdigital.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "rent-a-website.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "3pdigital.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "boostweb.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "localist.konigle.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webdesignincanberra.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "digitalfly.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "canberrawebdesigners.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "nathanmcdowell.me",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "peterngodigital.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "neondesign.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "nextpagewebsites.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "elevatetechnologysolutions.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webdesigngeelong.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "paulkellycreative.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "icmgeelong.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "gbea.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "theindiansun.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "truelocal.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "hyperweb.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "huntersoftwaresolutions.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "redcatdigital.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "katelinaddison.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "inspirewebdesign.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "engineersaustralia.org.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "citiesagencies.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "kook.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "aipathways.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "ausgraphics.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "plinkit.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "s3.ap-southeast-1.amazonaws.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "123create.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "chrisiscreative.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "iddesign.net.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "studio5creative.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "digitalroos.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "12website.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cdn.cocodoc.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "tassiewebsites.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "omnicore.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "tas.gov.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webmistress.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "tict.com.au",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "edir24.com",
+    "queryAppearances": 2,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "integral.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "rda.gov.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "weblist.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "localwebexpert.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "creativeplusbusiness.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "purelocal.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "auswebdesign.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "mydlook.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cheapquickwebsites.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "chalkecustoms.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "offsetdigital.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "zorren.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "designbar.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "professionalserviceswebdesign.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "owenmelbourne.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webplace.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "celinedavid.net",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "brightlabs.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "pixelmint.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "quazic.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "mikandjoecreative.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "aspectdigital.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "nathanschram.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "teampixel.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "noknokstudios.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "13pixel.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "wbyd.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "melbourneit.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "affordablewebsitesmelbourne.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "fastcheapwebsites.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webdesignstudiomelbourne.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "digitalmates.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webdesign-melbourne.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "pandawebsites.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "koaladigital.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "creative.vic.gov.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "socialspace.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "students.tafesa.edu.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "plumbsearch.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "plumberstoday.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "niche.spotonwebsites.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "plumbingconnection.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "electricalconnection.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "magikdigital.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "championwebstudio.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "masterelectricians.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "powerwater.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "betta.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "gbegroup.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "necanet.org",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "sapowernetworks.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "kenhallplumbers.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "bbp.style",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "technologypoint.com.pk",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "iccons.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "pantexroofing.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "websitesfortradies.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "rdwroofing.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "turbowebsites.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "irp.cdn-website.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cornellengineers.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "monier.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "srservices.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "roofbuddy.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "buildingideascentre.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "premierdigitalmarketing.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "pixelnpine.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "gga.org.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "dha.gov.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "shelford.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "latemoredesign.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "buildersite.co",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "pilotandpine.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "d1qdbrmug4ejuo.cloudfront.net",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "formcraft.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "hansenyuncken.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "oneclickdigital.net.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "qpc.qld.gov.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "constructivdigital.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "thetradieshub.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "mytradiesite.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "tradiedigital.co",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "bizstarter.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "tradehub.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "mitre10.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "ewitrades.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "satterley.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "tloop.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "tradeheroes.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "trado.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "es.wikipedia.org",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "trady.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "service.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "quotetrades.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "traidly.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "jasonreadinglandscapes.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "ldi.org.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "yourscvwater.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cdnc.heyzine.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "pipelineplan.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "outdoordesign.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "lukeslandscaping.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "landscapebydesign.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "vldesignaustralia.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "api.ctf.wa.gov.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cti.edu.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "marinuslink.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "topnotchit.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "futureproofwithconcrete.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "orbitlogic.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "boral.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "painterslink.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "masterpainters.asn.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "masterpainters.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "daao.org.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "perrottpainting.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "realweb.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "ladiesrenovatingcollective.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "airah.org.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "senditbro.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "jezweb.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "advantageair.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "retravision.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "2ecffd01e1ab3e9383f0-07db7b9624bbdf022e3b5395236d5cf8.ssl.cf4.rackcdn.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "specialisedair.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "axisdigital.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "canadiansolar.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "simplemedia.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "solarmarket.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "madweb.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "solar-digital.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "uprisedigital.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "swelldigitalstrategies.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "hillsmedia.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "xensolar.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "balarmediagroup.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "proxima.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "customer.realestate.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "asx.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "stepps.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "skillsaustralia.edu.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "idashsites.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "zenu.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "eac.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "studiojs.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "arosoftware.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "semrush.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "similarweb.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "bestcompare.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "skypage.sympact.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "strattonfinance.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "mortgagechoice.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "brokerengine.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "hub.cchwebmanager.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "accountantwebsites.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "publicaccountants.org.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "accountantwebdesign.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "artslaw.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "lexora.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "practiceandpixels.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "claytonutz.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "lawfirmwebsitedesign.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "adan.ada.org.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "presstwood.design",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "clinicgrowco.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "dentalwebsitedesign.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "smileandgrow.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cyrius.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "ada.org.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "dental.contentauthority.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "fullcirclecreative.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "assets.ipchealth.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "2080solutions.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "ozbiztech.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "splicemarketing.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "totalmedicaldesign.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "health.qld.gov.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "aspace.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "2554785.fs1.hubspotusercontent-na1.net",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "aia.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "asca.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "sitesubs.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "beattypark.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "worldgymfranchising.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webdesignforcleaners.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "sitemakerlab.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webclean.pwa.nsw.gov.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "refreshmarketing.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "clubclean.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "pressadvantage.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cleanaux.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "centralcleaning.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "alliedservicesaustralia.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "electrodry.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "mediaholic.com.np",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "saferemovalistaustralia.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "scotlandisland.org.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "easyflowwebdesign.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "ienhance.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "thekidscancerproject.org.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "vindas.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "ltr.edu.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "aasra.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "ourauto.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "coxautoretail.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "bottrellcarindustrywebsites.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "prodealer.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "aada.asn.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "belldirect.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "autotalk.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "dealershipwebsites.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cmv.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "onlineroad.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "specflux.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "mantledigitalmedia.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "quickwebs.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "21stcenturybusiness.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "milespartnership.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "44031187.fs1.hubspotusercontent-na1.net",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "rampupdigital.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "smewebdesigner.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "workspace.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "gladestudio.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "a.storyblok.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "arca.org.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "behance.net",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "castaway.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "uploads.prod01.sydney.platformos.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cafeculture.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "eat-drink-design.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "aibuiltmysite.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "essentialcoffee.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "propertyawards.net",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "99techpost.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "raw.studio",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "0e190a550a8c4c8c4b93-fcd009c875a5577fd4fe2f5b7e3bf4eb.ssl.cf2.rackcdn.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "riseuplabs.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "digitalnomadshq.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "factoryjet.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "boosturseo.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "fortradies.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "tradie.studio",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "web.automic.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "thedevelopment.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "bridgewiredigital.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "newdigital.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "ironside.digital",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "websitesfortradies.net.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "traqr.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "tkist.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "mbawa.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "designplusdrafting.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "thesitegirls.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "preferredtrades.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "theownerbuilder.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "thescaffold.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "intracode.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webgeeksolutions.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "brandlcreative.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "proofcraft.studio",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "yieldstudio.co",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "syntotech.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "acilox.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "digitaldeluxe.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "wmegroup.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "lumewebstudio.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "ripemedia.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "agileitt.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "dizian.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "whatsthedamage.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "5digitalweb.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "nextclickdigital.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "s3.eu-west-1.amazonaws.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "tradesorted.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "ncc.abcb.gov.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "unsw.edu.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "jetblok.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "lmwebdesign.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "jobsandskills.gov.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "iba.gov.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "wpcreative.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "websteps.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "rgcdigitalmarketing.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "manor.net.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "websiteboutique.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "builtaroundyou.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "xpertstart.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webics.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "digcreative.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "anz.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "marketeam.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webteam.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "apcptadelaide.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "motorcharge.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "backontools.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "brightpathcreative.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "localservicemarketing.co",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "dominate-digital.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "tradiewives.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "microsite-tradies-live.hipages.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "finewright.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "abcb.gov.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "mefe.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "futurebuiltdigital.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "promptroofingsydney.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "rooroofing.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "digiwhiz.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "hindmarshroofing.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "attractive-roofing.op-staging.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "kellywm.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "oopdesign.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "nkcollective.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "explore.gcts.edu",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "gettidysites.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "images.websitebuilderexpert.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "pagesurgeon.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "intheblack.cpaaustralia.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "static.itseeze.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "sponsoredlinx.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "wix.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "learn.advertisingcouncil.org.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "getapp.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "visualarts.net.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "capterra.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "spacesites.squarespace.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "mywebpro.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "squarely.squarespace.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "p2pit.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "automatrix.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "csgraphicmeta.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "wbdesigns.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "actionskills.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "acroxcreation.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "youtube.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "wiseweb.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "thewebpal.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "radxp.tech",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cdn6.f-cdn.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "wauu-creative.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "adcraftstudio.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "lincdigital.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "bekonstructivemarketing.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "honeyweb.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "officeworks.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "hustlemarketers.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "areaten.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "ventraip.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "members.smarterbusinessprofits.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "henrywong.consulting",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "assets.pc.gov.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "benryan.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cmtweb.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "illumedigital.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "neilbeckett.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "gotka.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "vertinus.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "alienwebdesign.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "marketingdone4u.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "alexim.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "computersupportcentre.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "sparkinteract.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "pixelfish.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "kellycreative.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "upcrawldigital.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "hubspot.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "tpr.media",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "summitgrowthsystems.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "sustain.pata.org",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "creativeground.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "methodmarketing.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "australiannaturaltherapistsassociation.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "gleneira.vic.gov.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "auda.org.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "registry.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "legalpointlawyers.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "business.qld.gov.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "business.vic.gov.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "asic.gov.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "asbfeo.gov.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "dynamowheel.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "summittech.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "clpadvertising.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "watermark.abcb.gov.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "dnadesignhub.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "creadiv.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "lobos.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "consultation.abcb.gov.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "leadkit.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "designmojo.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "bark.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "seoreco.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "paramark.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "hbook.westernsydney.edu.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "techableaustralia.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "24web.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "besydney.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "chrisharold.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "sunfishweb.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "octacreatives.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "racitidesigns.wordpress.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "sydneypeacefoundation.org.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "australiayp.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "somma.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "dankdesigns.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "shtudio.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "designcrowd.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "squid-digital.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "meetings.cityofsydney.nsw.gov.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "heapsdigital.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "dollars.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cheapwebsitessydney.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "affordablewebsitesydney.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cheapwebsitesydney.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "affordablewebsitessydney.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cms.madebyavenue.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "ugweb.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "kobecreative.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "sydneycreativewebsites.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "clickedon.co",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "turbostudio.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "onelittleweb.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "transformmagazine.net",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "magicdust.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "australia.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "aila.org.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webiq.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "iafl.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "wideweb.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cdn.indesignlive.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "vebit.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "leadingimage.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "elevatewebdesigns.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "4145-portfolio.netlify.app",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "devwise.studio",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "bonbondesign.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "websitequote.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "kazoo-dove-x8gx.squarespace.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "samuelbyoung.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webdesignbrisbanenow.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "yourstuff.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "skwebsketch.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "creativemode.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "semicircle-bellflower-xcck.squarespace.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "thedigitalbrew.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "mediatwo.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cheapwebsitesbrisbane.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cheapwebsitesbrisbane.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "affordablewebsitesbrisbane.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "affordablewebsitebrisbane.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "customshouse.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "elitedev.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webdevelopmentbrisbane.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "hireadev.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "perthdigitaledge.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "businessmigration.wa.gov.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "au.hudson.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "samanthajane.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "ryleyco.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "designtab.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cre8tif.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "perthitcare.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "slumpstudio.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "psos.net.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "jpwebsites.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "ewanswebsites.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "smbdigital.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "quicksitesperth.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "zenweb.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "aussiewebworks.team",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "affordablewebsiteperth.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cheapwebsitesperth.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "apexwebdevco.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "codeworkswa.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "igniteperth.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "semfirms.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "bloomdigital.net.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "listapage.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "tourism.sa.gov.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "dspace.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "adelaidedesignmanual.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "triplezero.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "commuserv.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "adelaidewebdesigners.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cdn.environment.sa.gov.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "orbitdesign.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "lo.unisa.edu.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "t20.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "louisbullock.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "jedlehmann.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "aiadelaide.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "christophershiersdigital.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "barossa.org.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "dreamoontech.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "vintuitive.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webhaven.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "flinders.edu.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "affordablewebdesignadelaide.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "law.adelaide.edu.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "affordablewebsitesadelaide.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "redearth.agency",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "ockiedigital.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "adelaideexaminer.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "goldcoastcity.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "spit.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "studygoldcoast.org.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "studio21.co",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "robertmullineux.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "krysanachhibadesign.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "seriouscreatives.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "doubleclickwebdesign.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "vellero.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "entrepreneur.edu.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "geekqueen.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cheapwebsitesgoldcoast.net.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "rentingawebsite.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "movematch.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "siakostudio.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "aidxn.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "innovatebeyond.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "creativegraphics.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "listaaj.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "titanblue.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "konigle.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "blueplatypus.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "visitcanberra.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cmtedd.act.gov.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "vividmarketingco.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "pluralagency.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "designcanberrafestival.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "act.gov.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "plentify.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "affordablewebsitescanberra.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "briskweb.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "defence.gov.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "startechit.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "tourismgeelongbellarine.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "geelongtechschool.vic.edu.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "pixelfire.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "visitgreatoceanroad.org.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "westfield.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "christchurchgeelong.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "conceptorange.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cylex-australia.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "moomedia.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "geelongwebsites.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "designbusinesscouncil.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "lmmdesigns.net",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "citeseerx.ist.psu.edu",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "affordabledefits.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "hellomellow.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "devforge.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "soci.newcastle.edu.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "rhythmwebsites.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "nakeddigital.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "breadenmedia.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "northsite.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "sticky.digital",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "highstreet.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "claritycoaststudios.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "orangefrogstudios.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "tha.de",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "whitehousecollege.edu.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "newyweb.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "custom.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "newcastledesign.ie",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "judesignstudio.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "vondigital.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "integratedsitedesign.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "engine.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "webdesignsunshinecoast.net",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cdn.mediavalet.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "sunshinecoast-australia.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "techc.draftsite.net.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "workingplanet.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "s3-ap-southeast-1.amazonaws.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "surfcoast.vic.gov.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "coastworksai.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "sunshinecoastwebsites.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "sunshinecoastwebbuild.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "cloudclicks.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "investcampaign.sunshinecoast.qld.gov.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "siteready.me",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "freewebsiteco.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "successmarketing.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "suncoastwebsolutions.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "markupstudio.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "bowerdigital.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "bandicootlabs.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "readysetdigital.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "bicreative.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "conradesign.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "hellohobart.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "pommeit.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "binarytop.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "affordablefitouts.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "customcabinetstasmania.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "seeromega.com",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "ewre.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "purchasing.tas.gov.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  },
+  {
+    "domain": "my-it.com.au",
+    "queryAppearances": 1,
+    "scope": "one_count_per_query_in_discovery_results_not_rank_or_citation_share"
+  }
+]

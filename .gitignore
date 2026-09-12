@@ -1,1 +1,9 @@
-.vercel
+dist/
+__pycache__/
+.DS_Store
+node_modules/
+seo/research/raw/*.html
+
+production-integration/
+seo/private/
+seo/benchmark/raw/

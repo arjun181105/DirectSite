@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://directsite.com.au/sitemap.xml

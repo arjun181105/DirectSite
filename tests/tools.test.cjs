@@ -1,0 +1,13 @@
+const assert=require('node:assert/strict');
+const {roi,budget}=require('../public/tools-core.js');
+const x={visitors:1000,before:2,after:3,close:25,value:1000,margin:40,cost:3000};
+assert.deepEqual(roi(x),{before:20,after:30,revenue:2500,contribution:1000,payback:3});
+assert.equal(roi({...x,after:2}).payback,null);
+assert.equal(roi({...x,after:1}).payback,null);
+assert.equal(roi({...x,visitors:0}).revenue,0);
+assert.throws(()=>roi({...x,close:101}));
+assert.throws(()=>roi({...x,value:NaN}));
+assert.deepEqual(budget({pages:5,base:12,perPage:2,low:80,high:140,extras:{copy:5}}),{hours:25,low:2000,high:3500});
+assert.throws(()=>budget({pages:1.5,base:1,perPage:1,low:1,high:2,extras:{}}));
+assert.throws(()=>budget({pages:1,base:1,perPage:1,low:5,high:2,extras:{}}));
+console.log('PASS: calculator scenarios, zero/negative uplift and invalid inputs.');
