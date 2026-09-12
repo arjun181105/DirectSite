@@ -1,6 +1,6 @@
 # DirectSite organic growth implementation
 
-Deployed to https://directsite.com.au on 12 September 2026 from `arjun181105/DirectSite`. Production source was verified against commit `0825f4d`; PR #1 merged as `28186cd`. The site has 32 indexable routes. Google Search Console and Bing received the sitemap; www permanently redirects to apex. A labelled service enquiry was accepted and its inbox delivery verified. GA4 installation and completed-booking verification remain outstanding. Client proof is excluded, email/legal name unchanged, no terms page requested. Six-month enquiry retention is recorded in `seo/RETENTION.md`; provider deletion automation is not yet configured.
+Deployed to https://directsite.com.au on 12 September 2026 from `arjun181105/DirectSite`. Production source was verified against commit `0825f4d`; PR #1 merged as `28186cd`. The site has 32 indexable routes. Google Search Console and Bing received the sitemap; www permanently redirects to apex. A labelled service enquiry was accepted and its inbox delivery verified. GA4 is deployed with visitor opt-in; Realtime pageviews and an accepted test lead are verified. Completed-booking verification remains outstanding. Client proof is excluded, email/legal name unchanged, no terms page requested. Six-month enquiry retention is recorded in `seo/RETENTION.md`; provider deletion automation is not yet configured.
 
 ## Run and verify
 
@@ -44,7 +44,7 @@ The existing public Web3Forms browser key and Cal.com routes are retained. HTTP/
 
 Local-only `?__qa__=success`, `reject` or `network` loads a test harness that intercepts submissions and Cal. Never deploy the preview server or test harness. Normal local preview can send real enquiries: use the QA query when testing forms.
 
-`public/events.js` emits allowlisted `dataLayer` and DOM events; it does not install GA4 or transmit analytics. Connect the actual property through your consent/configuration layer. Do not send form values, email, phone, raw query strings or booking payloads to analytics. Test accepted leads separately from calendar links and actual booking events. Session-level attribution requires analytics configuration; current source classification is page-local.
+`public/events.js` emits allowlisted `dataLayer` and DOM events. The deployed `public/analytics.js` connects them to GA4 after visitor opt-in; see `seo/ANALYTICS.md` for verified status. Do not send form values, email, phone, raw query strings or booking payloads to analytics. Test accepted leads separately from calendar links and actual booking events. Session-level attribution requires analytics configuration; current source classification is page-local.
 
 ## Research and maintenance
 

@@ -4,7 +4,7 @@
 
 The production repository was identified and its baseline verified before integration. PR #1 merged into `arjun181105/DirectSite` and Vercel published the build at https://directsite.com.au. All 32 production routes passed status, canonical and indexability checks. The ten segmented sitemaps cover those 32 routes. Google Search Console and Bing accepted the sitemap index; Bing is processing it. A permanent www-to-apex redirect is active.
 
-A labelled synthetic services enquiry was accepted by Web3Forms and verified in the existing recipient inbox. The Cal.com handoff displays available appointments and a details form; completed booking verification is outstanding. GA4 is prepared at Google's legal-agreement step, with optional data sharing disabled; no GA4 tag is installed yet. The browser requires specific confirmation at that agreement step.
+A labelled synthetic services enquiry was accepted by Web3Forms and verified in the existing recipient inbox. The Cal.com handoff displays available appointments and a details form; completed booking verification is outstanding. GA4 is deployed with visitor opt-in and optional account sharing disabled. Realtime received pageviews and a labelled accepted test enquiry; generate_lead is a key event.
 
 Client proof is excluded by request. Email and legal trading name are unchanged. No terms page is requested. Enquiry retention is six calendar months; see `RETENTION.md`. Provider deletion automation has not been configured. Rankings, AI citations and revenue changes are not claimed.
 
@@ -119,7 +119,7 @@ Measure accepted leads, qualified calls and paying clients by landing page. Expa
 
 Production source and deployment mapping are verified. The live services enquiry test reached the existing inbox. Domain restrictions and anti-spam settings remain account-side checks. The calendar handoff works; a real completed booking has not been tested.
 
-GA4 collection remains unconfigured pending the action-time legal agreement confirmation. Six-month enquiry retention is a recorded policy, not verified provider automation. Email and legal name are unchanged and no terms page is requested. Client proof is excluded. The quality gate does not replace editorial review or search demand, and rankings, citations and revenue remain unproven. Vercel preview builds automatically emit noindex and empty sitemaps even when the build command includes --production.
+GA4 collection and accepted-lead receipt are verified after visitor opt-in. Six-month enquiry retention is a recorded policy, not verified provider automation. Email and legal name are unchanged and no terms page is requested. Client proof is excluded. The quality gate does not replace editorial review or search demand, and rankings, citations and revenue remain unproven. Vercel preview builds automatically emit noindex and empty sitemaps even when the build command includes --production.
 
 ## 14. Next 20 pages
 

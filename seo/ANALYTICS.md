@@ -4,7 +4,7 @@ Google Analytics account/property and web stream created after explicit user app
 
 ## Deployment state
 
-Website integration is prepared and tested locally, but NOT deployed. Automatic approval review rejected the production commit/push, requiring explicit authorization to deploy the Analytics change to main. The existing 32-page site remains live without the GA tag. No live GA receipt or conversion is claimed.
+Deployed to production main as commit a1174d9 with explicit user approval. Live consent check confirmed no Google tag before consent or after rejection, and the correct tag after acceptance. Google Analytics Realtime received homepage and services pageviews. generate_lead is configured as a key event, counted once per event with no default monetary value. Realtime confirmed form_start, form_submit and generate_lead from the labelled test enquiry, each once. Key-event configuration was saved after that test, so retrospective key-event counting is not claimed.
 
 ## Collection behaviour
 
@@ -17,6 +17,6 @@ Website integration is prepared and tested locally, but NOT deployed. Automatic 
 
 ## Verification
 
-Local tests cover no-consent/refusal gates, returning preferences, revocation, duplicate pageview suppression, accepted-lead mapping and PII stripping. Existing 13 Python tests and calculator/form/event tests pass. After deployment, verify the consent UI, GA Realtime receipt, accepted-lead events and any actual Cal booking event; mark appropriate key events in the property.
+Local tests cover no-consent/refusal gates, returning preferences, revocation, duplicate pageview suppression, accepted-lead mapping and PII stripping. Existing 13 Python tests and calculator/form/event tests pass. Live consent and pageview receipt verified. Completed Cal booking verification remains separate and outstanding.
 
 Sources: https://developers.google.com/tag-platform/security/concepts/consent-mode and https://developers.google.com/tag-platform/gtagjs/reference and https://developers.google.com/analytics/devguides/collection/ga4/views
