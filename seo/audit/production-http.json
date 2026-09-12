@@ -1,0 +1,236 @@
+{
+  "checked": "2026-09-12",
+  "routes": [
+    {
+      "url": "https://directsite.com.au/industries/plumbers/",
+      "status": 200,
+      "canonical": true,
+      "indexable": true
+    },
+    {
+      "url": "https://directsite.com.au/industries/electricians/",
+      "status": 200,
+      "canonical": true,
+      "indexable": true
+    },
+    {
+      "url": "https://directsite.com.au/industries/roofers/",
+      "status": 200,
+      "canonical": true,
+      "indexable": true
+    },
+    {
+      "url": "https://directsite.com.au/industries/builders/",
+      "status": 200,
+      "canonical": true,
+      "indexable": true
+    },
+    {
+      "url": "https://directsite.com.au/industries/tradies/",
+      "status": 200,
+      "canonical": true,
+      "indexable": true
+    },
+    {
+      "url": "https://directsite.com.au/industries/landscapers/",
+      "status": 200,
+      "canonical": true,
+      "indexable": true
+    },
+    {
+      "url": "https://directsite.com.au/industries/cleaners/",
+      "status": 200,
+      "canonical": true,
+      "indexable": true
+    },
+    {
+      "url": "https://directsite.com.au/industries/hvac/",
+      "status": 200,
+      "canonical": true,
+      "indexable": true
+    },
+    {
+      "url": "https://directsite.com.au/web-design/",
+      "status": 200,
+      "canonical": true,
+      "indexable": true
+    },
+    {
+      "url": "https://directsite.com.au/small-business-web-design/",
+      "status": 200,
+      "canonical": true,
+      "indexable": true
+    },
+    {
+      "url": "https://directsite.com.au/website-redesign/",
+      "status": 200,
+      "canonical": true,
+      "indexable": true
+    },
+    {
+      "url": "https://directsite.com.au/locations/melbourne/",
+      "status": 200,
+      "canonical": true,
+      "indexable": true
+    },
+    {
+      "url": "https://directsite.com.au/guides/website-cost-australia/",
+      "status": 200,
+      "canonical": true,
+      "indexable": true
+    },
+    {
+      "url": "https://directsite.com.au/guides/how-long-does-a-website-take/",
+      "status": 200,
+      "canonical": true,
+      "indexable": true
+    },
+    {
+      "url": "https://directsite.com.au/guides/small-business-website-checklist/",
+      "status": 200,
+      "canonical": true,
+      "indexable": true
+    },
+    {
+      "url": "https://directsite.com.au/compare/wix-vs-custom-website/",
+      "status": 200,
+      "canonical": true,
+      "indexable": true
+    },
+    {
+      "url": "https://directsite.com.au/compare/wordpress-vs-custom/",
+      "status": 200,
+      "canonical": true,
+      "indexable": true
+    },
+    {
+      "url": "https://directsite.com.au/best/web-design-companies-melbourne/",
+      "status": 200,
+      "canonical": true,
+      "indexable": true
+    },
+    {
+      "url": "https://directsite.com.au/tools/website-roi-calculator/",
+      "status": 200,
+      "canonical": true,
+      "indexable": true
+    },
+    {
+      "url": "https://directsite.com.au/tools/website-cost-calculator/",
+      "status": 200,
+      "canonical": true,
+      "indexable": true
+    },
+    {
+      "url": "https://directsite.com.au/tools/tradie-website-checklist/",
+      "status": 200,
+      "canonical": true,
+      "indexable": true
+    },
+    {
+      "url": "https://directsite.com.au/about/",
+      "status": 200,
+      "canonical": true,
+      "indexable": true
+    },
+    {
+      "url": "https://directsite.com.au/process/",
+      "status": 200,
+      "canonical": true,
+      "indexable": true
+    },
+    {
+      "url": "https://directsite.com.au/contact/",
+      "status": 200,
+      "canonical": true,
+      "indexable": true
+    },
+    {
+      "url": "https://directsite.com.au/industries/",
+      "status": 200,
+      "canonical": true,
+      "indexable": true
+    },
+    {
+      "url": "https://directsite.com.au/locations/",
+      "status": 200,
+      "canonical": true,
+      "indexable": true
+    },
+    {
+      "url": "https://directsite.com.au/guides/",
+      "status": 200,
+      "canonical": true,
+      "indexable": true
+    },
+    {
+      "url": "https://directsite.com.au/compare/",
+      "status": 200,
+      "canonical": true,
+      "indexable": true
+    },
+    {
+      "url": "https://directsite.com.au/best/",
+      "status": 200,
+      "canonical": true,
+      "indexable": true
+    },
+    {
+      "url": "https://directsite.com.au/tools/",
+      "status": 200,
+      "canonical": true,
+      "indexable": true
+    },
+    {
+      "url": "https://directsite.com.au/",
+      "status": 200,
+      "canonical": true,
+      "indexable": true
+    },
+    {
+      "url": "https://directsite.com.au/services/",
+      "status": 200,
+      "canonical": true,
+      "indexable": true
+    }
+  ],
+  "sitemapSegments": [
+    "https://directsite.com.au/sitemaps/industry.xml",
+    "https://directsite.com.au/sitemaps/service.xml",
+    "https://directsite.com.au/sitemaps/location.xml",
+    "https://directsite.com.au/sitemaps/guide.xml",
+    "https://directsite.com.au/sitemaps/comparison.xml",
+    "https://directsite.com.au/sitemaps/buyer-guide.xml",
+    "https://directsite.com.au/sitemaps/tool.xml",
+    "https://directsite.com.au/sitemaps/company.xml",
+    "https://directsite.com.au/sitemaps/hub.xml",
+    "https://directsite.com.au/sitemaps/existing.xml"
+  ],
+  "redirects": [
+    {
+      "url": "https://www.directsite.com.au/",
+      "headers": "HTTP/2 308 \ncache-control: public, max-age=0, must-revalidate\ncontent-type: text/plain\ndate: Sat, 12 Sep 2026 10:08:51 GMT\nlocation: https://directsite.com.au/\nrefresh: 0;url=https://directsite.com.au/\nserver: Vercel\nstrict-transport-security: max-age=63072000\nx-vercel-id: syd1::98jxn-1789207731824-07887aef8258\n\n"
+    },
+    {
+      "url": "https://www.directsite.com.au/services/",
+      "headers": "HTTP/2 308 \ncache-control: public, max-age=0, must-revalidate\ncontent-type: text/plain\ndate: Sat, 12 Sep 2026 10:08:51 GMT\nlocation: https://directsite.com.au/services/\nrefresh: 0;url=https://directsite.com.au/services/\nserver: Vercel\nstrict-transport-security: max-age=63072000\nx-vercel-id: syd1::nkqwk-1789207731915-ed373c105a9f\n\n"
+    },
+    {
+      "url": "http://directsite.com.au/",
+      "headers": "HTTP/1.0 308 Permanent Redirect\nContent-Type: text/plain\nLocation: https://directsite.com.au/\nRefresh: 0;url=https://directsite.com.au/\nserver: Vercel\n\n"
+    },
+    {
+      "url": "https://directsite.com.au/services",
+      "headers": "HTTP/2 308 \ncache-control: public, max-age=0, must-revalidate\ncontent-type: text/plain\ndate: Sat, 12 Sep 2026 10:08:52 GMT\nlocation: /services/\nrefresh: 0;url=/services/\nserver: Vercel\nstrict-transport-security: max-age=63072000\nx-vercel-id: syd1::8w6xc-1789207732062-892ef4856000\n\n"
+    },
+    {
+      "url": "https://directsite.com.au/website-design/",
+      "headers": "HTTP/2 308 \ncache-control: public, max-age=0, must-revalidate\ncontent-type: text/plain\ndate: Sat, 12 Sep 2026 10:08:52 GMT\nlocation: /web-design/\nrefresh: 0;url=/web-design/\nserver: Vercel\nstrict-transport-security: max-age=63072000\nx-vercel-id: syd1::t8vkd-1789207732144-58de8f59cf71\n\n"
+    },
+    {
+      "url": "https://directsite.com.au/missing-qa-route/",
+      "headers": "HTTP/2 404 \naccept-ranges: bytes\naccess-control-allow-origin: *\nage: 0\ncache-control: public, max-age=0, must-revalidate\ncontent-disposition: inline; filename=\"404.html\"\ncontent-type: text/html; charset=utf-8\ndate: Sat, 12 Sep 2026 10:08:52 GMT\netag: \"573e893d9a629ce88f07cc8f0018b009\"\nlast-modified: Sat, 12 Sep 2026 10:08:52 GMT\nreferrer-policy: strict-origin-when-cross-origin\nserver: Vercel\nstrict-transport-security: max-age=63072000\nx-content-type-options: nosniff\nx-vercel-cache: MISS\nx-vercel-id: syd1::dsw9g-1789207732233-cfcefaaefaa6\ncontent-length: 379\n\n"
+    }
+  ],
+  "bingVerificationTag": true
+}

@@ -1,8 +1,12 @@
 # DirectSite SEO, GEO and conversion handover
 
-12 September 2026 · Implemented locally; production integration outstanding.
+12 September 2026 · 32 routes deployed to production.
 
-This work creates a functioning 29-route static package, not a deployed growth outcome. The selected repository was empty, with no commits or remote. Public HTML was recovered to preserve the existing homepage/services design. The live website has not been changed. Actual production source and deployment configuration are needed to merge safely.
+The production repository was identified and its baseline verified before integration. PR #1 merged into `arjun181105/DirectSite` and Vercel published the build at https://directsite.com.au. All 32 production routes passed status, canonical and indexability checks. The ten segmented sitemaps cover those 32 routes. Google Search Console and Bing accepted the sitemap index; Bing is processing it. A permanent www-to-apex redirect is active.
+
+A labelled synthetic services enquiry was accepted by Web3Forms and verified in the existing recipient inbox. The Cal.com handoff displays available appointments and a details form; completed booking verification is outstanding. GA4 is prepared at Google's legal-agreement step, with optional data sharing disabled; no GA4 tag is installed yet. The browser requires specific confirmation at that agreement step.
+
+Client proof is excluded by request. Email and legal trading name are unchanged. No terms page is requested. Enquiry retention is six calendar months; see `RETENTION.md`. Provider deletion automation has not been configured. Rankings, AI citations and revenue changes are not claimed.
 
 ## 1. What the audit discovered
 
@@ -14,13 +18,13 @@ One live mobile Lighthouse run scored performance 82, accessibility 97 and SEO 1
 
 ## 2. What was implemented
 
-A Python static generator, structured content model and publication gate; 27 authored pages plus the two retained baseline pages; six content hubs; repaired lead handling; shared accessible demo modal; three interactive tools; metadata and entity graph; internal links; segmented sitemaps; canonical/redirect configuration; self-hosted licensed fonts; source-backed research records; benchmark and AI monitoring infrastructure; executable QA.
+A Python static generator, structured content model and publication gate; 30 authored pages plus the two retained baseline pages; six content hubs; repaired lead handling; shared accessible demo modal; three interactive tools; metadata and entity graph; internal links; segmented sitemaps; canonical/redirect configuration; self-hosted licensed fonts; source-backed research records; benchmark and AI monitoring infrastructure; executable QA.
 
-Both production and preview builds pass validation. Thirteen Python tests plus JavaScript calculator, form and event checks pass. All 29 local routes returned 200, deliberate missing routes returned 404 and alias/slash redirects worked. All 29 rendered at narrow width without horizontal overflow. Local mobile Lighthouse scored 98–100 performance and 100 accessibility. Preview Lighthouse SEO scored 66 because the preview deliberately blocks indexing. The production static audit separately verifies indexability and sitemap inclusion. No production Lighthouse score for this implementation is claimed.
+Both production and preview builds pass validation. Thirteen Python tests plus JavaScript calculator, form and event checks pass. All 32 local routes returned 200, deliberate missing routes returned 404 and alias/slash redirects worked. The original 29 routes rendered at narrow width without horizontal overflow. All 32 local mobile Lighthouse runs scored 98–100 performance and 100 accessibility. Preview Lighthouse SEO scored 66 because the preview deliberately blocks indexing. The production static audit separately verifies indexability and sitemap inclusion. No production Lighthouse score for this implementation is claimed.
 
 ## 3–4. Pages and primary keywords
 
-Paths below are implemented locally; their production canonical URLs are not yet deployed. Primary keywords express intended ownership, not achieved ranking.
+Paths below are deployed. Primary keywords express intended ownership, not achieved ranking.
 
 | Path | Primary keyword | Status |
 |---|---|---|
@@ -29,6 +33,9 @@ Paths below are implemented locally; their production canonical URLs are not yet
 | `/industries/roofers/` | web design for roofers | New |
 | `/industries/builders/` | web design for builders | New |
 | `/industries/tradies/` | web design for tradies | New |
+| `/industries/landscapers/` | web design for landscapers | New |
+| `/industries/cleaners/` | web design for cleaners | New |
+| `/industries/hvac/` | web design for hvac | New |
 | `/web-design/` | custom web design australia | New |
 | `/small-business-web-design/` | small business web design australia | New |
 | `/website-redesign/` | website redesign australia | New |
@@ -58,7 +65,7 @@ Paths below are implemented locally; their production canonical URLs are not yet
 
 Unique titles, descriptions, H1s, absolute canonicals and social metadata; server-readable HTML; coherent trailing-slash routes; real 404 handling; `/website-design/` consolidation; Vercel www-to-apex redirect configuration; production-only sitemap inclusion; noindex preview; descriptive navigation and breadcrumbs. Fonts are self-hosted with license notices and optional loading. Form controls have labels and keyboard focus management. A deceptive unconditional success state was removed from both enquiry flows.
 
-The static validator checks links, structured-data graphs, metadata and sitemap membership. It is not Google's Rich Results Test or Search Console URL Inspection. Host redirects, CDN caching, WAF crawler access and canonical selection need production verification. No fabricated field-performance report or external validator pass is recorded.
+The static validator checks links, structured-data graphs, metadata and sitemap membership. It is not Google's Rich Results Test or Search Console URL Inspection. Production HTTP redirects and declared canonicals are verified; search-engine canonical selection, field caching behaviour and crawler-specific WAF access remain unverified. No fabricated field-performance report or external validator pass is recorded.
 
 ## 6. GEO / answer-engine changes
 
@@ -81,7 +88,7 @@ Stable Organization and WebSite identities with page-specific WebPage, Service o
 - **Website ROI calculator:** editable visitors, enquiry rates, close rate, customer value, margin and cost; shows incremental value and conditional payback. Assumptions are illustrative.
 - **Website cost calculator:** explicit hours and rate assumptions; useful for scoping, not a DirectSite quote or researched market price.
 - **Tradie website checklist:** 14 manual customer-journey checks, optional local save, reset and print. It is not an automated SEO certification.
-- **Annual benchmark pipeline:** safe public-site scanner, proposed stratified sample, raw evidence and summary format. Current sample n=0; no chart, statistic or quotable finding is published.
+- **Annual benchmark pipeline:** safe public-site scanner, proposed stratified sample, raw evidence and summary format. A nonrandom 20-site pilot produced 18 static observations and two unavailable records. No population statistic or quotable benchmark finding is published.
 - **Case-study intake:** genuine client situation, changes, screenshots, dated metrics and publication consent. No fabricated example is indexed.
 
 ## 10. Research completed
@@ -94,7 +101,7 @@ Four primary competitor pages were directly inspected: [VisualWeb](https://visua
 
 **What DirectSite can create that they cannot copy from DirectSite:** permissioned demo-to-launch timelines, real enquiry-delivery tests, transparent scope comparisons and a reproducible Australian website benchmark. These would be original to DirectSite. We have not established that no competitor anywhere has similar assets.
 
-81 structured briefs and a 54-route unpublished backlog support future work. Completed-page briefs reflect authored content; future briefs remain planning scaffolds with evidence requirements and some intentionally unknown metadata. They need detailed editorial completion before publication.
+81 structured briefs and a 51-route unpublished backlog support future work. Completed-page briefs reflect authored content; future briefs remain planning scaffolds with evidence requirements and some intentionally unknown metadata. They need detailed editorial completion before publication.
 
 ## 11. Research still requiring additional access
 
@@ -110,13 +117,13 @@ Measure accepted leads, qualified calls and paying clients by landing page. Expa
 
 ## 13. Biggest risks and limits
 
-The largest blocker is missing production source/deployment mapping. Copying the recovered HTML package over unknown production code could lose functionality; integrate after a source comparison. Existing Web3Forms and Cal routes are retained but their recipient, domain restrictions and booking state need account verification. No real email or booking was sent during QA.
+Production source and deployment mapping are verified. The live services enquiry test reached the existing inbox. Domain restrictions and anti-spam settings remain account-side checks. The calendar handoff works; a real completed booking has not been tested.
 
-Legal identity, privacy/retention details, package boundaries, client proof and permissions were not supplied. Privacy/terms and case studies are therefore unpublished. No fake claims fill those gaps. The quality gate is a safeguard, not a substitute for expert editorial review or search demand. Search rankings, citations and revenue remain unproven. Lab audits do not establish field Core Web Vitals. Future Vercel previews require noindex/protection because the production build command emits indexable pages.
+GA4 collection remains unconfigured pending the action-time legal agreement confirmation. Six-month enquiry retention is a recorded policy, not verified provider automation. Email and legal name are unchanged and no terms page is requested. Client proof is excluded. The quality gate does not replace editorial review or search demand, and rankings, citations and revenue remain unproven. Vercel preview builds automatically emit noindex and empty sitemaps even when the build command includes --production.
 
 ## 14. Next 20 pages
 
-This is an editorial sequence based on offer fit and distinct customer needs, not measured search volumes. Case studies, verified privacy/terms and truthful pricing information are prerequisites outside this expansion list. Each planned page remains unpublished until its brief and evidence are complete.
+This is an editorial sequence based on offer fit and distinct customer needs, not measured search volumes. Client proof is deferred and terms are excluded by request. The first three entries below are now deployed; the remaining entries require completed briefs and evidence. Each planned page remains unpublished until its brief and evidence are complete.
 
 | Priority | Path | Primary keyword |
 |---|---|---|
@@ -170,12 +177,12 @@ Record date, market/location, signed-in state, prompt, actual answer/position co
 
 ## 17. Access and data for the next iteration
 
-Production Git repository and Vercel project; Search Console domain-property access and 16-month query/page exports; Bing Webmaster Tools; GA4/GTM property and consent configuration; Web3Forms recipient/domain settings; Cal event settings; CRM lead-to-sale outcomes; optional authorised SERP/backlink tools and PageSpeed API key. Business inputs: legal/trading identity, actual privacy and fulfilment terms, pricing scope, genuine project materials and client publication permission.
+Production GitHub, Vercel, Search Console and Bing are connected. Remaining integration work: accept Google's Analytics agreement, create the web stream and verify GA4 events; complete a controlled booking test; verify provider retention/deletion settings and Web3Forms restrictions; connect CRM outcomes if available. No client proof or terms page is requested.
 
 ## DO THIS NEXT
 
-1. Connect the real production repository and Vercel project; merge this package against current source and publish a protected preview.
-2. Verify one controlled enquiry per flow reaches the intended system and confirm a real booking event, then deploy and check host redirects, canonicals and indexability.
-3. Connect GSC, Bing and GA4/CRM measurement; submit the production sitemap and establish qualified-lead and citation baselines.
-4. Add permissioned project proof, accurate business/privacy/terms information and approved scope/pricing examples.
-5. Complete the next briefs from observed demand and collect the benchmark sample; publish only reviewed pages and supported research findings.
+1. Complete the pending Google Analytics legal agreement, create a web stream, install its measurement ID and verify accepted-lead and booking events.
+2. Complete a controlled booking test and remove the test booking afterward.
+3. Implement and verify six-month enquiry deletion in the actual providers without affecting unrelated messages.
+4. Complete future briefs from observed demand and collect a defensible benchmark sample. Publish only reviewed pages and supported findings.
+5. Recheck Search Console and Bing after processing to assess indexing; submissions alone do not establish indexing or rankings.

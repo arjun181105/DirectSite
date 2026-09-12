@@ -1,6 +1,6 @@
 # DirectSite organic growth implementation
 
-A static integration for https://directsite.com.au, created 12 September 2026. Production source is now verified: the recovered HTML exactly matches `arjun181105/DirectSite` commit `0825f4d`. The Vercel project deploys its `main` branch. The integration is in pull request #1 on `codex/organic-growth`; the first hosted preview passed. Production merge is awaiting end-to-end delivery/booking checks or explicit approval to deploy first. Client proof remains excluded.
+Deployed to https://directsite.com.au on 12 September 2026 from `arjun181105/DirectSite`. Production source was verified against commit `0825f4d`; PR #1 merged as `28186cd`. The site has 32 indexable routes. Google Search Console and Bing received the sitemap; www permanently redirects to apex. A labelled service enquiry was accepted and its inbox delivery verified. GA4 installation and completed-booking verification remain outstanding. Client proof is excluded, email/legal name unchanged, no terms page requested. Six-month enquiry retention is recorded in `seo/RETENTION.md`; provider deletion automation is not yet configured.
 
 ## Run and verify
 
@@ -40,7 +40,7 @@ Run `npm run research:plan` after content changes. This refreshes planning files
 
 ## Forms and analytics
 
-The existing public Web3Forms browser key and Cal.com routes are retained. HTTP/API acceptance is checked before success. The key is a public client-side integration identifier, not an admin credential. Verify its domain restrictions, spam settings and intended recipient in the account. Only isolated mocked submissions were used in QA; inbox delivery and real booking completion remain unverified.
+The existing public Web3Forms browser key and Cal.com routes are retained. HTTP/API acceptance is checked before success. The key is a public client-side integration identifier, not an admin credential. Verify its domain restrictions, spam settings and intended recipient in the account. Mocked submissions cover acceptance, errors and retries. A live services enquiry reached the existing recipient inbox on 12 September 2026. Cal.com opens with available slots and the expected details form; a real completed booking remains unverified.
 
 Local-only `?__qa__=success`, `reject` or `network` loads a test harness that intercepts submissions and Cal. Never deploy the preview server or test harness. Normal local preview can send real enquiries: use the QA query when testing forms.
 
