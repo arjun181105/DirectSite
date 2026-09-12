@@ -1,0 +1,182 @@
+{
+  "routes": [
+    {
+      "route": "/industries/plumbers/",
+      "httpStatus": 200,
+      "htmlBytes": 26143,
+      "localResponseMilliseconds": 8.01
+    },
+    {
+      "route": "/industries/electricians/",
+      "httpStatus": 200,
+      "htmlBytes": 26128,
+      "localResponseMilliseconds": 0.65
+    },
+    {
+      "route": "/industries/roofers/",
+      "httpStatus": 200,
+      "htmlBytes": 25993,
+      "localResponseMilliseconds": 0.47
+    },
+    {
+      "route": "/industries/builders/",
+      "httpStatus": 200,
+      "htmlBytes": 25938,
+      "localResponseMilliseconds": 0.39
+    },
+    {
+      "route": "/industries/tradies/",
+      "httpStatus": 200,
+      "htmlBytes": 25958,
+      "localResponseMilliseconds": 0.4
+    },
+    {
+      "route": "/web-design/",
+      "httpStatus": 200,
+      "htmlBytes": 25569,
+      "localResponseMilliseconds": 0.44
+    },
+    {
+      "route": "/small-business-web-design/",
+      "httpStatus": 200,
+      "htmlBytes": 25652,
+      "localResponseMilliseconds": 0.38
+    },
+    {
+      "route": "/website-redesign/",
+      "httpStatus": 200,
+      "htmlBytes": 25594,
+      "localResponseMilliseconds": 0.55
+    },
+    {
+      "route": "/locations/melbourne/",
+      "httpStatus": 200,
+      "htmlBytes": 26739,
+      "localResponseMilliseconds": 0.44
+    },
+    {
+      "route": "/guides/website-cost-australia/",
+      "httpStatus": 200,
+      "htmlBytes": 26874,
+      "localResponseMilliseconds": 0.36
+    },
+    {
+      "route": "/guides/how-long-does-a-website-take/",
+      "httpStatus": 200,
+      "htmlBytes": 25430,
+      "localResponseMilliseconds": 0.42
+    },
+    {
+      "route": "/guides/small-business-website-checklist/",
+      "httpStatus": 200,
+      "htmlBytes": 25339,
+      "localResponseMilliseconds": 0.42
+    },
+    {
+      "route": "/compare/wix-vs-custom-website/",
+      "httpStatus": 200,
+      "htmlBytes": 26736,
+      "localResponseMilliseconds": 0.5
+    },
+    {
+      "route": "/compare/wordpress-vs-custom/",
+      "httpStatus": 200,
+      "htmlBytes": 25976,
+      "localResponseMilliseconds": 2.49
+    },
+    {
+      "route": "/best/web-design-companies-melbourne/",
+      "httpStatus": 200,
+      "htmlBytes": 26817,
+      "localResponseMilliseconds": 0.82
+    },
+    {
+      "route": "/tools/website-roi-calculator/",
+      "httpStatus": 200,
+      "htmlBytes": 22211,
+      "localResponseMilliseconds": 0.91
+    },
+    {
+      "route": "/tools/website-cost-calculator/",
+      "httpStatus": 200,
+      "htmlBytes": 22110,
+      "localResponseMilliseconds": 0.82
+    },
+    {
+      "route": "/tools/tradie-website-checklist/",
+      "httpStatus": 200,
+      "htmlBytes": 22120,
+      "localResponseMilliseconds": 0.64
+    },
+    {
+      "route": "/about/",
+      "httpStatus": 200,
+      "htmlBytes": 21507,
+      "localResponseMilliseconds": 0.85
+    },
+    {
+      "route": "/process/",
+      "httpStatus": 200,
+      "htmlBytes": 21626,
+      "localResponseMilliseconds": 0.51
+    },
+    {
+      "route": "/contact/",
+      "httpStatus": 200,
+      "htmlBytes": 21521,
+      "localResponseMilliseconds": 0.46
+    },
+    {
+      "route": "/industries/",
+      "httpStatus": 200,
+      "htmlBytes": 22567,
+      "localResponseMilliseconds": 0.44
+    },
+    {
+      "route": "/locations/",
+      "httpStatus": 200,
+      "htmlBytes": 22044,
+      "localResponseMilliseconds": 0.43
+    },
+    {
+      "route": "/guides/",
+      "httpStatus": 200,
+      "htmlBytes": 22286,
+      "localResponseMilliseconds": 0.39
+    },
+    {
+      "route": "/compare/",
+      "httpStatus": 200,
+      "htmlBytes": 22027,
+      "localResponseMilliseconds": 0.38
+    },
+    {
+      "route": "/best/",
+      "httpStatus": 200,
+      "htmlBytes": 22091,
+      "localResponseMilliseconds": 0.41
+    },
+    {
+      "route": "/tools/",
+      "httpStatus": 200,
+      "htmlBytes": 22158,
+      "localResponseMilliseconds": 0.44
+    },
+    {
+      "route": "/",
+      "httpStatus": 200,
+      "htmlBytes": 101377,
+      "localResponseMilliseconds": 1.18
+    },
+    {
+      "route": "/services/",
+      "httpStatus": 200,
+      "htmlBytes": 50096,
+      "localResponseMilliseconds": 0.57
+    }
+  ],
+  "missingRouteStatus": 404,
+  "aliasRedirect": "/website-design/ -> /web-design/",
+  "legacyServicesRedirect": "/services -> /services/",
+  "limitations": "Local response times are not production load times or Core Web Vitals. Canonical host and CDN behaviour need production verification."
+}

@@ -1,0 +1,12 @@
+const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');
+let listener;
+const document={referrer:'',addEventListener:(name,callback)=>listener=callback};
+const context={URL,URLSearchParams,document,location:{search:'?utm_source=chatgpt.com&email=private@example.invalid',pathname:'/web-design/'},CustomEvent:class{constructor(name,x){this.detail=x.detail;}}};
+context.window=context;context.dispatchEvent=()=>{};
+vm.createContext(context);vm.runInContext(fs.readFileSync('public/events.js','utf8'),context);
+context.dsTrack('form_submit',{email:'private@example.invalid',name:'A Person',step:'brief'});
+assert.equal(context.dataLayer[0].referral_source,'chatgpt.com');
+assert(!JSON.stringify(context.dataLayer).includes('private'));
+assert.equal(context.dataLayer[1].step,'brief');
+context.dsTrack('unknown_event',{});assert.equal(context.dataLayer.length,2);
+console.log('PASS: analytics allowlist and no form/URL-query leakage.');

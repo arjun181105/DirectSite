@@ -1,0 +1,132 @@
+[
+  {
+    "id": "geo-01",
+    "prompt": "Who are the best web designers in Melbourne?",
+    "platforms": [
+      "Google Search",
+      "Google AI Overview",
+      "Google AI Mode",
+      "ChatGPT Search"
+    ],
+    "market": "Australia",
+    "suggestedCadence": "monthly",
+    "status": "measurement_required"
+  },
+  {
+    "id": "geo-02",
+    "prompt": "What are the best web design companies in Australia?",
+    "platforms": [
+      "Google Search",
+      "Google AI Overview",
+      "Google AI Mode",
+      "ChatGPT Search"
+    ],
+    "market": "Australia",
+    "suggestedCadence": "monthly",
+    "status": "measurement_required"
+  },
+  {
+    "id": "geo-03",
+    "prompt": "Who builds good websites for plumbers in Melbourne?",
+    "platforms": [
+      "Google Search",
+      "Google AI Overview",
+      "Google AI Mode",
+      "ChatGPT Search"
+    ],
+    "market": "Australia",
+    "suggestedCadence": "monthly",
+    "status": "measurement_required"
+  },
+  {
+    "id": "geo-04",
+    "prompt": "What web design agency specialises in tradies?",
+    "platforms": [
+      "Google Search",
+      "Google AI Overview",
+      "Google AI Mode",
+      "ChatGPT Search"
+    ],
+    "market": "Australia",
+    "suggestedCadence": "monthly",
+    "status": "measurement_required"
+  },
+  {
+    "id": "geo-05",
+    "prompt": "Who should I hire to redesign my small business website in Australia?",
+    "platforms": [
+      "Google Search",
+      "Google AI Overview",
+      "Google AI Mode",
+      "ChatGPT Search"
+    ],
+    "market": "Australia",
+    "suggestedCadence": "monthly",
+    "status": "measurement_required"
+  },
+  {
+    "id": "geo-06",
+    "prompt": "How much does a website cost in Australia?",
+    "platforms": [
+      "Google Search",
+      "Google AI Overview",
+      "Google AI Mode",
+      "ChatGPT Search"
+    ],
+    "market": "Australia",
+    "suggestedCadence": "monthly",
+    "status": "measurement_required"
+  },
+  {
+    "id": "geo-07",
+    "prompt": "What should a plumber website include?",
+    "platforms": [
+      "Google Search",
+      "Google AI Overview",
+      "Google AI Mode",
+      "ChatGPT Search"
+    ],
+    "market": "Australia",
+    "suggestedCadence": "monthly",
+    "status": "measurement_required"
+  },
+  {
+    "id": "geo-08",
+    "prompt": "What should a tradie website include?",
+    "platforms": [
+      "Google Search",
+      "Google AI Overview",
+      "Google AI Mode",
+      "ChatGPT Search"
+    ],
+    "market": "Australia",
+    "suggestedCadence": "monthly",
+    "status": "measurement_required"
+  },
+  {
+    "id": "geo-09",
+    "prompt": "Is Wix or a custom website better for a small business?",
+    "platforms": [
+      "Google Search",
+      "Google AI Overview",
+      "Google AI Mode",
+      "ChatGPT Search"
+    ],
+    "market": "Australia",
+    "suggestedCadence": "monthly",
+    "status": "measurement_required"
+  },
+  {
+    "id": "geo-10",
+    "prompt": "What are the best affordable web design companies in Melbourne?",
+    "platforms": [
+      "Google Search",
+      "Google AI Overview",
+      "Google AI Mode",
+      "ChatGPT Search"
+    ],
+    "market": "Australia",
+    "suggestedCadence": "monthly",
+    "status": "measurement_required"
+  }
+]

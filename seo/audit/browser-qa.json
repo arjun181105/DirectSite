@@ -1,0 +1,221 @@
+{
+  "date": "2026-09-12",
+  "method": "Codex in-app browser at 390x844 viewport override; measured document client width 375px",
+  "routes": [
+    {
+      "path": "/industries/plumbers/",
+      "documentWidth": 375,
+      "scrollWidth": 375,
+      "h1Present": true,
+      "horizontalOverflow": false
+    },
+    {
+      "path": "/industries/electricians/",
+      "documentWidth": 375,
+      "scrollWidth": 375,
+      "h1Present": true,
+      "horizontalOverflow": false
+    },
+    {
+      "path": "/industries/roofers/",
+      "documentWidth": 375,
+      "scrollWidth": 375,
+      "h1Present": true,
+      "horizontalOverflow": false
+    },
+    {
+      "path": "/industries/builders/",
+      "documentWidth": 375,
+      "scrollWidth": 375,
+      "h1Present": true,
+      "horizontalOverflow": false
+    },
+    {
+      "path": "/industries/tradies/",
+      "documentWidth": 375,
+      "scrollWidth": 375,
+      "h1Present": true,
+      "horizontalOverflow": false
+    },
+    {
+      "path": "/web-design/",
+      "documentWidth": 375,
+      "scrollWidth": 375,
+      "h1Present": true,
+      "horizontalOverflow": false
+    },
+    {
+      "path": "/small-business-web-design/",
+      "documentWidth": 375,
+      "scrollWidth": 375,
+      "h1Present": true,
+      "horizontalOverflow": false
+    },
+    {
+      "path": "/website-redesign/",
+      "documentWidth": 375,
+      "scrollWidth": 375,
+      "h1Present": true,
+      "horizontalOverflow": false
+    },
+    {
+      "path": "/locations/melbourne/",
+      "documentWidth": 375,
+      "scrollWidth": 375,
+      "h1Present": true,
+      "horizontalOverflow": false
+    },
+    {
+      "path": "/guides/website-cost-australia/",
+      "documentWidth": 375,
+      "scrollWidth": 375,
+      "h1Present": true,
+      "horizontalOverflow": false
+    },
+    {
+      "path": "/guides/how-long-does-a-website-take/",
+      "documentWidth": 375,
+      "scrollWidth": 375,
+      "h1Present": true,
+      "horizontalOverflow": false
+    },
+    {
+      "path": "/guides/small-business-website-checklist/",
+      "documentWidth": 375,
+      "scrollWidth": 375,
+      "h1Present": true,
+      "horizontalOverflow": false
+    },
+    {
+      "path": "/compare/wix-vs-custom-website/",
+      "documentWidth": 375,
+      "scrollWidth": 375,
+      "h1Present": true,
+      "horizontalOverflow": false
+    },
+    {
+      "path": "/compare/wordpress-vs-custom/",
+      "documentWidth": 375,
+      "scrollWidth": 375,
+      "h1Present": true,
+      "horizontalOverflow": false
+    },
+    {
+      "path": "/best/web-design-companies-melbourne/",
+      "documentWidth": 375,
+      "scrollWidth": 375,
+      "h1Present": true,
+      "horizontalOverflow": false
+    },
+    {
+      "path": "/tools/website-roi-calculator/",
+      "documentWidth": 375,
+      "scrollWidth": 375,
+      "h1Present": true,
+      "horizontalOverflow": false
+    },
+    {
+      "path": "/tools/website-cost-calculator/",
+      "documentWidth": 375,
+      "scrollWidth": 375,
+      "h1Present": true,
+      "horizontalOverflow": false
+    },
+    {
+      "path": "/tools/tradie-website-checklist/",
+      "documentWidth": 375,
+      "scrollWidth": 375,
+      "h1Present": true,
+      "horizontalOverflow": false
+    },
+    {
+      "path": "/about/",
+      "documentWidth": 375,
+      "scrollWidth": 375,
+      "h1Present": true,
+      "horizontalOverflow": false
+    },
+    {
+      "path": "/process/",
+      "documentWidth": 375,
+      "scrollWidth": 375,
+      "h1Present": true,
+      "horizontalOverflow": false
+    },
+    {
+      "path": "/contact/",
+      "documentWidth": 375,
+      "scrollWidth": 375,
+      "h1Present": true,
+      "horizontalOverflow": false
+    },
+    {
+      "path": "/industries/",
+      "documentWidth": 375,
+      "scrollWidth": 375,
+      "h1Present": true,
+      "horizontalOverflow": false
+    },
+    {
+      "path": "/locations/",
+      "documentWidth": 375,
+      "scrollWidth": 375,
+      "h1Present": true,
+      "horizontalOverflow": false
+    },
+    {
+      "path": "/guides/",
+      "documentWidth": 375,
+      "scrollWidth": 375,
+      "h1Present": true,
+      "horizontalOverflow": false
+    },
+    {
+      "path": "/compare/",
+      "documentWidth": 375,
+      "scrollWidth": 375,
+      "h1Present": true,
+      "horizontalOverflow": false
+    },
+    {
+      "path": "/best/",
+      "documentWidth": 375,
+      "scrollWidth": 375,
+      "h1Present": true,
+      "horizontalOverflow": false
+    },
+    {
+      "path": "/tools/",
+      "documentWidth": 375,
+      "scrollWidth": 375,
+      "h1Present": true,
+      "horizontalOverflow": false
+    },
+    {
+      "path": "/",
+      "documentWidth": 375,
+      "scrollWidth": 375,
+      "h1Present": true,
+      "horizontalOverflow": false
+    },
+    {
+      "path": "/services/",
+      "documentWidth": 375,
+      "scrollWidth": 375,
+      "h1Present": true,
+      "horizontalOverflow": false
+    }
+  ],
+  "interactions": {
+    "sharedDemoRedesign": "mock accepted and HTTP-rejected paths verified; rejection retains input",
+    "services": "mock accepted and HTTP-rejected paths verified; selected service sent by production code",
+    "roi": "zero uplift produces zero contribution and no finite payback",
+    "cost": "inverted rate range shows validation",
+    "checklist": "save/reload retains progress; reset clears it"
+  },
+  "limitations": [
+    "No real leads or bookings submitted",
+    "No production inbox receipt verified",
+    "Automated accessibility is not a full manual WCAG audit"
+  ]
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "gap": "Trade-specific commercial landing pages",
+    "baselineEvidence": "Homepage and /services sitemap only",
+    "implemented": [
+      "/industries/plumbers/",
+      "/industries/electricians/",
+      "/industries/roofers/",
+      "/industries/builders/",
+      "/industries/tradies/"
+    ],
+    "nextEvidence": "Real project example per vertical"
+  },
+  {
+    "gap": "Local buyer page with an honest remote-service position",
+    "implemented": [
+      "/locations/melbourne/"
+    ],
+    "nextEvidence": "Relevant Melbourne client proof and verified local demand from GSC/SERP source"
+  },
+  {
+    "gap": "Pricing decision support",
+    "implemented": [
+      "/guides/website-cost-australia/",
+      "/tools/website-cost-calculator/"
+    ],
+    "nextEvidence": "Approved DirectSite scope examples or package boundaries; broader comparable quote sample"
+  },
+  {
+    "gap": "Reliable enquiry measurement",
+    "baselineEvidence": "Homepage ignores API-level failure; services does not submit data",
+    "implemented": [
+      "API acknowledgement checks",
+      "error retry path",
+      "privacy-minimising analytics events"
+    ],
+    "nextEvidence": "Controlled production lead receipt and real property integration"
+  },
+  {
+    "gap": "Original, auditable data",
+    "implemented": [
+      "scripts/benchmark.py",
+      "seo/benchmark/METHODOLOGY.md"
+    ],
+    "nextEvidence": "Predeclared representative sample and independently reviewed observations"
+  },
+  {
+    "gap": "Case-study evidence",
+    "implemented": [
+      "content/case-study.template.json"
+    ],
+    "nextEvidence": "Client consent, actual screenshots and dated measurements; never generate substitute proof"
+  }
+]

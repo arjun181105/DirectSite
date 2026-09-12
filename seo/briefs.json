@@ -1,0 +1,5426 @@
+[
+  {
+    "url": "/web-design/",
+    "pageType": "service",
+    "primaryKeyword": "custom web design australia",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-009"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Custom Web Design Australia | DirectSite",
+    "metaTitle": "Custom Web Design Australia | DirectSite",
+    "metaDescription": "Custom web design for Australian businesses. Get a real working demo within 48 hours, request free revisions and pay only when you love it.",
+    "h1": "Your new website. Built before you buy.",
+    "h2Structure": [
+      "Begin with the job your website needs to do",
+      "Choose a structure that customers can follow",
+      "Agree the content and functionality",
+      "Review the working website on your own device",
+      "Launch with the important details checked",
+      "Measure useful business actions"
+    ],
+    "questionsToAnswer": [
+      "Is the 48-hour demo a mockup?",
+      "What happens if I do not like it?",
+      "How much will my website cost?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [
+      "/small-business-web-design/",
+      "/website-redesign/",
+      "/guides/website-cost-australia/",
+      "/compare/wix-vs-custom-website/",
+      "/tools/website-cost-calculator/",
+      "/contact/"
+    ],
+    "internalLinksOut": [
+      "/small-business-web-design/",
+      "/website-redesign/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "implemented_local",
+    "qualityScore": 94,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 5,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 4
+    },
+    "priorityScore": 1800,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": true,
+    "canonical": "https://directsite.com.au/web-design/",
+    "lastReviewed": "2026-09-12"
+  },
+  {
+    "url": "/small-business-web-design/",
+    "pageType": "service",
+    "primaryKeyword": "small business web design australia",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-006"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Small Business Web Design Australia | DirectSite",
+    "metaTitle": "Small Business Web Design Australia | DirectSite",
+    "metaDescription": "Show what you do, build trust and make enquiries easy. See your Australian small-business website in a working 48-hour demo before you pay.",
+    "h1": "A small-business website with a clear job to do",
+    "h2Structure": [
+      "Decide what a worthwhile enquiry looks like",
+      "Start with the smallest useful page set",
+      "Make the business easy to verify",
+      "Keep the first step small",
+      "Plan who updates the website",
+      "Make a buying decision after seeing the work"
+    ],
+    "questionsToAnswer": [
+      "Do I need a blog from day one?",
+      "Can a one-page website be enough?",
+      "Can DirectSite work with a regional Australian business?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [
+      "/web-design/",
+      "/guides/small-business-website-checklist/",
+      "/tools/website-roi-calculator/",
+      "/locations/"
+    ],
+    "internalLinksOut": [
+      "/web-design/",
+      "/industries/",
+      "/guides/small-business-website-checklist/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "implemented_local",
+    "qualityScore": 94,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 5,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 4
+    },
+    "priorityScore": 1800,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": true,
+    "canonical": "https://directsite.com.au/small-business-web-design/",
+    "lastReviewed": "2026-09-12"
+  },
+  {
+    "url": "/website-redesign/",
+    "pageType": "service",
+    "primaryKeyword": "website redesign australia",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Website Redesign Australia | DirectSite",
+    "metaTitle": "Website Redesign Australia | DirectSite",
+    "metaDescription": "Refresh your website without buying blind. Review a real redesign demo within 48 hours, request free changes and pay only when you love it.",
+    "h1": "See your redesigned website before you commit",
+    "h2Structure": [
+      "Identify the problem before replacing the site",
+      "Keep an inventory of existing URLs",
+      "Preserve domain and account access",
+      "Review the new content against real customer questions",
+      "Test the whole conversion path",
+      "Use the demo to reduce buying uncertainty"
+    ],
+    "questionsToAnswer": [
+      "Will a redesign preserve my rankings?",
+      "Can my domain stay the same?",
+      "When will the new site go live?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [
+      "/industries/electricians/",
+      "/industries/builders/",
+      "/web-design/",
+      "/guides/website-cost-australia/",
+      "/guides/how-long-does-a-website-take/",
+      "/compare/wordpress-vs-custom/",
+      "/tools/tradie-website-checklist/"
+    ],
+    "internalLinksOut": [
+      "/guides/website-cost-australia/",
+      "/web-design/",
+      "/tools/tradie-website-checklist/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "implemented_local",
+    "qualityScore": 94,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 5,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 4
+    },
+    "priorityScore": 1800,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": true,
+    "canonical": "https://directsite.com.au/website-redesign/",
+    "lastReviewed": "2026-09-12"
+  },
+  {
+    "url": "/ecommerce-web-design/",
+    "pageType": "service",
+    "primaryKeyword": "ecommerce web design",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Ecommerce Web Design | DirectSite",
+    "metaTitle": "Ecommerce Web Design | DirectSite",
+    "metaDescription": null,
+    "h1": "Ecommerce Web Design",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 5,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 900,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/ecommerce-web-design/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/industries/plumbers/",
+    "pageType": "industry",
+    "primaryKeyword": "web design for plumbers",
+    "secondaryKeywords": [
+      "plumber website design",
+      "plumbing website design",
+      "websites for plumbers"
+    ],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian plumbers business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-024",
+        "kw-027"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Web Design for Plumbers Australia | DirectSite",
+    "metaTitle": "Web Design for Plumbers Australia | DirectSite",
+    "metaDescription": "Get a plumbing website built around emergency calls, service areas and quote requests. See a real working demo in 48 hours before paying anything.",
+    "h1": "Websites for plumbers that turn searches into calls",
+    "h2Structure": [
+      "A burst pipe and a bathroom renovation need different paths",
+      "Build around the jobs you want",
+      "Show why someone should let you into their home",
+      "A practical plumbing quote form",
+      "Service areas without a wall of suburb pages",
+      "See your plumbing website before you pay"
+    ],
+    "questionsToAnswer": [
+      "Can you redesign my existing plumbing website?",
+      "Do I need separate emergency and maintenance pages?",
+      "Will the site guarantee more plumbing calls?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Permissioned relevant project when available; do not invent portfolio",
+      "Trade-specific journey, requirements and questions"
+    ],
+    "internalLinksIn": [
+      "/industries/tradies/",
+      "/locations/melbourne/",
+      "/tools/tradie-website-checklist/",
+      "/industries/"
+    ],
+    "internalLinksOut": [
+      "/industries/tradies/",
+      "/guides/website-cost-australia/",
+      "/tools/tradie-website-checklist/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "implemented_local",
+    "qualityScore": 96,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 5,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 4
+    },
+    "priorityScore": 1800,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": true,
+    "canonical": "https://directsite.com.au/industries/plumbers/",
+    "lastReviewed": "2026-09-12"
+  },
+  {
+    "url": "/industries/electricians/",
+    "pageType": "industry",
+    "primaryKeyword": "web design for electricians",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian electricians business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-028"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Electrician Website Design Australia | DirectSite",
+    "metaTitle": "Electrician Website Design Australia | DirectSite",
+    "metaDescription": "Show your electrical services, real credentials and service area clearly. Get a working electrician website demo in 48 hours with no deposit.",
+    "h1": "Electrician websites built for the right enquiries",
+    "h2Structure": [
+      "Make your electrical scope obvious",
+      "Qualify planned work without making the form a job",
+      "Give commercial buyers a separate route",
+      "Turn completed work into useful evidence",
+      "Make mobile contact dependable",
+      "Review the demo against your next ideal job"
+    ],
+    "questionsToAnswer": [
+      "Can the website include EV charger enquiries?",
+      "Should I show my electrical licence details?",
+      "Can residential and commercial work share one website?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Permissioned relevant project when available; do not invent portfolio",
+      "Trade-specific journey, requirements and questions"
+    ],
+    "internalLinksIn": [
+      "/industries/tradies/",
+      "/industries/"
+    ],
+    "internalLinksOut": [
+      "/industries/tradies/",
+      "/guides/small-business-website-checklist/",
+      "/website-redesign/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "implemented_local",
+    "qualityScore": 94,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 5,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 4
+    },
+    "priorityScore": 1800,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": true,
+    "canonical": "https://directsite.com.au/industries/electricians/",
+    "lastReviewed": "2026-09-12"
+  },
+  {
+    "url": "/industries/roofers/",
+    "pageType": "industry",
+    "primaryKeyword": "web design for roofers",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian roofers business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-031",
+        "kw-084"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Roofing Website Design Australia | DirectSite",
+    "metaTitle": "Roofing Website Design Australia | DirectSite",
+    "metaDescription": "Explain roof repairs, restoration and replacement with clear project evidence. See your working roofing website demo in 48 hours before paying.",
+    "h1": "Roofing websites that make the next quote easier",
+    "h2Structure": [
+      "Help people describe the problem",
+      "Separate repair, restoration and replacement",
+      "Use before-and-after photos with context",
+      "Ask for information that makes quoting easier",
+      "Set expectations about availability and weather",
+      "Put your real business into the demo"
+    ],
+    "questionsToAnswer": [
+      "Can you show roofing projects without revenue metrics?",
+      "Can the website quote a roof automatically?",
+      "Will you write separate pages for every suburb?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Permissioned relevant project when available; do not invent portfolio",
+      "Trade-specific journey, requirements and questions"
+    ],
+    "internalLinksIn": [
+      "/industries/tradies/",
+      "/locations/melbourne/",
+      "/industries/"
+    ],
+    "internalLinksOut": [
+      "/industries/builders/",
+      "/tools/tradie-website-checklist/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "implemented_local",
+    "qualityScore": 95,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 5,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 4
+    },
+    "priorityScore": 1800,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": true,
+    "canonical": "https://directsite.com.au/industries/roofers/",
+    "lastReviewed": "2026-09-12"
+  },
+  {
+    "url": "/industries/builders/",
+    "pageType": "industry",
+    "primaryKeyword": "web design for builders",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian builders business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-034",
+        "kw-083"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Builder Website Design Australia | DirectSite",
+    "metaTitle": "Builder Website Design Australia | DirectSite",
+    "metaDescription": "Show your building projects, explain your process and qualify better-fit enquiries. Review a working website demo in 48 hours before paying.",
+    "h1": "Builder websites that help the right clients choose you",
+    "h2Structure": [
+      "Start with the projects you actually want",
+      "Create project stories rather than a photo dump",
+      "Explain how an enquiry becomes a proposal",
+      "Qualify with questions a client can answer",
+      "Make credibility specific",
+      "Review your project presentation before committing"
+    ],
+    "questionsToAnswer": [
+      "Can the demo use my existing project photos?",
+      "Do I need a page for every completed build?",
+      "Can you help reduce unsuitable enquiries?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Permissioned relevant project when available; do not invent portfolio",
+      "Trade-specific journey, requirements and questions"
+    ],
+    "internalLinksIn": [
+      "/industries/roofers/",
+      "/industries/tradies/",
+      "/locations/melbourne/",
+      "/industries/"
+    ],
+    "internalLinksOut": [
+      "/industries/tradies/",
+      "/website-redesign/",
+      "/guides/small-business-website-checklist/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "implemented_local",
+    "qualityScore": 94,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 5,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 4
+    },
+    "priorityScore": 1800,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": true,
+    "canonical": "https://directsite.com.au/industries/builders/",
+    "lastReviewed": "2026-09-12"
+  },
+  {
+    "url": "/industries/tradies/",
+    "pageType": "industry",
+    "primaryKeyword": "web design for tradies",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian tradies business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-037",
+        "kw-039",
+        "kw-080",
+        "kw-081"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Websites for Tradies Australia | DirectSite",
+    "metaTitle": "Websites for Tradies Australia | DirectSite",
+    "metaDescription": "Websites for Australian tradies, built around real services, local trust and simple enquiries. Get a free working demo in 48 hours. No deposit.",
+    "h1": "Your next customer should know exactly how to reach you",
+    "h2Structure": [
+      "Choose a website around the way you win work",
+      "Give each trade the right customer journey",
+      "Build trust with evidence you already have",
+      "Keep enquiries usable when you are on the tools",
+      "Make local coverage useful",
+      "Test the free demo like a customer"
+    ],
+    "questionsToAnswer": [
+      "Is this for sole traders or larger trade businesses?",
+      "Do I need a new domain?",
+      "Can I see the website before agreeing to buy?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Permissioned relevant project when available; do not invent portfolio",
+      "Trade-specific journey, requirements and questions"
+    ],
+    "internalLinksIn": [
+      "/industries/plumbers/",
+      "/industries/electricians/",
+      "/industries/builders/",
+      "/tools/tradie-website-checklist/",
+      "/industries/"
+    ],
+    "internalLinksOut": [
+      "/industries/plumbers/",
+      "/industries/electricians/",
+      "/industries/roofers/",
+      "/industries/builders/",
+      "/tools/tradie-website-checklist/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "implemented_local",
+    "qualityScore": 94,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 5,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 4
+    },
+    "priorityScore": 1800,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": true,
+    "canonical": "https://directsite.com.au/industries/tradies/",
+    "lastReviewed": "2026-09-12"
+  },
+  {
+    "url": "/industries/landscapers/",
+    "pageType": "industry",
+    "primaryKeyword": "web design for landscapers",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian landscapers business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-040"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Landscapers | DirectSite",
+    "metaTitle": "Landscapers | DirectSite",
+    "metaDescription": null,
+    "h1": "Landscapers",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Permissioned relevant project when available; do not invent portfolio",
+      "Trade-specific journey, requirements and questions"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 5,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 900,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/industries/landscapers/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/industries/concreters/",
+    "pageType": "industry",
+    "primaryKeyword": "web design for concreters",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian concreters business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-042"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Concreters | DirectSite",
+    "metaTitle": "Concreters | DirectSite",
+    "metaDescription": null,
+    "h1": "Concreters",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Permissioned relevant project when available; do not invent portfolio",
+      "Trade-specific journey, requirements and questions"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 5,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 900,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/industries/concreters/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/industries/painters/",
+    "pageType": "industry",
+    "primaryKeyword": "web design for painters",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian painters business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-044"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Painters | DirectSite",
+    "metaTitle": "Painters | DirectSite",
+    "metaDescription": null,
+    "h1": "Painters",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Permissioned relevant project when available; do not invent portfolio",
+      "Trade-specific journey, requirements and questions"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 5,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 900,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/industries/painters/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/industries/hvac/",
+    "pageType": "industry",
+    "primaryKeyword": "web design for hvac",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian hvac business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-046"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Hvac | DirectSite",
+    "metaTitle": "Hvac | DirectSite",
+    "metaDescription": null,
+    "h1": "Hvac",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Permissioned relevant project when available; do not invent portfolio",
+      "Trade-specific journey, requirements and questions"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 5,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 900,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/industries/hvac/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/industries/solar/",
+    "pageType": "industry",
+    "primaryKeyword": "web design for solar",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian solar business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-048"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Solar | DirectSite",
+    "metaTitle": "Solar | DirectSite",
+    "metaDescription": null,
+    "h1": "Solar",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Permissioned relevant project when available; do not invent portfolio",
+      "Trade-specific journey, requirements and questions"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 5,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 900,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/industries/solar/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/industries/real-estate/",
+    "pageType": "industry",
+    "primaryKeyword": "web design for real estate",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian real estate business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-049",
+        "kw-050"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Real Estate | DirectSite",
+    "metaTitle": "Real Estate | DirectSite",
+    "metaDescription": null,
+    "h1": "Real Estate",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Permissioned relevant project when available; do not invent portfolio",
+      "Trade-specific journey, requirements and questions"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 5,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 900,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/industries/real-estate/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/industries/mortgage-brokers/",
+    "pageType": "industry",
+    "primaryKeyword": "web design for mortgage brokers",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian mortgage brokers business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-051"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Mortgage Brokers | DirectSite",
+    "metaTitle": "Mortgage Brokers | DirectSite",
+    "metaDescription": null,
+    "h1": "Mortgage Brokers",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Permissioned relevant project when available; do not invent portfolio",
+      "Trade-specific journey, requirements and questions"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 5,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 900,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/industries/mortgage-brokers/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/industries/accountants/",
+    "pageType": "industry",
+    "primaryKeyword": "web design for accountants",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian accountants business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-053"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Accountants | DirectSite",
+    "metaTitle": "Accountants | DirectSite",
+    "metaDescription": null,
+    "h1": "Accountants",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Permissioned relevant project when available; do not invent portfolio",
+      "Trade-specific journey, requirements and questions"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 5,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 900,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/industries/accountants/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/industries/law-firms/",
+    "pageType": "industry",
+    "primaryKeyword": "web design for law firms",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian law firms business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Law Firms | DirectSite",
+    "metaTitle": "Law Firms | DirectSite",
+    "metaDescription": null,
+    "h1": "Law Firms",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Permissioned relevant project when available; do not invent portfolio",
+      "Trade-specific journey, requirements and questions"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 5,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 900,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/industries/law-firms/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/industries/dentists/",
+    "pageType": "industry",
+    "primaryKeyword": "web design for dentists",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian dentists business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-057"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Dentists | DirectSite",
+    "metaTitle": "Dentists | DirectSite",
+    "metaDescription": null,
+    "h1": "Dentists",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Permissioned relevant project when available; do not invent portfolio",
+      "Trade-specific journey, requirements and questions"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 5,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 900,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/industries/dentists/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/industries/physiotherapists/",
+    "pageType": "industry",
+    "primaryKeyword": "web design for physiotherapists",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian physiotherapists business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-059"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Physiotherapists | DirectSite",
+    "metaTitle": "Physiotherapists | DirectSite",
+    "metaDescription": null,
+    "h1": "Physiotherapists",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Permissioned relevant project when available; do not invent portfolio",
+      "Trade-specific journey, requirements and questions"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 5,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 900,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/industries/physiotherapists/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/industries/gyms/",
+    "pageType": "industry",
+    "primaryKeyword": "web design for gyms",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian gyms business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-061"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Gyms | DirectSite",
+    "metaTitle": "Gyms | DirectSite",
+    "metaDescription": null,
+    "h1": "Gyms",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Permissioned relevant project when available; do not invent portfolio",
+      "Trade-specific journey, requirements and questions"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 5,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 900,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/industries/gyms/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/industries/cleaners/",
+    "pageType": "industry",
+    "primaryKeyword": "web design for cleaners",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian cleaners business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-063"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Cleaners | DirectSite",
+    "metaTitle": "Cleaners | DirectSite",
+    "metaDescription": null,
+    "h1": "Cleaners",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Permissioned relevant project when available; do not invent portfolio",
+      "Trade-specific journey, requirements and questions"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 5,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 900,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/industries/cleaners/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/industries/removalists/",
+    "pageType": "industry",
+    "primaryKeyword": "web design for removalists",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian removalists business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-065"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Removalists | DirectSite",
+    "metaTitle": "Removalists | DirectSite",
+    "metaDescription": null,
+    "h1": "Removalists",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Permissioned relevant project when available; do not invent portfolio",
+      "Trade-specific journey, requirements and questions"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 5,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 900,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/industries/removalists/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/industries/mechanics/",
+    "pageType": "industry",
+    "primaryKeyword": "web design for mechanics",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian mechanics business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-067"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Mechanics | DirectSite",
+    "metaTitle": "Mechanics | DirectSite",
+    "metaDescription": null,
+    "h1": "Mechanics",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Permissioned relevant project when available; do not invent portfolio",
+      "Trade-specific journey, requirements and questions"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 5,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 900,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/industries/mechanics/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/industries/car-dealers/",
+    "pageType": "industry",
+    "primaryKeyword": "web design for car dealers",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian car dealers business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-069",
+        "kw-070"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Car Dealers | DirectSite",
+    "metaTitle": "Car Dealers | DirectSite",
+    "metaDescription": null,
+    "h1": "Car Dealers",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Permissioned relevant project when available; do not invent portfolio",
+      "Trade-specific journey, requirements and questions"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 5,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 900,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/industries/car-dealers/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/industries/restaurants/",
+    "pageType": "industry",
+    "primaryKeyword": "web design for restaurants",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian restaurants business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-071"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Restaurants | DirectSite",
+    "metaTitle": "Restaurants | DirectSite",
+    "metaDescription": null,
+    "h1": "Restaurants",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Permissioned relevant project when available; do not invent portfolio",
+      "Trade-specific journey, requirements and questions"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 5,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 900,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/industries/restaurants/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/industries/cafes/",
+    "pageType": "industry",
+    "primaryKeyword": "web design for cafes",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian cafes business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-073"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Cafes | DirectSite",
+    "metaTitle": "Cafes | DirectSite",
+    "metaDescription": null,
+    "h1": "Cafes",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Permissioned relevant project when available; do not invent portfolio",
+      "Trade-specific journey, requirements and questions"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 5,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 900,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/industries/cafes/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/locations/melbourne/",
+    "pageType": "location",
+    "primaryKeyword": "web design melbourne",
+    "secondaryKeywords": [
+      "website design melbourne",
+      "web designer melbourne",
+      "small business web design melbourne"
+    ],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-011",
+        "kw-012",
+        "kw-013",
+        "kw-014",
+        "kw-015",
+        "kw-016",
+        "kw-017",
+        "kw-018",
+        "kw-019",
+        "kw-020",
+        "kw-021",
+        "kw-022",
+        "kw-023",
+        "kw-085",
+        "kw-088"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Web Design for Melbourne Businesses | DirectSite",
+    "metaTitle": "Web Design for Melbourne Businesses | DirectSite",
+    "metaDescription": "A working website demo for your Melbourne business in 48 hours. Clear services, local relevance and easy enquiries. No deposit or obligation.",
+    "h1": "Web design for Melbourne businesses. Built before you buy.",
+    "h2Structure": [
+      "A Melbourne shop and a mobile trade need different pages",
+      "Keep the local evidence geographically honest",
+      "Show the work you actually do across the city",
+      "Make service-area discovery easy",
+      "Review a Melbourne-focused brief without an office visit",
+      "Compare the scope as well as the headline price"
+    ],
+    "questionsToAnswer": [
+      "Does DirectSite have a Melbourne office?",
+      "Can you build a website for a Melbourne tradie?",
+      "Do I need separate pages for Melbourne suburbs?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Verified local source and geographic boundary",
+      "Distinct local customer information; no invented office"
+    ],
+    "internalLinksIn": [
+      "/best/web-design-companies-melbourne/",
+      "/locations/"
+    ],
+    "internalLinksOut": [
+      "/industries/plumbers/",
+      "/industries/builders/",
+      "/industries/roofers/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "implemented_local",
+    "qualityScore": 95,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 4
+    },
+    "priorityScore": 1440,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": true,
+    "canonical": "https://directsite.com.au/locations/melbourne/",
+    "lastReviewed": "2026-09-12"
+  },
+  {
+    "url": "/locations/sydney/",
+    "pageType": "location",
+    "primaryKeyword": "web design sydney",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-107",
+        "kw-108",
+        "kw-109",
+        "kw-110",
+        "kw-111",
+        "kw-112",
+        "kw-113",
+        "kw-114",
+        "kw-115",
+        "kw-116",
+        "kw-117",
+        "kw-118"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Sydney | DirectSite",
+    "metaTitle": "Sydney | DirectSite",
+    "metaDescription": null,
+    "h1": "Sydney",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Verified local source and geographic boundary",
+      "Distinct local customer information; no invented office"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 720,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/locations/sydney/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/locations/brisbane/",
+    "pageType": "location",
+    "primaryKeyword": "web design brisbane",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-119",
+        "kw-120",
+        "kw-121",
+        "kw-122",
+        "kw-123",
+        "kw-124",
+        "kw-125",
+        "kw-126",
+        "kw-127",
+        "kw-128",
+        "kw-129",
+        "kw-130"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Brisbane | DirectSite",
+    "metaTitle": "Brisbane | DirectSite",
+    "metaDescription": null,
+    "h1": "Brisbane",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Verified local source and geographic boundary",
+      "Distinct local customer information; no invented office"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 720,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/locations/brisbane/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/locations/perth/",
+    "pageType": "location",
+    "primaryKeyword": "web design perth",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-131",
+        "kw-132",
+        "kw-133",
+        "kw-134",
+        "kw-135",
+        "kw-136",
+        "kw-137",
+        "kw-138",
+        "kw-139",
+        "kw-140",
+        "kw-141",
+        "kw-142"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Perth | DirectSite",
+    "metaTitle": "Perth | DirectSite",
+    "metaDescription": null,
+    "h1": "Perth",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Verified local source and geographic boundary",
+      "Distinct local customer information; no invented office"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 720,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/locations/perth/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/locations/adelaide/",
+    "pageType": "location",
+    "primaryKeyword": "web design adelaide",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-143",
+        "kw-144",
+        "kw-145",
+        "kw-146",
+        "kw-147",
+        "kw-148",
+        "kw-149",
+        "kw-150",
+        "kw-151",
+        "kw-152",
+        "kw-153",
+        "kw-154"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Adelaide | DirectSite",
+    "metaTitle": "Adelaide | DirectSite",
+    "metaDescription": null,
+    "h1": "Adelaide",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Verified local source and geographic boundary",
+      "Distinct local customer information; no invented office"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 720,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/locations/adelaide/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/locations/gold-coast/",
+    "pageType": "location",
+    "primaryKeyword": "web design gold coast",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-155",
+        "kw-156",
+        "kw-157",
+        "kw-158",
+        "kw-159",
+        "kw-160",
+        "kw-161",
+        "kw-162",
+        "kw-163",
+        "kw-164",
+        "kw-165",
+        "kw-166"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Gold Coast | DirectSite",
+    "metaTitle": "Gold Coast | DirectSite",
+    "metaDescription": null,
+    "h1": "Gold Coast",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Verified local source and geographic boundary",
+      "Distinct local customer information; no invented office"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 720,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/locations/gold-coast/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/locations/canberra/",
+    "pageType": "location",
+    "primaryKeyword": "web design canberra",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-167",
+        "kw-168",
+        "kw-169",
+        "kw-170",
+        "kw-171",
+        "kw-172",
+        "kw-173",
+        "kw-174",
+        "kw-175",
+        "kw-176",
+        "kw-177",
+        "kw-178"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Canberra | DirectSite",
+    "metaTitle": "Canberra | DirectSite",
+    "metaDescription": null,
+    "h1": "Canberra",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Verified local source and geographic boundary",
+      "Distinct local customer information; no invented office"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 720,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/locations/canberra/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/locations/geelong/",
+    "pageType": "location",
+    "primaryKeyword": "web design geelong",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-179",
+        "kw-180",
+        "kw-181",
+        "kw-182",
+        "kw-183",
+        "kw-184",
+        "kw-185",
+        "kw-186",
+        "kw-187",
+        "kw-188",
+        "kw-189",
+        "kw-190"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Geelong | DirectSite",
+    "metaTitle": "Geelong | DirectSite",
+    "metaDescription": null,
+    "h1": "Geelong",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Verified local source and geographic boundary",
+      "Distinct local customer information; no invented office"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 720,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/locations/geelong/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/locations/newcastle/",
+    "pageType": "location",
+    "primaryKeyword": "web design newcastle",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-191",
+        "kw-192",
+        "kw-193",
+        "kw-194",
+        "kw-195",
+        "kw-196",
+        "kw-197",
+        "kw-198",
+        "kw-199",
+        "kw-200",
+        "kw-201",
+        "kw-202"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Newcastle | DirectSite",
+    "metaTitle": "Newcastle | DirectSite",
+    "metaDescription": null,
+    "h1": "Newcastle",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Verified local source and geographic boundary",
+      "Distinct local customer information; no invented office"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 720,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/locations/newcastle/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/locations/sunshine-coast/",
+    "pageType": "location",
+    "primaryKeyword": "web design sunshine coast",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-203",
+        "kw-204",
+        "kw-205",
+        "kw-206",
+        "kw-207",
+        "kw-208",
+        "kw-209",
+        "kw-210",
+        "kw-211",
+        "kw-212",
+        "kw-213",
+        "kw-214"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Sunshine Coast | DirectSite",
+    "metaTitle": "Sunshine Coast | DirectSite",
+    "metaDescription": null,
+    "h1": "Sunshine Coast",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Verified local source and geographic boundary",
+      "Distinct local customer information; no invented office"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 720,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/locations/sunshine-coast/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/locations/hobart/",
+    "pageType": "location",
+    "primaryKeyword": "web design hobart",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-215",
+        "kw-216",
+        "kw-217",
+        "kw-218",
+        "kw-219",
+        "kw-220",
+        "kw-221",
+        "kw-222",
+        "kw-223",
+        "kw-224",
+        "kw-225",
+        "kw-226"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Hobart | DirectSite",
+    "metaTitle": "Hobart | DirectSite",
+    "metaDescription": null,
+    "h1": "Hobart",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Verified local source and geographic boundary",
+      "Distinct local customer information; no invented office"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Service"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 720,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/locations/hobart/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/guides/website-cost-australia/",
+    "pageType": "guide",
+    "primaryKeyword": "how much does a website cost in australia",
+    "secondaryKeywords": [],
+    "searchIntent": "informational",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "planning",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-086"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Website Cost Australia: Scope & Pricing | DirectSite",
+    "metaTitle": "Website Cost Australia: Scope & Pricing | DirectSite",
+    "metaDescription": "Compare real advertised website prices, understand the scope behind a quote and check ongoing costs before choosing an Australian web designer.",
+    "h1": "How much does a small-business website cost in Australia?",
+    "h2Structure": [
+      "Read advertised prices as offers, not a market average",
+      "Write the scope before comparing quotes",
+      "Separate build costs from recurring costs",
+      "Check what happens when you need a change",
+      "Use a quote comparison worksheet",
+      "How DirectSite approaches the buying decision"
+    ],
+    "questionsToAnswer": [
+      "Is a low-cost website always a bad choice?",
+      "Does a Melbourne website cost more than elsewhere?",
+      "What should I budget for a trades website?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [
+      "/industries/plumbers/",
+      "/industries/roofers/",
+      "/web-design/",
+      "/website-redesign/",
+      "/locations/melbourne/",
+      "/compare/wix-vs-custom-website/",
+      "/compare/wordpress-vs-custom/",
+      "/best/web-design-companies-melbourne/",
+      "/tools/website-roi-calculator/",
+      "/tools/website-cost-calculator/",
+      "/guides/",
+      "/best/"
+    ],
+    "internalLinksOut": [
+      "/web-design/",
+      "/website-redesign/",
+      "/compare/wix-vs-custom-website/",
+      "/tools/website-roi-calculator/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Article"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "implemented_local",
+    "qualityScore": 96,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 4
+    },
+    "priorityScore": 864,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": true,
+    "canonical": "https://directsite.com.au/guides/website-cost-australia/",
+    "lastReviewed": "2026-09-12"
+  },
+  {
+    "url": "/guides/website-cost-melbourne/",
+    "pageType": "guide",
+    "primaryKeyword": "website cost melbourne",
+    "secondaryKeywords": [],
+    "searchIntent": "informational",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "planning",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Website Cost Melbourne | DirectSite",
+    "metaTitle": "Website Cost Melbourne | DirectSite",
+    "metaDescription": null,
+    "h1": "Website Cost Melbourne",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Article"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 432,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/guides/website-cost-melbourne/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/guides/how-long-does-a-website-take/",
+    "pageType": "guide",
+    "primaryKeyword": "how long does it take to build a website",
+    "secondaryKeywords": [],
+    "searchIntent": "informational",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "planning",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-090"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "How Long Does a Website Take? | DirectSite",
+    "metaTitle": "How Long Does a Website Take? | DirectSite",
+    "metaDescription": "Understand the difference between a website demo, revisions and a production launch. Plan content and access so the build can move forward.",
+    "h1": "How long does it take to build a website?",
+    "h2Structure": [
+      "A demo makes the proposed website reviewable",
+      "Prepare the information that shapes the build",
+      "Make feedback specific and consolidated",
+      "Check access before the launch date",
+      "Allow for verification after deployment",
+      "Distinguish the promise from the project dependencies"
+    ],
+    "questionsToAnswer": [
+      "Are the 48 hours and three days the same deadline?",
+      "Can a complex online store follow the same process?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [
+      "/guides/small-business-website-checklist/",
+      "/process/",
+      "/guides/"
+    ],
+    "internalLinksOut": [
+      "/process/",
+      "/website-redesign/",
+      "/guides/small-business-website-checklist/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Article"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "implemented_local",
+    "qualityScore": 88,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 4
+    },
+    "priorityScore": 864,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": true,
+    "canonical": "https://directsite.com.au/guides/how-long-does-a-website-take/",
+    "lastReviewed": "2026-09-12"
+  },
+  {
+    "url": "/guides/small-business-website-checklist/",
+    "pageType": "guide",
+    "primaryKeyword": "what should a small business website include",
+    "secondaryKeywords": [],
+    "searchIntent": "informational",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "planning",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-092"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Small Business Website Checklist | DirectSite",
+    "metaTitle": "Small Business Website Checklist | DirectSite",
+    "metaDescription": "A practical checklist for clear services, real trust signals, mobile contact and reliable enquiries. Use it to review your website before launch.",
+    "h1": "What should a small-business website include?",
+    "h2Structure": [
+      "Explain the offer without requiring a scroll",
+      "Give services enough useful detail",
+      "Provide genuine reasons to trust the business",
+      "Test contact as a complete process",
+      "Check the mobile and keyboard experience",
+      "Finish with a practical launch record"
+    ],
+    "questionsToAnswer": [
+      "Must every small business publish case studies?",
+      "Should I add every feature my competitors have?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [
+      "/industries/electricians/",
+      "/industries/builders/",
+      "/small-business-web-design/",
+      "/guides/how-long-does-a-website-take/",
+      "/guides/"
+    ],
+    "internalLinksOut": [
+      "/small-business-web-design/",
+      "/tools/tradie-website-checklist/",
+      "/guides/how-long-does-a-website-take/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Article"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "implemented_local",
+    "qualityScore": 87,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 4
+    },
+    "priorityScore": 864,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": true,
+    "canonical": "https://directsite.com.au/guides/small-business-website-checklist/",
+    "lastReviewed": "2026-09-12"
+  },
+  {
+    "url": "/guides/tradie-website-checklist/",
+    "pageType": "guide",
+    "primaryKeyword": "tradie website checklist",
+    "secondaryKeywords": [],
+    "searchIntent": "informational",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "planning",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Tradie Website Checklist | DirectSite",
+    "metaTitle": "Tradie Website Checklist | DirectSite",
+    "metaDescription": null,
+    "h1": "Tradie Website Checklist",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Article"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 432,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/guides/tradie-website-checklist/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/guides/plumber-website-checklist/",
+    "pageType": "guide",
+    "primaryKeyword": "plumber website checklist",
+    "secondaryKeywords": [],
+    "searchIntent": "informational",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "planning",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Plumber Website Checklist | DirectSite",
+    "metaTitle": "Plumber Website Checklist | DirectSite",
+    "metaDescription": null,
+    "h1": "Plumber Website Checklist",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Article"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 432,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/guides/plumber-website-checklist/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/guides/builder-website-checklist/",
+    "pageType": "guide",
+    "primaryKeyword": "builder website checklist",
+    "secondaryKeywords": [],
+    "searchIntent": "informational",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "planning",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Builder Website Checklist | DirectSite",
+    "metaTitle": "Builder Website Checklist | DirectSite",
+    "metaDescription": null,
+    "h1": "Builder Website Checklist",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Article"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 432,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/guides/builder-website-checklist/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/guides/website-redesign-guide/",
+    "pageType": "guide",
+    "primaryKeyword": "website redesign guide",
+    "secondaryKeywords": [],
+    "searchIntent": "informational",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "planning",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Website Redesign Guide | DirectSite",
+    "metaTitle": "Website Redesign Guide | DirectSite",
+    "metaDescription": null,
+    "h1": "Website Redesign Guide",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Article"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 432,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/guides/website-redesign-guide/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/guides/website-seo-guide/",
+    "pageType": "guide",
+    "primaryKeyword": "website seo guide",
+    "secondaryKeywords": [],
+    "searchIntent": "informational",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "planning",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Website Seo Guide | DirectSite",
+    "metaTitle": "Website Seo Guide | DirectSite",
+    "metaDescription": null,
+    "h1": "Website Seo Guide",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Article"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 432,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/guides/website-seo-guide/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/guides/website-conversion-guide/",
+    "pageType": "guide",
+    "primaryKeyword": "website conversion guide",
+    "secondaryKeywords": [],
+    "searchIntent": "informational",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "planning",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Website Conversion Guide | DirectSite",
+    "metaTitle": "Website Conversion Guide | DirectSite",
+    "metaDescription": null,
+    "h1": "Website Conversion Guide",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Article"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 432,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/guides/website-conversion-guide/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/compare/wix-vs-custom-website/",
+    "pageType": "comparison",
+    "primaryKeyword": "wix vs custom website australia",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-097"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Wix vs Custom Website for Small Business | DirectSite",
+    "metaTitle": "Wix vs Custom Website for Small Business | DirectSite",
+    "metaDescription": "Compare editing, responsibility, integrations and total cost when choosing Wix or a custom website for your Australian small business.",
+    "h1": "Wix or a custom website: which fits your business?",
+    "h2Structure": [
+      "Compare actual proposals, not labels",
+      "Who will make routine changes?",
+      "Search visibility depends on the website you publish",
+      "Check integrations using your real workflow",
+      "Compare ongoing work and the ability to leave",
+      "A decision you can test"
+    ],
+    "questionsToAnswer": [
+      "Does Wix prevent a business from ranking?",
+      "Does custom mean I own everything?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [
+      "/guides/website-cost-australia/",
+      "/compare/wordpress-vs-custom/",
+      "/best/web-design-companies-melbourne/",
+      "/compare/"
+    ],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/",
+      "/compare/wordpress-vs-custom/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Article"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "implemented_local",
+    "qualityScore": 87,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 4
+    },
+    "priorityScore": 864,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": true,
+    "canonical": "https://directsite.com.au/compare/wix-vs-custom-website/",
+    "lastReviewed": "2026-09-12"
+  },
+  {
+    "url": "/compare/squarespace-vs-web-designer/",
+    "pageType": "comparison",
+    "primaryKeyword": "squarespace vs web designer",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-098"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Squarespace Vs Web Designer | DirectSite",
+    "metaTitle": "Squarespace Vs Web Designer | DirectSite",
+    "metaDescription": null,
+    "h1": "Squarespace Vs Web Designer",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Article"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 432,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/compare/squarespace-vs-web-designer/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/compare/wordpress-vs-custom/",
+    "pageType": "comparison",
+    "primaryKeyword": "wordpress vs custom website",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-099"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "WordPress vs Custom Website: A Fair Guide | DirectSite",
+    "metaTitle": "WordPress vs Custom Website: A Fair Guide | DirectSite",
+    "metaDescription": "Understand the difference between a CMS, a custom design and custom code. Compare WordPress and alternative builds against your real requirements.",
+    "h1": "WordPress and custom are not opposites",
+    "h2Structure": [
+      "Separate the design from the platform",
+      "WordPress provides a content-management foundation",
+      "Specify maintenance as part of the decision",
+      "Test performance on the actual website",
+      "Check portability and editing access",
+      "Choose the solution that satisfies the brief"
+    ],
+    "questionsToAnswer": [
+      "Can a WordPress website be custom?",
+      "Which option is always better for SEO?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [
+      "/compare/wix-vs-custom-website/",
+      "/compare/"
+    ],
+    "internalLinksOut": [
+      "/compare/wix-vs-custom-website/",
+      "/website-redesign/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Article"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "implemented_local",
+    "qualityScore": 87,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 4
+    },
+    "priorityScore": 864,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": true,
+    "canonical": "https://directsite.com.au/compare/wordpress-vs-custom/",
+    "lastReviewed": "2026-09-12"
+  },
+  {
+    "url": "/compare/webflow-vs-wordpress/",
+    "pageType": "comparison",
+    "primaryKeyword": "webflow vs wordpress",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Webflow Vs Wordpress | DirectSite",
+    "metaTitle": "Webflow Vs Wordpress | DirectSite",
+    "metaDescription": null,
+    "h1": "Webflow Vs Wordpress",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Article"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 432,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/compare/webflow-vs-wordpress/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/compare/freelancer-vs-web-design-agency/",
+    "pageType": "comparison",
+    "primaryKeyword": "freelancer vs web design agency",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Freelancer Vs Web Design Agency | DirectSite",
+    "metaTitle": "Freelancer Vs Web Design Agency | DirectSite",
+    "metaDescription": null,
+    "h1": "Freelancer Vs Web Design Agency",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Article"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 432,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/compare/freelancer-vs-web-design-agency/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/compare/template-vs-custom-website/",
+    "pageType": "comparison",
+    "primaryKeyword": "template vs custom website",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Template Vs Custom Website | DirectSite",
+    "metaTitle": "Template Vs Custom Website | DirectSite",
+    "metaDescription": null,
+    "h1": "Template Vs Custom Website",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Article"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 432,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/compare/template-vs-custom-website/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/best/web-design-companies-australia/",
+    "pageType": "buyer-guide",
+    "primaryKeyword": "best web design companies australia",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-077"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Web Design Companies Australia | DirectSite",
+    "metaTitle": "Web Design Companies Australia | DirectSite",
+    "metaDescription": null,
+    "h1": "Web Design Companies Australia",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Current primary provider sources",
+      "Disclosed commercial interest and selection method",
+      "No unsupported ranking scores"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Article"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 720,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/best/web-design-companies-australia/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/best/web-design-companies-melbourne/",
+    "pageType": "buyer-guide",
+    "primaryKeyword": "best web design companies melbourne",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Choosing Web Designers in Melbourne | DirectSite",
+    "metaTitle": "Choosing Web Designers in Melbourne | DirectSite",
+    "metaDescription": "Compare a researched shortlist by scope, evidence and buying model. A transparent DirectSite buyer guide with no invented rankings or ratings.",
+    "h1": "How to choose a Melbourne web design company",
+    "h2Structure": [
+      "How this shortlist was selected",
+      "VisualWeb: investigate a published package model",
+      "Chromatix: investigate its website project approach",
+      "Tradie Web Guys: investigate a trade-focused offer",
+      "DirectSite: investigate the working-demo offer",
+      "Use the same questions with every provider",
+      "Choose evidence over a league table"
+    ],
+    "questionsToAnswer": [
+      "Is this an independent ranking?",
+      "Have you verified competitor results?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Current primary provider sources",
+      "Disclosed commercial interest and selection method",
+      "No unsupported ranking scores"
+    ],
+    "internalLinksIn": [
+      "/best/"
+    ],
+    "internalLinksOut": [
+      "/locations/melbourne/",
+      "/guides/website-cost-australia/",
+      "/compare/wix-vs-custom-website/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Article"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "implemented_local",
+    "qualityScore": 92,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 4
+    },
+    "priorityScore": 1440,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": true,
+    "canonical": "https://directsite.com.au/best/web-design-companies-melbourne/",
+    "lastReviewed": "2026-09-12"
+  },
+  {
+    "url": "/best/web-design-for-tradies/",
+    "pageType": "buyer-guide",
+    "primaryKeyword": "best web design for tradies",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Web Design For Tradies | DirectSite",
+    "metaTitle": "Web Design For Tradies | DirectSite",
+    "metaDescription": null,
+    "h1": "Web Design For Tradies",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Current primary provider sources",
+      "Disclosed commercial interest and selection method",
+      "No unsupported ranking scores"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Article"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 720,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/best/web-design-for-tradies/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/best/plumber-website-designers/",
+    "pageType": "buyer-guide",
+    "primaryKeyword": "best plumber website designers",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [
+        "kw-082"
+      ],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Plumber Website Designers | DirectSite",
+    "metaTitle": "Plumber Website Designers | DirectSite",
+    "metaDescription": null,
+    "h1": "Plumber Website Designers",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Current primary provider sources",
+      "Disclosed commercial interest and selection method",
+      "No unsupported ranking scores"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Article"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 720,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/best/plumber-website-designers/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/best/builder-website-designers/",
+    "pageType": "buyer-guide",
+    "primaryKeyword": "best builder website designers",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Builder Website Designers | DirectSite",
+    "metaTitle": "Builder Website Designers | DirectSite",
+    "metaDescription": null,
+    "h1": "Builder Website Designers",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Current primary provider sources",
+      "Disclosed commercial interest and selection method",
+      "No unsupported ranking scores"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Article"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 720,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/best/builder-website-designers/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/best/roofer-website-designers/",
+    "pageType": "buyer-guide",
+    "primaryKeyword": "best roofer website designers",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "evaluation",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Roofer Website Designers | DirectSite",
+    "metaTitle": "Roofer Website Designers | DirectSite",
+    "metaDescription": null,
+    "h1": "Roofer Website Designers",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Current primary provider sources",
+      "Disclosed commercial interest and selection method",
+      "No unsupported ranking scores"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList",
+      "Article"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 5,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 720,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/best/roofer-website-designers/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/case-studies/",
+    "pageType": "hub",
+    "primaryKeyword": "case studies",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "planning",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Case Studies | DirectSite",
+    "metaTitle": "Case Studies | DirectSite",
+    "metaDescription": null,
+    "h1": "Case Studies",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 432,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/case-studies/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/pricing/",
+    "pageType": "company",
+    "primaryKeyword": "pricing",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "planning",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Pricing | DirectSite",
+    "metaTitle": "Pricing | DirectSite",
+    "metaDescription": null,
+    "h1": "Pricing",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 432,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/pricing/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/privacy/",
+    "pageType": "company",
+    "primaryKeyword": "privacy",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "planning",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Privacy | DirectSite",
+    "metaTitle": "Privacy | DirectSite",
+    "metaDescription": null,
+    "h1": "Privacy",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Verified legal/trading identity",
+      "Actual data handling, retention and processor arrangements",
+      "Actual payment, revision, scope and cancellation terms"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "business_facts_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 432,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/privacy/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/terms/",
+    "pageType": "company",
+    "primaryKeyword": "terms",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "planning",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Terms | DirectSite",
+    "metaTitle": "Terms | DirectSite",
+    "metaDescription": null,
+    "h1": "Terms",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Verified legal/trading identity",
+      "Actual data handling, retention and processor arrangements",
+      "Actual payment, revision, scope and cancellation terms"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "business_facts_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 432,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/terms/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/research/",
+    "pageType": "hub",
+    "primaryKeyword": "research",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "planning",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Research | DirectSite",
+    "metaTitle": "Research | DirectSite",
+    "metaDescription": null,
+    "h1": "Research",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 432,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/research/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/research/australian-small-business-website-benchmark-2026/",
+    "pageType": "research",
+    "primaryKeyword": "australian small business website benchmark 2026",
+    "secondaryKeywords": [],
+    "searchIntent": "informational",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "planning",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Australian Small Business Website Benchmark 2026 | DirectSite",
+    "metaTitle": "Australian Small Business Website Benchmark 2026 | DirectSite",
+    "metaDescription": null,
+    "h1": "Australian Small Business Website Benchmark 2026",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": true,
+    "proofRequired": [
+      "Real scope and brand-approved offer",
+      "Auditable original evidence and publication permission"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 432,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/research/australian-small-business-website-benchmark-2026/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/tools/website-score/",
+    "pageType": "tool",
+    "primaryKeyword": "website score",
+    "secondaryKeywords": [],
+    "searchIntent": "informational",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "planning",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Website Score | DirectSite",
+    "metaTitle": "Website Score | DirectSite",
+    "metaDescription": null,
+    "h1": "Website Score",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 432,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/tools/website-score/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/tools/website-redesign-checklist/",
+    "pageType": "tool",
+    "primaryKeyword": "website redesign checklist",
+    "secondaryKeywords": [],
+    "searchIntent": "informational",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "planning",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Website Redesign Checklist | DirectSite",
+    "metaTitle": "Website Redesign Checklist | DirectSite",
+    "metaDescription": null,
+    "h1": "Website Redesign Checklist",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 432,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/tools/website-redesign-checklist/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/tools/website-speed-check/",
+    "pageType": "tool",
+    "primaryKeyword": "website speed check",
+    "secondaryKeywords": [],
+    "searchIntent": "informational",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "planning",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Website Speed Check | DirectSite",
+    "metaTitle": "Website Speed Check | DirectSite",
+    "metaDescription": null,
+    "h1": "Website Speed Check",
+    "h2Structure": [
+      "Direct answer to the buyer task",
+      "Distinct requirements and examples",
+      "Evidence and source limitations",
+      "Scope and pricing considerations",
+      "Questions before choosing",
+      "See a working demo"
+    ],
+    "questionsToAnswer": [
+      "What exact job does this page help a customer complete?",
+      "What information makes it different from existing pages?",
+      "What must a buyer verify before committing?"
+    ],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/web-design/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "evidence_required",
+    "qualityScore": null,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 2
+    },
+    "priorityScore": 432,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": false,
+    "canonical": "https://directsite.com.au/tools/website-speed-check/",
+    "lastReviewed": null
+  },
+  {
+    "url": "/tools/website-roi-calculator/",
+    "pageType": "tool",
+    "primaryKeyword": "website roi calculator",
+    "secondaryKeywords": [],
+    "searchIntent": "informational",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "planning",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Website Enquiry Value Calculator | DirectSite",
+    "metaTitle": "Website Enquiry Value Calculator | DirectSite",
+    "metaDescription": "Model website enquiries and potential revenue using your own visitor, conversion, close-rate and customer-value assumptions. No promised results.",
+    "h1": "What could a better enquiry rate be worth?",
+    "h2Structure": [
+      "What the calculation means",
+      "What it leaves out"
+    ],
+    "questionsToAnswer": [],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [
+      "/guides/website-cost-australia/",
+      "/tools/"
+    ],
+    "internalLinksOut": [
+      "/guides/website-cost-australia/",
+      "/small-business-web-design/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "implemented_local",
+    "qualityScore": 49,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 4
+    },
+    "priorityScore": 864,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": true,
+    "canonical": "https://directsite.com.au/tools/website-roi-calculator/",
+    "lastReviewed": "2026-09-12"
+  },
+  {
+    "url": "/tools/website-cost-calculator/",
+    "pageType": "tool",
+    "primaryKeyword": "website cost calculator australia",
+    "secondaryKeywords": [],
+    "searchIntent": "informational",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "planning",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Website Budget Calculator | DirectSite",
+    "metaTitle": "Website Budget Calculator | DirectSite",
+    "metaDescription": "Estimate a planning range using editable hours and hourly rates. Include pages, content, ecommerce, booking, SEO and integrations. Not a quote.",
+    "h1": "Build a website budget from visible assumptions",
+    "h2Structure": [
+      "How this budget model works",
+      "Use the result to improve your brief"
+    ],
+    "questionsToAnswer": [],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [
+      "/tools/"
+    ],
+    "internalLinksOut": [
+      "/guides/website-cost-australia/",
+      "/web-design/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "implemented_local",
+    "qualityScore": 49,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 4
+    },
+    "priorityScore": 864,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": true,
+    "canonical": "https://directsite.com.au/tools/website-cost-calculator/",
+    "lastReviewed": "2026-09-12"
+  },
+  {
+    "url": "/tools/tradie-website-checklist/",
+    "pageType": "tool",
+    "primaryKeyword": "tradie website checklist",
+    "secondaryKeywords": [],
+    "searchIntent": "informational",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "planning",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Interactive Tradie Website Checklist | DirectSite",
+    "metaTitle": "Interactive Tradie Website Checklist | DirectSite",
+    "metaDescription": "Work through phone contact, real services, service areas, trust and form delivery. Save your progress on this device and print your checklist.",
+    "h1": "Check your tradie website like a customer",
+    "h2Structure": [
+      "Start with the enquiry journey",
+      "Check the evidence and the unfinished work"
+    ],
+    "questionsToAnswer": [],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [
+      "/industries/plumbers/",
+      "/industries/roofers/",
+      "/industries/tradies/",
+      "/website-redesign/",
+      "/guides/small-business-website-checklist/",
+      "/tools/"
+    ],
+    "internalLinksOut": [
+      "/industries/tradies/",
+      "/industries/plumbers/",
+      "/website-redesign/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "implemented_local",
+    "qualityScore": 48,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 4
+    },
+    "priorityScore": 864,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": true,
+    "canonical": "https://directsite.com.au/tools/tradie-website-checklist/",
+    "lastReviewed": "2026-09-12"
+  },
+  {
+    "url": "/about/",
+    "pageType": "company",
+    "primaryKeyword": "about directsite",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "planning",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "About DirectSite | Built Before You Buy",
+    "metaTitle": "About DirectSite | Built Before You Buy",
+    "metaDescription": "Learn how DirectSite\u2019s working-demo approach helps Australian businesses see their new website before paying for it.",
+    "h1": "Websites for Australian businesses. A clearer way to buy.",
+    "h2Structure": [
+      "What we focus on",
+      "How to assess us"
+    ],
+    "questionsToAnswer": [],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/process/",
+      "/contact/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "implemented_local",
+    "qualityScore": 48,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 4
+    },
+    "priorityScore": 864,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": true,
+    "canonical": "https://directsite.com.au/about/",
+    "lastReviewed": "2026-09-12"
+  },
+  {
+    "url": "/process/",
+    "pageType": "company",
+    "primaryKeyword": "directsite website process",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "planning",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "How the 48-Hour Website Demo Works | DirectSite",
+    "metaTitle": "How the 48-Hour Website Demo Works | DirectSite",
+    "metaDescription": "Send your brief, review a working demo within 48 hours, request free changes and decide whether to buy. No deposit and no obligation.",
+    "h1": "From business details to a working website",
+    "h2Structure": [
+      "Give us a useful starting point",
+      "Review, agree and launch"
+    ],
+    "questionsToAnswer": [],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [
+      "/guides/how-long-does-a-website-take/",
+      "/about/",
+      "/contact/"
+    ],
+    "internalLinksOut": [
+      "/contact/",
+      "/guides/how-long-does-a-website-take/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "implemented_local",
+    "qualityScore": 48,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 4
+    },
+    "priorityScore": 864,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": true,
+    "canonical": "https://directsite.com.au/process/",
+    "lastReviewed": "2026-09-12"
+  },
+  {
+    "url": "/contact/",
+    "pageType": "company",
+    "primaryKeyword": "contact directsite",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "planning",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Contact DirectSite | Free 48-Hour Demo",
+    "metaTitle": "Contact DirectSite | Free 48-Hour Demo",
+    "metaDescription": "Request a free working website demo or book a conversation with DirectSite. New websites and redesigns for Australian businesses.",
+    "h1": "Tell us what your website needs to do",
+    "h2Structure": [
+      "Request a working demo",
+      "What happens next"
+    ],
+    "questionsToAnswer": [],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [
+      "/about/",
+      "/process/"
+    ],
+    "internalLinksOut": [
+      "/process/",
+      "/web-design/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "implemented_local",
+    "qualityScore": 48,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 4
+    },
+    "priorityScore": 864,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": true,
+    "canonical": "https://directsite.com.au/contact/",
+    "lastReviewed": "2026-09-12"
+  },
+  {
+    "url": "/industries/",
+    "pageType": "hub",
+    "primaryKeyword": "website design by industry",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "planning",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Websites by Industry | DirectSite",
+    "metaTitle": "Websites by Industry | DirectSite",
+    "metaDescription": "Different jobs need different enquiries. A plumber may need an urgent call route, while a builder needs project detail and qualification. Use these guides ",
+    "h1": "Find a website approach that fits your work",
+    "h2Structure": [
+      "Follow the work, not a generic industry label",
+      "Bring trade-specific details to the demo"
+    ],
+    "questionsToAnswer": [],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [
+      "/small-business-web-design/"
+    ],
+    "internalLinksOut": [
+      "/industries/tradies/",
+      "/industries/plumbers/",
+      "/industries/electricians/",
+      "/industries/roofers/",
+      "/industries/builders/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "implemented_local",
+    "qualityScore": 48,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 4
+    },
+    "priorityScore": 864,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": true,
+    "canonical": "https://directsite.com.au/industries/",
+    "lastReviewed": "2026-09-12"
+  },
+  {
+    "url": "/locations/",
+    "pageType": "hub",
+    "primaryKeyword": "web design locations australia",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "planning",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Web Design Service Areas | DirectSite",
+    "metaTitle": "Web Design Service Areas | DirectSite",
+    "metaDescription": "DirectSite serves businesses across Australia through a remote process. The first detailed city guide covers Melbourne. Your website should explain your ow",
+    "h1": "A local website brief, delivered remotely",
+    "h2Structure": [
+      "Start with genuine coverage",
+      "Prepare the local information customers need"
+    ],
+    "questionsToAnswer": [],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/locations/melbourne/",
+      "/small-business-web-design/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "implemented_local",
+    "qualityScore": 48,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 4
+    },
+    "priorityScore": 864,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": true,
+    "canonical": "https://directsite.com.au/locations/",
+    "lastReviewed": "2026-09-12"
+  },
+  {
+    "url": "/guides/",
+    "pageType": "hub",
+    "primaryKeyword": "small business website guides",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "planning",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Website Buying Guides | DirectSite",
+    "metaTitle": "Website Buying Guides | DirectSite",
+    "metaDescription": "Use these guides to define scope, compare proposals and inspect a website before launch. They explain what to ask and what to test. Price illustrations are",
+    "h1": "Make a better website decision",
+    "h2Structure": [
+      "Choose the uncertainty you need to resolve",
+      "Keep a record of the answers"
+    ],
+    "questionsToAnswer": [],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/guides/website-cost-australia/",
+      "/guides/how-long-does-a-website-take/",
+      "/guides/small-business-website-checklist/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "implemented_local",
+    "qualityScore": 48,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 4
+    },
+    "priorityScore": 864,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": true,
+    "canonical": "https://directsite.com.au/guides/",
+    "lastReviewed": "2026-09-12"
+  },
+  {
+    "url": "/compare/",
+    "pageType": "hub",
+    "primaryKeyword": "website platform comparison",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "planning",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Website Platform Comparisons | DirectSite",
+    "metaTitle": "Website Platform Comparisons | DirectSite",
+    "metaDescription": "A platform label does not tell you whether a website will meet your requirements. Compare editing, content, integrations, maintenance and handover. These g",
+    "h1": "Compare the work, costs and responsibilities",
+    "h2Structure": [
+      "Compare the same requirements on both sides",
+      "Avoid automatic winners"
+    ],
+    "questionsToAnswer": [],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/compare/wix-vs-custom-website/",
+      "/compare/wordpress-vs-custom/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "implemented_local",
+    "qualityScore": 48,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 4
+    },
+    "priorityScore": 864,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": true,
+    "canonical": "https://directsite.com.au/compare/",
+    "lastReviewed": "2026-09-12"
+  },
+  {
+    "url": "/best/",
+    "pageType": "hub",
+    "primaryKeyword": "web design company buyer guides",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "planning",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Web Designer Buyer Guides | DirectSite",
+    "metaTitle": "Web Designer Buyer Guides | DirectSite",
+    "metaDescription": "Use a shortlist to investigate providers, not as a substitute for checking scope and terms. Our Melbourne guide describes its selection method and does not",
+    "h1": "Choose a provider using evidence",
+    "h2Structure": [
+      "Use the Melbourne shortlist as a starting point",
+      "Bring a consistent comparison brief"
+    ],
+    "questionsToAnswer": [],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/best/web-design-companies-melbourne/",
+      "/guides/website-cost-australia/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "implemented_local",
+    "qualityScore": 48,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 4
+    },
+    "priorityScore": 864,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": true,
+    "canonical": "https://directsite.com.au/best/",
+    "lastReviewed": "2026-09-12"
+  },
+  {
+    "url": "/tools/",
+    "pageType": "hub",
+    "primaryKeyword": "free website planning tools",
+    "secondaryKeywords": [],
+    "searchIntent": "commercial investigation",
+    "targetReader": "Australian small-business owner",
+    "buyerStage": "planning",
+    "serpObservations": {
+      "queryRecordIds": [],
+      "scope": "discovery_only_not_verified_google_rank"
+    },
+    "aiOverviewObservations": null,
+    "competitorWeaknesses": "Not proven; compare primary sources and identify a specific unanswered buyer question",
+    "title": "Free Website Planning Tools | DirectSite",
+    "metaTitle": "Free Website Planning Tools | DirectSite",
+    "metaDescription": "Use your own business assumptions to model costs and enquiry value, or check your website manually. These tools do not promise rankings or revenue. Calcula",
+    "h1": "Work out what your website needs",
+    "h2Structure": [
+      "Choose a budget model, value model or manual check",
+      "Treat outputs as a conversation aid"
+    ],
+    "questionsToAnswer": [],
+    "originalDataRequired": false,
+    "proofRequired": [
+      "Real scope and brand-approved offer"
+    ],
+    "internalLinksIn": [],
+    "internalLinksOut": [
+      "/tools/website-roi-calculator/",
+      "/tools/website-cost-calculator/",
+      "/tools/tradie-website-checklist/"
+    ],
+    "schema": [
+      "WebPage",
+      "BreadcrumbList"
+    ],
+    "cta": "Get Your Free 48-Hour Demo",
+    "conversionGoal": "accepted demo request or service enquiry; completed bookings tracked separately",
+    "status": "implemented_local",
+    "qualityScore": 48,
+    "opportunityScores": {
+      "commercialIntent": 3,
+      "searchOpportunity": 3,
+      "abilityToRank": 2,
+      "offerFit": 4,
+      "expectedCustomerValue": 3,
+      "superiorContentAbility": 4
+    },
+    "priorityScore": 864,
+    "scoreBasis": "editorial assumptions, not measured demand/difficulty/value",
+    "indexable": true,
+    "canonical": "https://directsite.com.au/tools/",
+    "lastReviewed": "2026-09-12"
+  }
+]
