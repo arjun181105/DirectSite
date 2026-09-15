@@ -2,16 +2,16 @@
   {
     "slug": "/industries/plumbers/",
     "pageType": "industry",
-    "title": "Web Design for Plumbers Australia | DirectSite",
-    "h1": "Websites for plumbers that turn searches into calls",
-    "description": "Get a plumbing website built around emergency calls, service areas and quote requests. See a real working demo in 48 hours before paying anything.",
+    "title": "Web Design & SEO for Plumbers | DirectSite",
+    "h1": "Good plumbing deserves a better pipeline.",
+    "description": "Websites, local SEO and follow-up for plumbers who want the right calls, clearer quotes and less chasing.",
     "primaryKeyword": "web design for plumbers",
     "secondaryKeywords": [
       "plumber website design",
       "plumbing website design",
       "websites for plumbers"
     ],
-    "answer": "A plumbing website should help a customer work out whether you handle their problem, cover their area and can be contacted now. Emergency callers need a visible phone button. Customers planning a hot-water replacement need service details and a clear quote process. DirectSite builds both journeys into a working demo you can review before paying.",
+    "answer": "Websites, local SEO and follow-up for plumbers who want the right calls, clearer quotes and less chasing.",
     "sections": [
       {
         "heading": "A burst pipe and a bathroom renovation need different paths",
@@ -34,6 +34,14 @@
         "body": "List the areas you genuinely cover. A dedicated area page needs useful differences, such as work examples, access considerations or service availability. Repeating the same plumbing paragraph with a different suburb name does not help a customer choose. Keep contact details consistent with your genuine business profiles, and link each service to relevant work and the quote route."
       },
       {
+        "heading": "Local SEO for the plumbing jobs you want",
+        "body": "We can improve technical SEO, organise blocked-drain and hot-water content, and align your Google Business Profile with your real business details. Each service page should answer the questions that matter before a call. We build useful service-area content where there is a real reason for it, rather than swapping suburb names into duplicate text. Local ranking depends on relevance, distance and prominence. Neither SEO nor clearer answers for AI search can guarantee a position or a number of calls."
+      },
+      {
+        "heading": "Paid search and follow-up that respect your capacity",
+        "body": "We can scope search ads for selected services and areas, with landing pages that match each campaign. Availability must match your actual roster. Lead routing, missed-call follow-up and quote reminders can help your team respond when it is practical, with human handling of urgent situations. We can also connect an agreed enquiry workflow to supported job-management tools. Software access, usage fees and advertising spend are confirmed separately. Measure qualified enquiries and booked work where possible, rather than treating every click-to-call as a completed job."
+      },
+      {
         "heading": "See your plumbing website before you pay",
         "body": "Send your existing URL or a few details about the work you want more of. DirectSite creates a real working demo within 48 hours. Review it on your own phone, request free changes and decide whether to proceed. Pricing is custom and agreed before payment. There is no deposit; if it is not right for you, walk away owing $0. Launch follows approval, within three days."
       }
@@ -50,21 +58,56 @@
       {
         "question": "Will the site guarantee more plumbing calls?",
         "answer": "No provider can promise a call volume from the website alone. Demand, visibility, reputation, pricing and response time all matter. We focus on making genuine enquiries easier."
+      },
+      {
+        "question": "Can I start with a website and add SEO or automation later?",
+        "answer": "Yes. The free demo lets you review the website first. Ongoing SEO, ads and supported integrations are separate scopes, agreed around your priorities and budget."
       }
     ],
     "related": [
-      "/industries/tradies/",
-      "/guides/website-cost-australia/",
+      "/industries/",
+      "/web-design/",
+      "/website-redesign/",
       "/tools/tradie-website-checklist/"
     ],
     "status": "reviewed",
     "indexable": true,
-    "lastReviewed": "2026-09-12",
+    "lastReviewed": "2026-09-16",
     "proofAvailable": false,
     "caseStudyAvailable": false,
     "originalDataAvailable": false,
-    "qualityEvidence": "Reviewed for distinct buyer task, specific recommendations, useful examples, truthful offer and contextual links. No portfolio or results claimed.",
-    "targetIndustry": "plumbers"
+    "qualityEvidence": "Reviewed against Google local business guidance and relevant trade workflow sources. Distinct service journeys, scoped offers and labelled illustrations; no client results or testimonials claimed.",
+    "targetIndustry": "Plumbing",
+    "trade": {
+      "label": "Plumbing",
+      "theme": "water",
+      "jobs": [
+        "Blocked drains",
+        "Hot water",
+        "Planned plumbing"
+      ],
+      "steps": [
+        "Problem & urgency",
+        "Suburb & contact",
+        "Call or quote"
+      ],
+      "headline": "Turn a local search into a clear next step.",
+      "intro": "A burst pipe and a bathroom renovation should never land in the same confusing enquiry journey."
+    },
+    "sources": [
+      {
+        "title": "Google — how local ranking works",
+        "url": "https://support.google.com/business/answer/7091?hl=en"
+      },
+      {
+        "title": "Google — service-area business guidelines",
+        "url": "https://support.google.com/business/answer/3038177?hl=en"
+      },
+      {
+        "title": "ServiceM8 — quote follow-up automation",
+        "url": "https://support.servicem8.com/help-center/servicem8-add-ons/automation/quote-follow-up-automation"
+      }
+    ]
   },
   {
     "slug": "/industries/electricians/",
@@ -1248,7 +1291,7 @@
     "pageType": "hub",
     "title": "Websites by Industry | DirectSite",
     "h1": "Find a website approach that fits your work",
-    "description": "Different jobs need different enquiries. A plumber may need an urgent call route, while a builder needs project detail and qualification. Use these guides ",
+    "description": "Explore websites and digital services for Australian trades, including epoxy flooring, plumbers and HVAC. Find a customer journey that fits your work.",
     "primaryKeyword": "website design by industry",
     "secondaryKeywords": [],
     "answer": "Different jobs need different enquiries. A plumber may need an urgent call route, while a builder needs project detail and qualification. Use these guides to decide what your website should explain and what information a potential customer should be able to provide.",
@@ -1266,6 +1309,7 @@
     "related": [
       "/industries/tradies/",
       "/industries/plumbers/",
+      "/industries/epoxy-flooring/",
       "/industries/electricians/",
       "/industries/roofers/",
       "/industries/builders/",
@@ -1275,7 +1319,7 @@
     ],
     "status": "reviewed",
     "indexable": true,
-    "lastReviewed": "2026-09-12",
+    "lastReviewed": "2026-09-16",
     "proofAvailable": false,
     "caseStudyAvailable": false,
     "originalDataAvailable": false,
@@ -1586,12 +1630,12 @@
   {
     "slug": "/industries/hvac/",
     "pageType": "industry",
-    "title": "Web Design for HVAC Australia | DirectSite",
-    "h1": "Air conditioning websites built for installation and service enquiries",
-    "description": "Help customers distinguish air conditioning installation, repairs and maintenance. Review a real HVAC website demo before paying DirectSite.",
+    "title": "HVAC Web Design & SEO Australia | DirectSite",
+    "h1": "Make your next season a stronger one.",
+    "description": "Websites, SEO and enquiry workflows for air conditioning businesses. Connect installation demand, repair calls and ongoing maintenance.",
     "primaryKeyword": "web design for HVAC",
     "secondaryKeywords": [],
-    "answer": "An air conditioning website should distinguish a new installation from a fault, replacement or maintenance request. Each customer needs a clear service area, a reliable contact route and the right expectations about assessment and availability. DirectSite builds those paths into a working demo within 48 hours so you can review how your website qualifies enquiries before paying.",
+    "answer": "Websites, SEO and enquiry workflows for air conditioning businesses. Connect installation demand, repair calls and ongoing maintenance.",
     "sections": [
       {
         "heading": "Route a fault differently from a new installation",
@@ -1614,6 +1658,14 @@
         "body": "A maintenance customer may already know the installed equipment and want to discuss servicing arrangements. A commercial site may require an assessment, access coordination and a scope agreed with the facilities contact. Give those buyers a route that asks about the actual premises and desired service. Publish licence, accreditation and warranty information only when it accurately applies to the work offered. Distinguish your workmanship terms from manufacturer arrangements and direct the customer to the relevant written details before commitment."
       },
       {
+        "heading": "SEO and seasonal campaigns for distinct services",
+        "body": "We can structure technical SEO and content around the installation, replacement, repair and maintenance work you offer. A split-system installation page should help a different customer from a commercial maintenance page. Your Google Business Profile should accurately reflect the business and its service area. Search campaigns can focus on the services you have capacity to deliver, with budgets and landing pages reviewed ahead of seasonal demand. We measure qualified enquiries where tracking is available; search positions, lead volume and campaign returns are not guaranteed."
+      },
+      {
+        "heading": "Keep maintenance relationships active",
+        "body": "We can scope service reminders, quote follow-ups and enquiry routing around your current job-management software. ServiceM8, for example, supports recurring jobs and reminders when its relevant add-on is enabled. Your team decides the appropriate service interval and confirms appointments; the website does not invent a maintenance schedule. For commercial work, a form can collect the site contact, equipment overview and access requirements. Integration work, provider subscriptions and message costs are quoted separately. AI can assist with enquiry summaries, while equipment advice and final assessment remain with your technicians."
+      },
+      {
         "heading": "Test the enquiry journey before buying the website",
         "body": "Tell DirectSite which installation, repair and maintenance jobs you want the website to generate. Review a real working demo within 48 hours, try the routes on a phone and request free changes before payment. The website price is agreed for your scope before you decide, with no deposit required. If the demo is not right for you, walk away owing $0. Once approved and the required access is supplied, the site launches within three days."
       }
@@ -1630,27 +1682,166 @@
       {
         "question": "Should every brand have its own landing page?",
         "answer": "Only when you genuinely service it and can provide distinct useful information. Do not create separate pages that repeat the same claims with a different manufacturer name."
+      },
+      {
+        "question": "Can I start with a website and add SEO or automation later?",
+        "answer": "Yes. The free demo lets you review the website first. Ongoing SEO, ads and supported integrations are separate scopes, agreed around your priorities and budget."
       }
     ],
     "sources": [
       {
-        "title": "ActiveRAC — installation and repairs service example",
-        "url": "https://www.activerac.com.au/air-conditioning/"
+        "title": "Google — how local ranking works",
+        "url": "https://support.google.com/business/answer/7091?hl=en"
+      },
+      {
+        "title": "Google — service-area business guidelines",
+        "url": "https://support.google.com/business/answer/3038177?hl=en"
+      },
+      {
+        "title": "ServiceM8 — quote follow-up automation",
+        "url": "https://support.servicem8.com/help-center/servicem8-add-ons/automation/quote-follow-up-automation"
+      },
+      {
+        "title": "ServiceM8 — recurring jobs and reminders",
+        "url": "https://support.servicem8.com/help-center/servicem8-add-ons/recurring-jobs-reminders/recurring-jobs-reminders-add-on-overview"
       }
     ],
     "related": [
       "/industries/",
-      "/guides/website-cost-australia/",
-      "/website-redesign/"
+      "/web-design/",
+      "/website-redesign/",
+      "/tools/tradie-website-checklist/"
     ],
-    "targetIndustry": "HVAC",
+    "targetIndustry": "HVAC & air conditioning",
     "targetLocation": "Australia",
     "proofAvailable": false,
     "caseStudyAvailable": false,
     "originalDataAvailable": false,
     "indexable": true,
     "status": "reviewed",
-    "lastReviewed": "2026-09-12",
-    "qualityEvidence": "Distinct service qualification and enquiry journey; no client proof claimed. Primary operator pages used as service-category examples, not endorsement or performance evidence."
+    "lastReviewed": "2026-09-16",
+    "qualityEvidence": "Reviewed against Google local business guidance and relevant trade workflow sources. Distinct service journeys, scoped offers and labelled illustrations; no client results or testimonials claimed.",
+    "trade": {
+      "label": "HVAC & air conditioning",
+      "theme": "air",
+      "jobs": [
+        "Installation",
+        "Repairs",
+        "Maintenance"
+      ],
+      "steps": [
+        "Service needed",
+        "System & property",
+        "Assessment request"
+      ],
+      "headline": "Built for the full life of a system.",
+      "intro": "Help someone choose their next step, whether they need a new installation, a repair or a planned service."
+    }
+  },
+  {
+    "slug": "/industries/epoxy-flooring/",
+    "pageType": "industry",
+    "title": "Epoxy Flooring Web Design & SEO | DirectSite",
+    "h1": "Your floors make an impression. Your website should too.",
+    "description": "Websites and SEO for epoxy flooring contractors. Show the finish, explain the process and turn interest into a useful project enquiry.",
+    "primaryKeyword": "epoxy flooring web design",
+    "secondaryKeywords": [
+      "plumber website design",
+      "plumbing website design",
+      "websites for plumbers"
+    ],
+    "answer": "Websites and SEO for epoxy flooring contractors. Show the finish, explain the process and turn interest into a useful project enquiry.",
+    "sections": [
+      {
+        "heading": "A website that sells the finish and explains the job",
+        "body": "A homeowner comparing garage coatings needs to picture the result. A workshop owner may care more about the intended use, access and disruption. We build clear routes for the work you actually offer, with finish galleries, residential and commercial service pages, and a visible request-a-quote action. Use your own approved project photographs when they are available. Label samples as samples and explain that colour and texture can look different on a screen. A considered layout gives your work room to stand out without hiding the practical details."
+      },
+      {
+        "heading": "Epoxy flooring SEO built around real buying decisions",
+        "body": "We can structure pages around garage epoxy flooring, commercial resin flooring, concrete preparation and coating removal when these are genuine services. Each page should answer a different buyer question: what the service is for, how assessment works and what changes the scope. Local SEO starts with a correct Google Business Profile, accurate service coverage and useful links between services and locations. We avoid repetitive suburb pages. Search visibility depends on relevance, distance and prominence, and rankings cannot be guaranteed. Clear answers also make your expertise easier for search and AI answer systems to interpret."
+      },
+      {
+        "heading": "Get a better brief before the site visit",
+        "body": "A flooring quote enquiry can ask for the suburb, residential or commercial use, approximate floor area, current surface, preferred finish and desired timing. Photos can be an optional part of the agreed build. Let customers say they are unsure, especially about existing coatings or substrate condition. Explain that preparation and site conditions influence the final quote. Manufacturer guidance highlights substrate moisture and environmental checks; an enquiry form cannot replace your professional assessment. Your team sets installation advice, suitability, curing expectations and the final specification."
+      },
+      {
+        "heading": "Advertising that lands on the right floor",
+        "body": "A garage-floor campaign should lead to a garage-floor page, while a commercial campaign should explain the relevant applications and assessment process. We can build landing pages, configure search campaigns and help develop visual social ads using your approved material. Start with a defined service area and the jobs worth pursuing. Track enquiries through to qualified quotes and won work where the agreed tools support it. Clicks and form submissions alone do not tell you whether a campaign is profitable. Advertising spend is separate from the website and management scope."
+      },
+      {
+        "heading": "Keep the quote moving after the first enquiry",
+        "body": "We can scope enquiry routing, acknowledgement messages, site-visit reminders and quote follow-ups around your existing workflow. A customer choosing a finish may need a different follow-up from someone waiting for a commercial site assessment. The objective is a useful next step and a clear owner for each enquiry. Integrations depend on the software, account permissions and available features. Any AI assistance can summarise project details for your team; final coating recommendations and pricing stay with the people responsible for the work."
+      },
+      {
+        "heading": "Start with the website, add what your business needs",
+        "body": "Send your current URL, your service area and the flooring work you want more of. DirectSite builds a working website demo within 48 hours so you can review the direction before paying. Request changes and agree a custom price before committing. SEO, advertising, content and automation can be scoped separately, with priorities based on your enquiry process and capacity. There is no need to buy everything at once. The first step is a useful, credible website and a clear path from a visitor to your team."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can you build a site specifically for epoxy garage flooring?",
+        "answer": "Yes. We can focus the design, finish selection content and quote journey on garages, with separate commercial or other flooring services when you offer them."
+      },
+      {
+        "question": "Can customers upload photos and give an approximate floor size?",
+        "answer": "Yes, these can be included in the agreed scope. Estimates and photos help prepare an assessment; they do not determine a final installation price or substrate suitability."
+      },
+      {
+        "question": "Do you offer epoxy flooring SEO as well as web design?",
+        "answer": "Yes. We can scope technical SEO, service content and Google Business Profile improvements. Ongoing SEO is agreed separately and does not come with a ranking guarantee."
+      },
+      {
+        "question": "Can you show flooring projects if I do not have photos yet?",
+        "answer": "We can use clearly labelled finish illustrations or samples in the demo. We will not invent completed jobs, customer reviews or project results for your business."
+      }
+    ],
+    "related": [
+      "/industries/",
+      "/web-design/",
+      "/website-redesign/",
+      "/tools/tradie-website-checklist/"
+    ],
+    "status": "reviewed",
+    "indexable": true,
+    "lastReviewed": "2026-09-16",
+    "proofAvailable": false,
+    "caseStudyAvailable": false,
+    "originalDataAvailable": false,
+    "qualityEvidence": "Reviewed against Google local business guidance and relevant trade workflow sources. Distinct service journeys, scoped offers and labelled illustrations; no client results or testimonials claimed.",
+    "targetIndustry": "Epoxy flooring",
+    "trade": {
+      "label": "Epoxy flooring",
+      "theme": "floor",
+      "jobs": [
+        "Garage floors",
+        "Commercial spaces",
+        "Concrete coatings"
+      ],
+      "steps": [
+        "Space & approximate area",
+        "Finish & existing surface",
+        "Site assessment"
+      ],
+      "headline": "Let the finish start the conversation.",
+      "intro": "Give customers a clear route from inspiration to a properly scoped flooring quote."
+    },
+    "sources": [
+      {
+        "title": "Google — how local ranking works",
+        "url": "https://support.google.com/business/answer/7091?hl=en"
+      },
+      {
+        "title": "Google — service-area business guidelines",
+        "url": "https://support.google.com/business/answer/3038177?hl=en"
+      },
+      {
+        "title": "ServiceM8 — quote follow-up automation",
+        "url": "https://support.servicem8.com/help-center/servicem8-add-ons/automation/quote-follow-up-automation"
+      },
+      {
+        "title": "Sika Australia — substrate and application checks",
+        "url": "https://aus.sika.com/en/construction/flooring/resin-flooring/epoxy-flooring-productssystems/epoxy-flooring-products/sikafloor-160.html"
+      }
+    ]
   }
 ]

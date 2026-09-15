@@ -154,6 +154,9 @@ def process_panel():
     return '<aside class="growth-promise" aria-label="How your free demo works"><p class="growth-kicker">See it before you commit</p><h2>Your business.<br>Your working demo.</h2><ol><li><strong>Tell us what you need</strong><span>Send your current site or a short business brief.</span></li><li><strong>Review it within 48 hours</strong><span>Click through a real demo and request free changes.</span></li><li><strong>Decide when you have seen it</strong><span>Agree the price before payment. No deposit.</span></li></ol><a href="/process/">See the full process →</a></aside>'
 
 def render(p,production,modal,modal_css):
+    if p.get("trade"):
+        from trade_layout import render_trade
+        return render_trade(p,meta,production,modal,modal_css,cta,footer,links,SITE["schedule"])
     parent='/'+'/'.join(p['slug'].strip('/').split('/')[:-1])+'/'
     crumb='<a href="/">Home</a> / '+(f'<a href="{parent}">{H(BY_SLUG[parent]["title"].split(" | ")[0])}</a> / ' if parent in BY_SLUG else '')+H(p['title'].split(' | ')[0])
     sections=''.join('<section class="growth-section" id="section-'+str(i)+'"><h2>'+H(s['heading'])+'</h2><p>'+H(s['body'])+'</p></section>'+ (cta('after_problem') if i==1 and p['pageType'] in {'service','industry','location'} else '') for i,s in enumerate(p['sections']))
