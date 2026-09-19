@@ -1,0 +1,7 @@
+# Navigation and trade-page refinement — 20 September 2026
+
+Added one shared navigation component to all 33 routes. On narrow screens it uses an accessible hamburger disclosure; on larger screens it shows direct links and an Industries disclosure. The Industries menu contains direct links to Epoxy flooring, Plumbers, HVAC, Tradies and the full industry hub. All destinations remain native links and visible without JavaScript.
+
+Simplified the Epoxy flooring, Plumbers and HVAC pages to match the homepage's cream background, large editorial heading and restrained section treatment. The prominent illustration cards and extra promotional band were removed. The revised sequence is hero, featured services, three key recommendations, optional supporting detail, one main CTA and FAQs. Research and detailed recommendations remain available without overwhelming the initial scan.
+
+Validation: production build, route/metadata/link/schema/sitemap checks across 33 routes, 13 Python tests and the existing JavaScript form, calculator, event and analytics suites passed. Chrome checks covered desktop and mobile layouts, keyboard opening of the Industries disclosure, navigation to Flooring, Escape close with focus return, and both sides of the 860px breakpoint. No horizontal overflow was measured at 850px or 900px. Local simulated-mobile Lighthouse scored 97/100/100 for the homepage and 99/100/100 for Flooring (performance/accessibility/SEO), with CLS 0 for both. These are local lab observations, not production field data.

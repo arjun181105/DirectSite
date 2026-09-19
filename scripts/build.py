@@ -56,6 +56,16 @@ def links(slugs):
 def footer():
     return '<footer class="growth-footer"><div class="growth-wrap"><p>DirectSite · Websites for Australian businesses.</p><nav class="growth-links" aria-label="Company">'+links(['/about/','/contact/','/process/','/guides/','/tools/'])+'</nav><p class="growth-note">© 2026 DirectSite · Australia-wide remote service</p></div></footer>'
 
+def site_nav(wrapped=False):
+    inner=f'''<a class="site-brand" href="/">DirectSite</a>
+<button class="site-menu-toggle" type="button" aria-expanded="false" aria-controls="site-menu"><span aria-hidden="true"></span><span aria-hidden="true"></span><span aria-hidden="true"></span><span class="site-menu-label">Menu</span></button>
+<div class="site-menu" id="site-menu">
+  <a href="/web-design/">Web design</a><a href="/services/">Services</a>
+  <details class="site-industries"><summary>Industries</summary><div class="site-industry-links"><a href="/industries/">All industries</a><a href="/industries/epoxy-flooring/">Epoxy flooring</a><a href="/industries/plumbers/">Plumbers</a><a href="/industries/hvac/">HVAC</a><a href="/industries/tradies/">Tradies</a></div></details>
+  <a class="site-nav-cta" href="{SITE['schedule']}" data-book data-placement="nav">Get a free demo →</a>
+</div>'''
+    return '<nav class="top site-nav" aria-label="Main"><div class="wrap">'+inner+'</div></nav>' if wrapped else '<nav class="growth-nav site-nav" aria-label="Main">'+inner+'</nav>'
+
 def label_forms(s):
     count=0
     def patch(m):
@@ -119,9 +129,10 @@ def enhance_baseline(s,p,production):
     s=re.sub(r'<title>.*?</title>','',s,flags=re.S)
     s=re.sub(r'<meta (?:name="(?:description|robots|keywords|twitter:[^"]+)"|property="og:[^"]+")[^>]*>','',s)
     s=re.sub(r'<link rel="canonical"[^>]*>','',s)
-    s=s.replace('</head>',meta(p,production)+'<link rel="preload" href="/instrument-serif-normal.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="/instrument-serif-italic.woff2" as="font" type="font/woff2" crossorigin><link rel="stylesheet" href="/fonts.css"><link rel="stylesheet" href="/growth.css">\n<script src="/events.js" defer></script></head>')
+    s=s.replace('</head>',meta(p,production)+'<script>document.documentElement.classList.add("site-nav-ready")</script><link rel="preload" href="/instrument-serif-normal.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="/instrument-serif-italic.woff2" as="font" type="font/woff2" crossorigin><link rel="stylesheet" href="/fonts.css"><link rel="stylesheet" href="/growth.css">\n<script src="/events.js" defer></script><script src="/site-nav.js" defer></script></head>')
     s=s.replace('<body>','<body><a class="skip-link" href="#main-content">Skip to content</a>')
     s=s.replace('<main>','<main id="main-content">')
+    s=re.sub(r'<nav class="top">.*?</nav>',site_nav(True),s,count=1,flags=re.S)
     s=s.replace('href="/services"','href="/services/"')
     s=s.replace('<footer>',extra_home_links()+'<footer>',1)
     s=s.replace('</footer>','<nav class="growth-home-links growth-links" aria-label="Company">'+links(['/about/','/contact/','/process/'])+'</nav></footer>')
@@ -156,7 +167,7 @@ def process_panel():
 def render(p,production,modal,modal_css):
     if p.get("trade"):
         from trade_layout import render_trade
-        return render_trade(p,meta,production,modal,modal_css,cta,footer,links,SITE["schedule"])
+        return render_trade(p,meta,production,modal,modal_css,cta,footer,links,site_nav)
     parent='/'+'/'.join(p['slug'].strip('/').split('/')[:-1])+'/'
     crumb='<a href="/">Home</a> / '+(f'<a href="{parent}">{H(BY_SLUG[parent]["title"].split(" | ")[0])}</a> / ' if parent in BY_SLUG else '')+H(p['title'].split(' | ')[0])
     sections=''.join('<section class="growth-section" id="section-'+str(i)+'"><h2>'+H(s['heading'])+'</h2><p>'+H(s['body'])+'</p></section>'+ (cta('after_problem') if i==1 and p['pageType'] in {'service','industry','location'} else '') for i,s in enumerate(p['sections']))
@@ -175,8 +186,8 @@ def render(p,production,modal,modal_css):
     bodyclass='growth-page growth-'+p['pageType']
 
     tool_top=tool_html(p) if p['pageType']=='tool' else ''
-    return f'''<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#e9dcc0">{meta(p,production)}<link rel="icon" href="/favicon.svg">{modal_css}<link rel="stylesheet" href="/fonts.css"><link rel="stylesheet" href="/growth.css"><script src="/events.js" defer></script></head>
-<body class="{bodyclass}"><a class="skip-link" href="#main-content">Skip to content</a><header class="growth-wrap"><nav class="growth-nav" aria-label="Main"><a href="/">DirectSite</a><a href="/web-design/">Web design</a><a href="/industries/">Industries</a><a href="/locations/">Locations</a><a href="/guides/">Guides</a><a class="growth-nav-cta" href="{SITE['schedule']}" data-book data-placement="nav">Get a free demo →</a></nav></header>
+    return f'''<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#e9dcc0">{meta(p,production)}<script>document.documentElement.classList.add("site-nav-ready")</script><link rel="icon" href="/favicon.svg">{modal_css}<link rel="stylesheet" href="/fonts.css"><link rel="stylesheet" href="/growth.css"><script src="/events.js" defer></script><script src="/site-nav.js" defer></script></head>
+<body class="{bodyclass}"><a class="skip-link" href="#main-content">Skip to content</a><header class="growth-wrap">{site_nav()}</header>
 <main class="growth-wrap" id="main-content"><nav class="growth-breadcrumb" aria-label="Breadcrumb">{crumb}</nav><header class="growth-hero{' growth-hero-split' if commercial else ''}"><div><p class="growth-kicker">DirectSite · Built before you buy</p><h1>{H(p['h1'])}</h1>{tool_top}<p class="growth-answer">{H(p['answer'])}</p>{herocta}{review}</div>{panel}</header>
 <div class="growth-layout"><article>{disclosure}{hub}{table}{sections}{faqs}{sources}<section class="growth-end"><h2>See your website before you pay.</h2><p>A real working demo within 48 hours. Review it, request changes and decide.</p>{cta('bottom')}</section></article><aside class="growth-sidebar" aria-label="Related pages">{contents}<h2>Keep exploring</h2>{links(p['related'])}<a class="growth-sidebar-call" href="{SITE['schedule']}" data-cta>Book a free call →</a></aside></div></main>{footer()}{modal}<script src="/demo-form.js" defer></script><script src="/form-accessibility.js" defer></script></body></html>'''
 
