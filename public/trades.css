@@ -16,10 +16,10 @@
 .trade-offer p{font-size:11px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:#66513c;margin:0 0 24px}
 .trade-offer h3{font-family:'Instrument Serif',Georgia,serif;font-size:27px;font-weight:400;line-height:1.2;margin:0}
 .trade-details{padding:14px 0 32px}
-.trade-detail{display:grid;grid-template-columns:70px minmax(0,720px);gap:34px;padding:44px 0;border-bottom:1px solid #c8b18d}
-.trade-number{font-family:'Instrument Serif',Georgia,serif;font-style:italic;font-size:25px;color:#765f40;margin:4px 0 0}
-.trade-detail h2{font-size:35px;margin:0 0 16px}
-.trade-detail div>p{line-height:1.8;margin:0;color:#514230}
+.trade-detail{display:grid;grid-template-columns:52px minmax(0,650px);gap:28px;padding:32px 0;border-bottom:1px solid #c8b18d}
+.trade-number{font-family:'Instrument Serif',Georgia,serif;font-style:italic;font-size:20px;color:#765f40;margin:3px 0 0}
+.trade-detail h2{font-size:29px;margin:0 0 11px}
+.trade-detail div>p{font-size:15px;line-height:1.68;margin:0;color:#514230}
 .trade-more{margin:10px 0 72px;border-top:1px solid #bb9f76;border-bottom:1px solid #bb9f76}
 .trade-more>summary{cursor:pointer;font-weight:750;padding:22px 42px 22px 0;position:relative;list-style:none}
 .trade-more>summary::-webkit-details-marker{display:none}
@@ -52,7 +52,7 @@
   .trade-section-head,.trade-start,.trade-faq{grid-template-columns:1fr;gap:20px}
   .trade-services{padding:54px 0}.trade-section-head{margin-bottom:26px}
   .trade-offers{grid-template-columns:1fr}.trade-offer{border-right:0;border-bottom:1px solid #bb9f76;padding:24px 0}.trade-offer:last-child{border-bottom:0}
-  .trade-detail{grid-template-columns:38px minmax(0,1fr);gap:16px;padding:32px 0}.trade-detail h2{font-size:30px}.trade-detail div>p{font-size:15px}
+  .trade-detail{grid-template-columns:30px minmax(0,1fr);gap:13px;padding:27px 0}.trade-number{font-size:17px}.trade-detail h2{font-size:25px}.trade-detail div>p{font-size:14px;line-height:1.65}
   .trade-more{margin-bottom:52px}.trade-more>div{grid-template-columns:1fr;gap:24px}
   .trade-start{padding:34px 28px;margin-bottom:56px}.trade-start h2{font-size:38px}.trade-start>div:last-child{text-align:left}
   .trade-faq{padding-bottom:42px}.trade-related{align-items:flex-start;flex-direction:column}.trade-related h2{margin-bottom:6px}

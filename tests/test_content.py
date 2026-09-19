@@ -11,7 +11,10 @@ class ContentTests(unittest.TestCase):
     def test_research_requires_real_proof(self):
         p=copy.deepcopy(self.pages[0]);p['pageType']='research';self.assertFalse(quality(p)['passed'])
     def test_duplicate_paragraph_rejected(self):
-        p=copy.deepcopy(self.pages);p[1]['sections'][0]=p[0]['sections'][0]
+        p=copy.deepcopy(self.pages)
+        source=next(section for page in p for section in page['sections'] if len(section['body'].split())>55)
+        target=next(page for page in p if source not in page['sections'])
+        target['sections'][0]=copy.deepcopy(source)
         with self.assertRaises(ValueError):check_collection(p)
     def test_missing_local_evidence_rejected(self):
         p=copy.deepcopy(next(x for x in self.pages if x['pageType']=='location'));p['sources']=[];self.assertFalse(quality(p)['passed'])
